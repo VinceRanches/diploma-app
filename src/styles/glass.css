@@ -1,0 +1,172 @@
+/*
+ * Liquid Glass recipe.
+ * .glass   — real backdrop blur; reserved for the floating controls layer (bars, sheets, hero).
+ * .surface — translucent content cards without blur: over the soft aurora backdrop they read as
+ *            glass while staying cheap to scroll on mid-range Android GPUs.
+ * Both share the specular rim drawn by ::after (a masked 1px gradient ring).
+ */
+
+.glass,
+.surface {
+  position: relative;
+  isolation: isolate;
+}
+
+.glass {
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: blur(22px) saturate(180%);
+  backdrop-filter: blur(22px) saturate(180%);
+  box-shadow:
+    var(--glass-shadow),
+    inset 0 1px 0 0 var(--glass-highlight),
+    inset 0 0 0 0.5px var(--glass-edge);
+}
+
+.glass--strong {
+  background: var(--glass-fill-strong);
+}
+
+.surface {
+  background: var(--surface-fill);
+  box-shadow:
+    var(--surface-shadow),
+    inset 0 1px 0 0 var(--glass-highlight),
+    inset 0 0 0 0.5px var(--glass-edge);
+}
+
+.glass::after,
+.surface::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  padding: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(150deg, var(--rim-a) 0%, transparent 36%, transparent 64%, var(--rim-b) 100%);
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+/* Tinted glass: colour shows through the material instead of sitting on top of it. */
+.glass--tint {
+  color: #fff;
+  background:
+    radial-gradient(120% 90% at 0% 0%, rgba(255, 255, 255, 0.28), transparent 60%),
+    linear-gradient(150deg, color-mix(in srgb, var(--tint, var(--c-blue)) 92%, #fff), color-mix(in srgb, var(--tint, var(--c-blue)) 82%, #000));
+  box-shadow:
+    0 16px 36px color-mix(in srgb, var(--tint, var(--c-blue)) 34%, transparent),
+    inset 0 1px 0 rgba(255, 255, 255, 0.45),
+    inset 0 0 0 0.5px rgba(0, 0, 0, 0.12);
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 52px;
+  padding: 0 22px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-headline);
+  font-weight: 650;
+  white-space: nowrap;
+  transition:
+    transform 160ms var(--ease-out-expo),
+    opacity 160ms ease,
+    filter 160ms ease;
+}
+
+.btn:active {
+  transform: scale(0.965);
+}
+
+.btn:disabled {
+  opacity: 0.38;
+  pointer-events: none;
+}
+
+.btn--block {
+  width: 100%;
+}
+
+.btn--primary {
+  color: #fff;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--tint, var(--c-blue)) 86%, #fff), var(--tint, var(--c-blue)));
+  box-shadow:
+    0 10px 24px color-mix(in srgb, var(--tint, var(--c-blue)) 32%, transparent),
+    inset 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+.btn--on-tint {
+  color: var(--tint, var(--c-blue));
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow:
+    0 6px 16px rgba(0, 0, 0, 0.12),
+    inset 0 1px 0 #fff;
+}
+
+.btn--glass {
+  color: var(--c-blue);
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: blur(16px) saturate(170%);
+  backdrop-filter: blur(16px) saturate(170%);
+  box-shadow:
+    inset 0 1px 0 var(--glass-highlight),
+    inset 0 0 0 0.5px var(--glass-edge),
+    0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.btn--danger {
+  color: var(--c-red);
+}
+
+.nav-circle {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  color: var(--c-label);
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: blur(16px) saturate(170%);
+  backdrop-filter: blur(16px) saturate(170%);
+  box-shadow:
+    inset 0 1px 0 var(--glass-highlight),
+    inset 0 0 0 0.5px var(--glass-edge),
+    0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 160ms var(--ease-out-expo);
+}
+
+.nav-circle:active {
+  transform: scale(0.9);
+}
+
+/* ---------- Accessibility fallbacks ---------- */
+
+@media (prefers-reduced-transparency: reduce) {
+  .glass,
+  .btn--glass,
+  .nav-circle {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    background: var(--c-surface);
+  }
+
+  .surface {
+    background: var(--c-surface);
+  }
+}
+
+@media (prefers-contrast: more) {
+  :root {
+    --glass-edge: var(--c-label-3);
+    --rim-a: transparent;
+    --rim-b: transparent;
+  }
+}

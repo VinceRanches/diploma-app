@@ -1,0 +1,443 @@
+/* ---------- Generic pieces ---------- */
+
+.icon-tile {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 13px;
+  color: #fff;
+  background: linear-gradient(160deg, color-mix(in srgb, var(--tint) 78%, #fff), var(--tint));
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.4),
+    0 4px 12px color-mix(in srgb, var(--tint) 28%, transparent);
+}
+
+.icon-tile--lg {
+  width: 52px;
+  height: 52px;
+  border-radius: 16px;
+}
+
+.glyph {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 15px;
+  background: var(--c-fill);
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-footnote);
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-label-2);
+  background: var(--c-fill);
+}
+
+.pill--good {
+  color: var(--c-green);
+  background: color-mix(in srgb, var(--c-green) 16%, transparent);
+}
+
+.pill--mid {
+  color: var(--c-orange);
+  background: color-mix(in srgb, var(--c-orange) 16%, transparent);
+}
+
+.pill--low {
+  color: var(--c-red);
+  background: color-mix(in srgb, var(--c-red) 14%, transparent);
+}
+
+.bar {
+  height: 6px;
+  overflow: hidden;
+  border-radius: var(--radius-pill);
+  background: var(--c-fill);
+}
+
+.bar__fill {
+  height: 100%;
+  border-radius: inherit;
+  transform-origin: left center;
+  transition: transform 500ms var(--ease-out-expo);
+}
+
+.ring {
+  position: relative;
+  flex: none;
+}
+
+.ring__value {
+  transition: stroke-dashoffset 900ms var(--ease-out-expo);
+}
+
+.ring__label {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  width: 100%;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 10px 6px;
+  border-radius: 16px;
+  background: var(--c-fill);
+}
+
+.stat__value {
+  font-size: var(--text-title3);
+  font-weight: 720;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+.stat__label {
+  font-size: var(--text-caption);
+  color: var(--c-label-2);
+}
+
+.code-chip {
+  display: inline-flex;
+  align-self: flex-start;
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-caption);
+  font-weight: 720;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-label-2);
+  background: var(--c-fill);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  padding: 6px 12px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-footnote);
+  font-weight: 650;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: inset 0 0 0 0.5px rgba(255, 255, 255, 0.35);
+}
+
+.verdict {
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-footnote);
+  font-weight: 720;
+}
+
+.verdict--pass {
+  color: var(--c-green);
+  background: color-mix(in srgb, var(--c-green) 16%, transparent);
+}
+
+.verdict--fail {
+  color: var(--c-red);
+  background: color-mix(in srgb, var(--c-red) 14%, transparent);
+}
+
+.verdict--lg {
+  padding: 8px 16px;
+  font-size: var(--text-subhead);
+  text-align: center;
+}
+
+/* ---------- Sign plates ---------- */
+
+/*
+ * The card's own ratio sets its size; the picture is taken out of the flow and scaled to fit inside it.
+ * An in-flow picture would not work: a box with `aspect-ratio` never shrinks below its content, and
+ * `height: 100%` has no definite height to resolve against, so a tall picture stretched the card past
+ * its ratio and out of fixed-width cards.
+ */
+.sign-plate {
+  --plate-pad: 13%;
+  position: relative;
+  display: block;
+  aspect-ratio: 1;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 18px;
+  background: var(--sign-plate);
+  box-shadow: inset 0 0 0 0.5px var(--sign-plate-edge);
+}
+
+/* Book pictures are shown as printed: no shadow (it would outline their white background as a square). */
+.sign-plate img {
+  position: absolute;
+  inset: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: var(--plate-pad);
+  object-fit: contain;
+}
+
+.sign-plate__fallback {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-size: var(--text-headline);
+  font-weight: 760;
+  color: rgba(60, 60, 67, 0.6);
+}
+
+/* ---------- Rows & lists ---------- */
+
+.list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 14px 14px 14px 12px;
+  border-radius: var(--radius-md);
+  text-align: left;
+  transition: transform 180ms var(--ease-out-expo);
+}
+
+.row:active {
+  transform: scale(0.985);
+}
+
+.row:disabled {
+  opacity: 0.55;
+}
+
+.row--compact {
+  padding-block: 10px;
+}
+
+.row__body {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.row__eyebrow {
+  font-size: var(--text-caption);
+  font-weight: 650;
+  color: var(--tint, var(--c-label-2));
+}
+
+.row__title {
+  font-size: var(--text-headline);
+  font-weight: 640;
+  letter-spacing: -0.015em;
+}
+
+.row__subtitle {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 14px;
+  color: var(--c-label-2);
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.row__trailing {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--c-label-3);
+}
+
+.row__done {
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  color: #fff;
+  background: var(--c-green);
+}
+
+/* ---------- Home ---------- */
+
+.hero {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 18px;
+  padding: 20px;
+  border-radius: var(--radius-xl);
+}
+
+.hero__pct {
+  font-size: 24px;
+  font-weight: 780;
+  letter-spacing: -0.03em;
+}
+
+.hero__body {
+  display: grid;
+  gap: 3px;
+}
+
+.hero__eyebrow {
+  font-size: var(--text-footnote);
+  font-weight: 650;
+  opacity: 0.8;
+}
+
+.hero__title {
+  font-size: var(--text-title3);
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.hero__meta {
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+.hero__action {
+  grid-column: 1 / -1;
+}
+
+.hero__action-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bento {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 18px;
+  min-height: 140px;
+  padding: 16px;
+  border-radius: var(--radius-lg);
+  text-align: left;
+  transition: transform 180ms var(--ease-out-expo);
+}
+
+.tile:active {
+  transform: scale(0.97);
+}
+
+.tile:disabled {
+  opacity: 0.55;
+}
+
+.tile--wide {
+  grid-column: span 2;
+  flex-direction: row;
+  align-items: center;
+  min-height: 0;
+}
+
+.tile__body {
+  flex: 1;
+}
+
+.tile__title {
+  font-size: var(--text-headline);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.tile__meta {
+  margin-top: 3px;
+  font-size: var(--text-footnote);
+  color: var(--c-label-2);
+}
+
+.tile__chev {
+  color: var(--c-label-3);
+}
+
+.daily {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  padding: 14px;
+  border-radius: var(--radius-lg);
+  text-align: left;
+}
+
+.daily__body {
+  display: grid;
+  gap: 6px;
+}
+
+.daily__name {
+  font-size: var(--text-headline);
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.daily__text {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 14px;
+  color: var(--c-label-2);
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.history-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+}
+
+.history-row__score {
+  font-size: var(--text-title3);
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+}
+
+.history-row__meta {
+  font-size: var(--text-footnote);
+  color: var(--c-label-2);
+}
+

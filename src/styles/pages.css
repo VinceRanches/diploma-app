@@ -1,0 +1,543 @@
+/* ---------- Signs ---------- */
+
+.signs-summary {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 18px;
+  padding: 16px;
+  border-radius: var(--radius-lg);
+}
+
+.signs-summary__value {
+  font-size: var(--text-title1);
+  font-weight: 780;
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+}
+
+.signs-summary__value span {
+  font-size: var(--text-headline);
+  color: var(--c-label-3);
+}
+
+.signs-summary__label {
+  font-size: 14px;
+  color: var(--c-label-2);
+}
+
+.section-card {
+  display: grid;
+  gap: 14px;
+  margin-bottom: 20px;
+  padding: 14px;
+  border-radius: var(--radius-xl);
+}
+
+.sign-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sign-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  padding: 10px 10px 14px;
+  border-radius: var(--radius-lg);
+  text-align: left;
+  transition: transform 180ms var(--ease-out-expo);
+}
+
+.sign-tile:active {
+  transform: scale(0.96);
+}
+
+.sign-tile__meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sign-tile__seen {
+  color: var(--c-green);
+}
+
+.sign-tile__name {
+  display: -webkit-box;
+  overflow: hidden;
+  padding: 0 2px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.3;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+/* ---------- Sheets ---------- */
+
+.sheet-root {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.sheet-scrim {
+  position: absolute;
+  inset: 0;
+  background: var(--scrim);
+  animation: fade-in 240ms ease-out;
+}
+
+.sheet {
+  width: min(calc(100% - 16px), 560px);
+  max-height: 90vh;
+  margin-bottom: calc(var(--safe-bottom) + 8px);
+  overflow-y: auto;
+  padding: 6px 20px 20px;
+  border-radius: var(--radius-xl);
+  background: var(--sheet-fill);
+  animation: sheet-up 460ms var(--ease-out-expo);
+  scrollbar-width: none;
+}
+
+.sheet__grabber {
+  display: block;
+  width: 38px;
+  height: 5px;
+  margin: 6px auto 16px;
+  border-radius: var(--radius-pill);
+  background: var(--c-label-3);
+}
+
+.sign-detail {
+  display: grid;
+  gap: 12px;
+}
+
+.sign-detail__plate {
+  width: min(56vw, 210px);
+  margin: 0 auto 6px;
+  border-radius: 28px;
+}
+
+.sign-detail__meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.sign-detail__group {
+  font-size: var(--text-footnote);
+  font-weight: 650;
+  color: var(--c-label-2);
+}
+
+.sign-detail__name {
+  font-size: var(--text-title2);
+  font-weight: 760;
+  line-height: 1.22;
+  letter-spacing: -0.022em;
+}
+
+.sign-detail__text {
+  font-size: var(--text-callout);
+  line-height: 1.5;
+  color: var(--c-label-2);
+}
+
+.sign-detail__sub {
+  margin-top: 6px;
+  font-size: var(--text-subhead);
+  font-weight: 700;
+}
+
+.similar-row {
+  display: flex;
+  gap: 10px;
+  margin: 0 -20px;
+  padding: 2px 20px 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.similar-chip {
+  display: grid;
+  flex: none;
+  gap: 6px;
+  width: 96px;
+  padding: 8px;
+  border-radius: var(--radius-md);
+  justify-items: center;
+  background: var(--tile-solid);
+}
+
+.similar-chip .sign-plate {
+  --plate-pad: 8%;
+  border-radius: 12px;
+}
+
+.similar-chip .code-chip {
+  align-self: center;
+}
+
+.confirm {
+  display: grid;
+  gap: 12px;
+  text-align: center;
+}
+
+.confirm__title {
+  font-size: var(--text-title3);
+  font-weight: 750;
+}
+
+.confirm__text {
+  margin-bottom: 8px;
+  color: var(--c-label-2);
+}
+
+/* ---------- Segmented control ---------- */
+
+.segmented {
+  position: relative;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  padding: 4px;
+  border-radius: 18px;
+  background: var(--c-fill);
+}
+
+.segmented__thumb {
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  left: 4px;
+  border-radius: 14px;
+  background: var(--glass-fill-strong);
+  box-shadow:
+    0 3px 10px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 var(--glass-highlight),
+    inset 0 0 0 0.5px var(--glass-edge);
+  transition: transform 460ms var(--ease-spring);
+}
+
+.segmented__item {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-height: 62px;
+  font-size: 14px;
+  font-weight: 620;
+  color: var(--c-label-2);
+  transition: color 200ms ease;
+}
+
+.segmented__item.is-active {
+  color: var(--c-label);
+}
+
+/* ---------- Settings ---------- */
+
+.settings-card {
+  display: grid;
+  gap: 14px;
+  margin-bottom: 16px;
+  padding: 18px;
+  border-radius: var(--radius-lg);
+}
+
+.settings-card__title {
+  font-size: var(--text-headline);
+  font-weight: 720;
+}
+
+.settings-card__note,
+.settings-card__text--muted,
+.settings-card__version {
+  font-size: 14px;
+  color: var(--c-label-2);
+}
+
+.settings-card__text {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.kv {
+  display: grid;
+  gap: 0;
+  margin: 0;
+}
+
+.kv > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 11px 0;
+  border-bottom: 0.5px solid var(--c-separator);
+}
+
+.kv dt {
+  color: var(--c-label-2);
+}
+
+.kv dd {
+  margin: 0;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Tests ---------- */
+
+.exam-hero {
+  display: grid;
+  gap: 14px;
+  padding: 20px;
+  border-radius: var(--radius-xl);
+}
+
+.exam-hero__head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.exam-hero__title {
+  font-size: var(--text-title2);
+  font-weight: 760;
+  letter-spacing: -0.02em;
+}
+
+.exam-hero__text {
+  font-size: 15px;
+  line-height: 1.45;
+  opacity: 0.92;
+}
+
+.diff-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.diff {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 150px;
+  padding: 14px 12px;
+  border-radius: var(--radius-md);
+  text-align: left;
+  transition: transform 180ms var(--ease-out-expo);
+}
+
+.diff:active {
+  transform: scale(0.96);
+}
+
+.diff__dots {
+  display: flex;
+  gap: 4px;
+}
+
+.diff__dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--c-fill-2);
+}
+
+.diff__dot.is-on {
+  background: var(--tint);
+  box-shadow: 0 0 8px color-mix(in srgb, var(--tint) 60%, transparent);
+}
+
+.diff__title {
+  font-size: var(--text-headline);
+  font-weight: 720;
+  color: var(--tint);
+}
+
+.diff__text {
+  font-size: var(--text-footnote);
+  line-height: 1.35;
+  color: var(--c-label-2);
+}
+
+/* ---------- Driving & lessons ---------- */
+
+.module {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 26px;
+}
+
+.module__head {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 18px;
+  border-radius: var(--radius-lg);
+}
+
+.module__body {
+  display: grid;
+  gap: 2px;
+}
+
+.module__title {
+  font-size: var(--text-headline);
+  font-weight: 740;
+}
+
+.module__subtitle {
+  font-size: 13.5px;
+  opacity: 0.88;
+}
+
+.module__count {
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  font-size: var(--text-footnote);
+  font-weight: 720;
+  font-variant-numeric: tabular-nums;
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.lesson-eyebrow {
+  margin: -12px 4px 6px;
+  font-size: var(--text-footnote);
+  font-weight: 650;
+  color: var(--c-blue);
+}
+
+.lesson-summary {
+  margin: 6px 4px 20px;
+  font-size: var(--text-headline);
+  line-height: 1.45;
+  color: var(--c-label-2);
+}
+
+.lesson-card {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 12px;
+  padding: 18px;
+  border-radius: var(--radius-lg);
+}
+
+.lesson-card__title {
+  font-size: 19px;
+  font-weight: 740;
+  letter-spacing: -0.018em;
+}
+
+.lesson-card__body {
+  font-size: var(--text-callout);
+  line-height: 1.55;
+}
+
+.lesson-card__bullets {
+  display: grid;
+  gap: 8px;
+  padding-left: 20px;
+  font-size: 15.5px;
+  line-height: 1.45;
+}
+
+.lesson-card__bullets li::marker {
+  color: var(--c-blue);
+}
+
+.tip {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  padding: 12px 14px;
+  border-radius: 16px;
+  font-size: 15px;
+  line-height: 1.45;
+  color: var(--c-label);
+  background: color-mix(in srgb, var(--c-blue) 11%, transparent);
+}
+
+.tip svg {
+  margin-top: 2px;
+  color: var(--c-blue);
+}
+
+.lesson-quiz {
+  margin-top: 10px;
+}
+
+/* ---------- Book figures (photos) and chapters ---------- */
+
+.sign-plate--photo {
+  --plate-pad: 0;
+  aspect-ratio: 4 / 3;
+}
+
+.sign-plate--photo img {
+  filter: none;
+}
+
+.sign-grid--photos {
+  grid-template-columns: 1fr;
+}
+
+.chapter-num {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 11px;
+  font-size: 14px;
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-indigo);
+  background: color-mix(in srgb, var(--c-indigo) 13%, transparent);
+}
+
+.diff__count {
+  margin-top: auto;
+  font-size: var(--text-caption);
+  font-weight: 650;
+  color: var(--c-label-3);
+}
+
+/* ---------- Sign sheet navigation ---------- */
+
+.sheet-nav {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.sheet-nav__btn {
+  min-height: 48px;
+  padding: 0 12px;
+  font-size: var(--text-subhead);
+}
+
+.sheet-nav__count {
+  font-size: var(--text-footnote);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-label-2);
+}
