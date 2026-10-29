@@ -1,0 +1,814 @@
+[
+  {
+    "id": "car-controls",
+    "title": {"el": "Χειριστήρια και θέση οδήγησης", "en": "Controls and the driving position"},
+    "icon": "steering",
+    "summary": {"el": "Γνώρισε τα πεντάλ, τον λεβιέ, το χειρόφρενο, τους διακόπτες και τους καθρέπτες πριν βάλεις μπρος.", "en": "Get to know the pedals, gear lever, handbrake, switches and mirrors before you start the engine."},
+    "sections": [
+      {
+        "heading": {"el": "Τα πεντάλ", "en": "The pedals"},
+        "body": {"el": "Στο αυτοκίνητο με μηχανικό (χειροκίνητο) κιβώτιο υπάρχουν τρία πεντάλ, ενώ στο αυτόματο μόνο δύο. Το γκάζι και το φρένο τα πατάς πάντα με το δεξί πόδι. Ο συμπλέκτης υπάρχει μόνο στο μηχανικό κιβώτιο και τον πατάς με το αριστερό πόδι.", "en": "A car with a manual gearbox has three pedals, while an automatic has only two. You always press the accelerator and the brake with your right foot. The clutch exists only in a manual car and you press it with your left foot."},
+        "bullets": [
+          {"el": "Δεξιά: γκάζι (επιταχυντής)", "en": "Right: accelerator (gas pedal)"},
+          {"el": "Στη μέση: φρένο", "en": "Middle: brake"},
+          {"el": "Αριστερά: συμπλέκτης (μόνο στο μηχανικό κιβώτιο)", "en": "Left: clutch (manual gearbox only)"}
+        ],
+        "tip": {"el": "Φόρα παπούτσια με λεπτή σόλα που δεν γλιστρούν· όχι σαγιονάρες ή ψηλά τακούνια.", "en": "Wear thin-soled, non-slip shoes; not flip-flops or high heels."}
+      },
+      {
+        "heading": {"el": "Λεβιές ταχυτήτων και χειρόφρενο", "en": "Gear lever and handbrake"},
+        "body": {"el": "Στο μηχανικό κιβώτιο ο λεβιές έχει συνήθως πέντε ή έξι ταχύτητες, όπισθεν και νεκρά. Στο αυτόματο οι βασικές θέσεις είναι P (στάθμευση), R (όπισθεν), N (νεκρά) και D (πορεία). Το χειρόφρενο, μηχανικό ή ηλεκτρονικό, ακινητοποιεί το όχημα όταν σταθμεύεις ή κάνεις στάση σε ανηφόρα.", "en": "In a manual gearbox the lever usually has five or six gears, reverse and neutral. In an automatic the main positions are P (park), R (reverse), N (neutral) and D (drive). The handbrake, mechanical or electronic, holds the car still when you park or stop on a hill."},
+        "tip": {"el": "Πριν σβήσεις τη μηχανή, βάλε χειρόφρενο και ταχύτητα (μηχανικό) ή P (αυτόματο).", "en": "Before switching off the engine, apply the handbrake and leave it in gear (manual) or in P (automatic)."}
+      },
+      {
+        "heading": {"el": "Διακόπτες στο τιμόνι", "en": "Steering-column stalks and switches"},
+        "body": {"el": "Ο αριστερός διακόπτης στο τιμόνι ελέγχει συνήθως τα φλας και τα φώτα, ενώ ο δεξιός τους υαλοκαθαριστήρες και το πλύσιμο του παρμπρίζ. Η θέση μπορεί να διαφέρει ανά μάρκα, γι' αυτό διάβασε το εγχειρίδιο του αυτοκινήτου. Το κουμπί με το κόκκινο τρίγωνο ανάβει τα αλάρμ (φώτα έκτακτης ανάγκης).", "en": "The left stalk usually controls the indicators and the lights, while the right one controls the wipers and the screen washer. The layout can differ between brands, so read the car's owner's manual. The button with the red triangle switches on the hazard warning lights."},
+        "bullets": [
+          {"el": "Φλας: δίνεις σήμα έγκαιρα πριν από κάθε αλλαγή κατεύθυνσης ή λωρίδας", "en": "Indicators: signal in good time before every turn or lane change"},
+          {"el": "Κόρνα: κυρίως για να αποφύγεις ατύχημα· ο ΚΟΚ (άρθρο 41) την επιτρέπει μόνο σε λίγες περιπτώσεις", "en": "Horn: mainly to avoid an accident; the Highway Code (Article 41) allows it only in a few cases"},
+          {"el": "Αλάρμ: όταν το όχημα είναι ακινητοποιημένο (π.χ. από βλάβη) ή όταν, ενώ κινείσαι, το όχημά σου δημιουργεί κίνδυνο για τους άλλους", "en": "Hazard lights: when the vehicle is stationary (e.g. a breakdown) or when, while moving, your vehicle is a danger to others"}
+        ]
+      },
+      {
+        "heading": {"el": "Κάθισμα, καθρέπτες και ζώνη", "en": "Seat, mirrors and seat belt"},
+        "body": {"el": "Πριν ξεκινήσεις, ρύθμισε πρώτα το κάθισμα ώστε να πατάς τα πεντάλ μέχρι κάτω με ελαφρά λυγισμένα γόνατα. Μετά ρύθμισε το προσκέφαλο, το τιμόνι και τους καθρέπτες, και στο τέλος δέσε τη ζώνη. Οι καθρέπτες δεν δείχνουν τα πάντα: η περιοχή που δεν φαίνεται λέγεται τυφλό σημείο.", "en": "Before you set off, first adjust the seat so you can press the pedals fully with slightly bent knees. Then adjust the head restraint, the steering wheel and the mirrors, and finally fasten your seat belt. Mirrors do not show everything: the area they cannot show is called the blind spot."},
+        "tip": {"el": "Πριν ξεκινήσεις από στάση ή αλλάξεις λωρίδα, κοίτα και πάνω από τον ώμο για το τυφλό σημείο.", "en": "Before moving off or changing lanes, also look over your shoulder to check the blind spot."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "car-controls-q1",
+        "q": {"el": "Σε αυτοκίνητο με μηχανικό κιβώτιο, ποιο πεντάλ βρίσκεται τέρμα αριστερά;", "en": "In a car with a manual gearbox, which pedal is on the far left?"},
+        "options": [{"el": "Το φρένο", "en": "The brake"}, {"el": "Ο συμπλέκτης", "en": "The clutch"}, {"el": "Το γκάζι", "en": "The accelerator"}],
+        "answer": 1,
+        "explain": {"el": "Η σειρά από αριστερά προς τα δεξιά είναι συμπλέκτης, φρένο, γκάζι.", "en": "From left to right the order is clutch, brake, accelerator."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-controls-q2",
+        "q": {"el": "Με ποιο πόδι πατάς το φρένο σε αυτόματο αυτοκίνητο;", "en": "Which foot do you use for the brake in an automatic car?"},
+        "options": [{"el": "Με το δεξί", "en": "The right foot"}, {"el": "Με το αριστερό", "en": "The left foot"}, {"el": "Με όποιο θέλω", "en": "Whichever I like"}],
+        "answer": 0,
+        "explain": {"el": "Γκάζι και φρένο χειρίζονται πάντα με το δεξί πόδι, ώστε να μην πατηθούν ποτέ ταυτόχρονα.", "en": "Accelerator and brake are always operated with the right foot, so they are never pressed at the same time."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-controls-q3",
+        "q": {"el": "Σε ποια θέση βάζεις τον λεβιέ του αυτόματου κιβωτίου όταν σταθμεύεις;", "en": "Which position do you select on an automatic gearbox when you park?"},
+        "options": [{"el": "N", "en": "N"}, {"el": "D", "en": "D"}, {"el": "P", "en": "P"}],
+        "answer": 2,
+        "explain": {"el": "Το P (Park) κλειδώνει το κιβώτιο· μαζί με το χειρόφρενο κρατά το όχημα ακίνητο.", "en": "P (Park) locks the transmission; together with the handbrake it keeps the car still."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-controls-q4",
+        "q": {"el": "Ποια είναι η σωστή σειρά πριν ξεκινήσεις;", "en": "What is the correct order before you set off?"},
+        "options": [{"el": "Καθρέπτες, μετά κάθισμα, μετά ζώνη", "en": "Mirrors, then seat, then seat belt"}, {"el": "Κάθισμα και προσκέφαλο, μετά καθρέπτες, μετά ζώνη", "en": "Seat and head restraint, then mirrors, then seat belt"}, {"el": "Ζώνη, εκκίνηση και ρύθμιση καθίσματος καθ' οδόν", "en": "Seat belt, start the engine and adjust the seat while driving"}],
+        "answer": 1,
+        "explain": {"el": "Οι καθρέπτες ρυθμίζονται αφού έχει ρυθμιστεί το κάθισμα, γιατί κάθε αλλαγή θέσης αλλάζει τη γωνία θέασης.", "en": "Mirrors are adjusted after the seat, because any change of seating position changes what you see in them."},
+        "difficulty": 2
+      },
+      {
+        "id": "car-controls-q5",
+        "q": {"el": "Τι κάνεις επιπλέον από τον έλεγχο των καθρεπτών πριν αλλάξεις λωρίδα;", "en": "What do you do in addition to checking your mirrors before changing lanes?"},
+        "options": [{"el": "Κορνάρω", "en": "Sound the horn"}, {"el": "Αναβοσβήνω τα μεγάλα φώτα", "en": "Flash the headlights"}, {"el": "Κοιτάζω πάνω από τον ώμο για το τυφλό σημείο", "en": "Look over my shoulder to check the blind spot"}],
+        "answer": 2,
+        "explain": {"el": "Οι καθρέπτες έχουν τυφλά σημεία όπου μπορεί να κρύβεται όχημα ή μοτοσικλέτα.", "en": "Mirrors have blind spots where a car or motorcycle can be hidden."},
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "warning-lights",
+    "title": {"el": "Ενδεικτικές λυχνίες του ταμπλό", "en": "Dashboard warning lights"},
+    "icon": "gauge",
+    "summary": {"el": "Το χρώμα μιας λυχνίας σού λέει πόσο σοβαρό είναι το πρόβλημα και τι πρέπει να κάνεις.", "en": "The colour of a warning light tells you how serious the problem is and what to do."},
+    "sections": [
+      {
+        "heading": {"el": "Τα χρώματα", "en": "What the colours mean"},
+        "body": {"el": "Οι λυχνίες του ταμπλό ακολουθούν ένα απλό χρωματικό σύστημα. Όσο πιο «ζεστό» το χρώμα, τόσο πιο επείγον το θέμα. Όταν γυρίζεις το κλειδί ανάβουν σχεδόν όλες για λίγο ως αυτοέλεγχος και μετά σβήνουν.", "en": "Dashboard lights follow a simple colour system. The 'warmer' the colour, the more urgent the issue. When you turn the key almost all of them light up briefly as a self-test and then go out."},
+        "bullets": [
+          {"el": "Κόκκινο: σοβαρό πρόβλημα ή κίνδυνος, σταμάτα με ασφάλεια το συντομότερο", "en": "Red: serious problem or danger, stop safely as soon as possible"},
+          {"el": "Πορτοκαλί/κίτρινο: βλάβη ή προειδοποίηση, έλεγχος σύντομα", "en": "Amber/yellow: fault or warning, get it checked soon"},
+          {"el": "Πράσινο: ενημέρωση ότι ένα σύστημα λειτουργεί (π.χ. φλας, μεσαία φώτα)", "en": "Green: information that a system is on (e.g. indicators, dipped beam)"},
+          {"el": "Μπλε: συνήθως τα μεγάλα φώτα (πορείας) είναι αναμμένα", "en": "Blue: usually the main (high) beam is on"}
+        ]
+      },
+      {
+        "heading": {"el": "Κόκκινες λυχνίες που δεν αγνοείς", "en": "Red lights you must never ignore"},
+        "body": {"el": "Η λυχνία πίεσης λαδιού (λαδικό) σημαίνει ότι ο κινητήρας δεν λιπαίνεται: σταμάτα και σβήσε τη μηχανή αμέσως. Η λυχνία θερμοκρασίας (θερμόμετρο) δείχνει υπερθέρμανση, οπότε σταματάς και αφήνεις τον κινητήρα να κρυώσει. Η λυχνία μπαταρίας δείχνει πρόβλημα φόρτισης (π.χ. δυναμό), και η λυχνία φρένων (θαυμαστικό σε κύκλο) σημαίνει τραβηγμένο χειρόφρενο ή χαμηλό υγρό/βλάβη φρένων.", "en": "The oil pressure light (oil can) means the engine is not being lubricated: stop and switch off the engine immediately. The temperature light (thermometer) shows overheating, so stop and let the engine cool. The battery light shows a charging fault (e.g. the alternator), and the brake light (exclamation mark in a circle) means the handbrake is on or the brake fluid is low or the brakes are faulty."},
+        "tip": {"el": "Ποτέ μην ανοίγεις το καπάκι του ψυγείου ή του δοχείου διαστολής με ζεστό κινητήρα: το υγρό είναι υπό πίεση και καίει.", "en": "Never open the radiator or expansion tank cap while the engine is hot: the coolant is under pressure and can scald you."}
+      },
+      {
+        "heading": {"el": "Πορτοκαλί λυχνίες", "en": "Amber lights"},
+        "body": {"el": "Η λυχνία ελέγχου κινητήρα (σχήμα κινητήρα) δείχνει βλάβη στη διαχείριση του κινητήρα ή στις εκπομπές· αν αναβοσβήνει, η βλάβη είναι σοβαρή και πρέπει να μειώσεις ταχύτητα και να πας αμέσως για έλεγχο. Η λυχνία ABS σημαίνει ότι το ABS είναι εκτός λειτουργίας, αλλά τα κανονικά φρένα δουλεύουν. Η λυχνία πίεσης ελαστικών (πέταλο με θαυμαστικό) σημαίνει ότι κάποιο λάστιχο έχει χαμηλή πίεση.", "en": "The engine check light (engine outline) shows an engine-management or emissions fault; if it flashes, the fault is serious and you should slow down and get the car checked at once. The ABS light means ABS is not working, but the normal brakes still work. The tyre pressure light (horseshoe with an exclamation mark) means a tyre is under-inflated."},
+        "bullets": [
+          {"el": "ESP που αναβοσβήνει: το σύστημα επεμβαίνει, οδήγησε πιο ήπια", "en": "Flashing ESP light: the system is intervening, drive more gently"},
+          {"el": "ESP σταθερά αναμμένο: βλάβη ή απενεργοποίηση του συστήματος", "en": "ESP light on steadily: fault or system switched off"},
+          {"el": "Αερόσακος (το χρώμα διαφέρει ανά μάρκα, συχνά κόκκινη): βλάβη, οι αερόσακοι ίσως δεν λειτουργήσουν", "en": "Airbag light (colour varies by make, often red): fault, the airbags may not deploy"}
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "warning-lights-q1",
+        "q": {"el": "Τι σημαίνει γενικά μια κόκκινη λυχνία στο ταμπλό;", "en": "What does a red dashboard light generally mean?"},
+        "options": [{"el": "Απλή ενημέρωση", "en": "Information only"}, {"el": "Σοβαρό πρόβλημα, σταματάω με ασφάλεια το συντομότερο", "en": "A serious problem, stop safely as soon as possible"}, {"el": "Το σέρβις λήγει τον επόμενο μήνα", "en": "The service is due next month"}],
+        "answer": 1,
+        "explain": {"el": "Το κόκκινο δηλώνει κίνδυνο ή σοβαρή βλάβη που δεν επιτρέπει να συνεχίσεις κανονικά.", "en": "Red signals danger or a serious fault that does not let you carry on normally."},
+        "difficulty": 1
+      },
+      {
+        "id": "warning-lights-q2",
+        "q": {"el": "Τι δείχνει συνήθως η μπλε λυχνία με τον προβολέα;", "en": "What does the blue headlight symbol usually show?"},
+        "options": [{"el": "Ότι τα μεγάλα φώτα (πορείας) είναι αναμμένα", "en": "That the main (high) beam is on"}, {"el": "Ότι το καύσιμο τελειώνει", "en": "That fuel is running low"}, {"el": "Βλάβη στα φρένα", "en": "A brake fault"}],
+        "answer": 0,
+        "explain": {"el": "Η μπλε ένδειξη θυμίζει ότι τα μεγάλα φώτα είναι αναμμένα και μπορεί να θαμπώνεις άλλους οδηγούς.", "en": "The blue symbol reminds you the main beam is on and may dazzle other drivers."},
+        "difficulty": 1
+      },
+      {
+        "id": "warning-lights-q3",
+        "q": {"el": "Ενώ οδηγείς ανάβει η κόκκινη λυχνία πίεσης λαδιού. Τι κάνεις;", "en": "While driving, the red oil pressure light comes on. What do you do?"},
+        "options": [{"el": "Συνεχίζω και συμπληρώνω λάδι αργότερα", "en": "Continue and top up the oil later"}, {"el": "Πατάω γκάζι για να ανέβει η πίεση", "en": "Accelerate to raise the pressure"}, {"el": "Σταματάω με ασφάλεια και σβήνω αμέσως τη μηχανή", "en": "Stop safely and switch off the engine immediately"}],
+        "answer": 2,
+        "explain": {"el": "Χωρίς πίεση λαδιού ο κινητήρας μπορεί να καταστραφεί μέσα σε λίγα λεπτά.", "en": "Without oil pressure the engine can be destroyed within minutes."},
+        "difficulty": 2
+      },
+      {
+        "id": "warning-lights-q4",
+        "q": {"el": "Τι δεν πρέπει να κάνεις ποτέ όταν ο κινητήρας υπερθερμαίνεται;", "en": "What must you never do when the engine overheats?"},
+        "options": [{"el": "Να ανοίξεις το καπάκι του ψυγείου όσο είναι ζεστός", "en": "Open the radiator cap while it is hot"}, {"el": "Να σταματήσεις σε ασφαλές σημείο", "en": "Stop in a safe place"}, {"el": "Να αφήσεις τον κινητήρα να κρυώσει", "en": "Let the engine cool down"}],
+        "answer": 0,
+        "explain": {"el": "Το ζεστό ψυκτικό υγρό είναι υπό πίεση και μπορεί να εκτιναχθεί και να σε κάψει.", "en": "Hot coolant is under pressure and can spray out and scald you."},
+        "difficulty": 2
+      },
+      {
+        "id": "warning-lights-q5",
+        "q": {"el": "Η λυχνία ABS μένει αναμμένη. Τι ισχύει;", "en": "The ABS light stays on. What is true?"},
+        "options": [{"el": "Τα φρένα λειτουργούν κανονικά αλλά χωρίς ABS· πρέπει να γίνει έλεγχος", "en": "The brakes work normally but without ABS; have it checked"}, {"el": "Τα φρένα δεν λειτουργούν καθόλου", "en": "The brakes do not work at all"}, {"el": "Το ABS λειτουργεί πιο αποτελεσματικά", "en": "ABS is working more effectively"}],
+        "answer": 0,
+        "explain": {"el": "Χωρίς ABS οι τροχοί μπορεί να μπλοκάρουν σε απότομο φρενάρισμα, άρα φρενάρεις πιο προσεκτικά μέχρι την επισκευή.", "en": "Without ABS the wheels can lock under hard braking, so brake more carefully until it is repaired."},
+        "difficulty": 2
+      },
+      {
+        "id": "warning-lights-q6",
+        "q": {"el": "Η λυχνία ελέγχου κινητήρα αναβοσβήνει. Τι σημαίνει;", "en": "The engine check light is flashing. What does it mean?"},
+        "options": [{"el": "Είναι φυσιολογικό μετά τον ανεφοδιασμό", "en": "It is normal after refuelling"}, {"el": "Σοβαρή βλάβη κινητήρα: μειώνω ταχύτητα και πηγαίνω αμέσως για έλεγχο", "en": "A serious engine fault: slow down and get it checked immediately"}, {"el": "Χαμηλή στάθμη στο υγρό του παρμπρίζ", "en": "Low screen-washer fluid"}],
+        "answer": 1,
+        "explain": {"el": "Η αναλαμπή δείχνει συνήθως σοβαρή αστοχία (π.χ. ανάφλεξης) που μπορεί να καταστρέψει τον καταλύτη.", "en": "Flashing usually signals a serious fault (e.g. a misfire) that can damage the catalytic converter."},
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "car-checks",
+    "title": {"el": "Έλεγχοι πριν από τη διαδρομή και κάθε εβδομάδα", "en": "Pre-drive and weekly checks"},
+    "icon": "wrench",
+    "summary": {"el": "Λίγα λεπτά ελέγχου προλαμβάνουν τις περισσότερες βλάβες και κάνουν το αυτοκίνητο ασφαλές.", "en": "A few minutes of checks prevent most breakdowns and keep the car safe."},
+    "sections": [
+      {
+        "heading": {"el": "Πριν από κάθε διαδρομή", "en": "Before every trip"},
+        "body": {"el": "Κάνε έναν γύρο γύρω από το αυτοκίνητο και κοίτα τα λάστιχα, τα φώτα και αν υπάρχουν διαρροές στο έδαφος. Βεβαιώσου ότι τα τζάμια και οι καθρέπτες είναι καθαροί. Μόλις βάλεις μπρος, έλεγξε ότι οι λυχνίες του ταμπλό σβήνουν και ότι έχεις αρκετό καύσιμο.", "en": "Walk around the car and look at the tyres, the lights and for any leaks on the ground. Make sure the windows and mirrors are clean. Once the engine is running, check that the warning lights go out and that you have enough fuel."}
+      },
+      {
+        "heading": {"el": "Κάτω από το καπό", "en": "Under the bonnet"},
+        "body": {"el": "Τα υγρά ελέγχονται με το αυτοκίνητο σε επίπεδο έδαφος και τον κινητήρα σβηστό. Το λάδι ελέγχεται με τον δείκτη (βέργα) λίγα λεπτά αφού σβήσει η μηχανή. Το ψυκτικό υγρό ελέγχεται μόνο με κρύο κινητήρα. Αν η στάθμη του υγρού φρένων πέφτει αισθητά, μπορεί να υπάρχει διαρροή ή φθορά στα τακάκια και χρειάζεται έλεγχος από συνεργείο.", "en": "Fluids are checked with the car on level ground and the engine off. Check the oil with the dipstick a few minutes after switching off the engine. Check the coolant only when the engine is cold. If the brake fluid level drops noticeably, there may be a leak or worn pads and a garage should check it."},
+        "bullets": [
+          {"el": "Λάδι κινητήρα: ανάμεσα στις ενδείξεις MIN και MAX", "en": "Engine oil: between the MIN and MAX marks"},
+          {"el": "Ψυκτικό υγρό: στο δοχείο διαστολής, ανάμεσα σε MIN και MAX", "en": "Coolant: in the expansion tank, between MIN and MAX"},
+          {"el": "Υγρό φρένων: ανάμεσα σε MIN και MAX", "en": "Brake fluid: between MIN and MAX"},
+          {"el": "Υγρό παρμπρίζ: γέμισε με ειδικό υγρό, όχι μόνο νερό", "en": "Screen wash: fill with proper washer fluid, not just water"}
+        ],
+        "tip": {"el": "Συμπλήρωνε μόνο με τον τύπο υγρού που γράφει το εγχειρίδιο του αυτοκινήτου.", "en": "Only top up with the fluid type stated in the owner's manual."}
+      },
+      {
+        "heading": {"el": "Λάστιχα και φώτα", "en": "Tyres and lights"},
+        "body": {"el": "Έλεγξε την πίεση των ελαστικών με κρύα λάστιχα, τουλάχιστον μία φορά τον μήνα και πριν από μεγάλο ταξίδι. Κοίτα και το βάθος του πέλματος και αν υπάρχουν φουσκώματα ή σκισίματα. Για τα φώτα φρένων ζήτα βοήθεια από κάποιον ή κοίτα την αντανάκλαση σε τοίχο ή γκαραζόπορτα.", "en": "Check tyre pressure with cold tyres, at least once a month and before a long trip. Also check the tread depth and look for bulges or cuts. For the brake lights, ask someone to help or look at the reflection on a wall or garage door."}
+      },
+      {
+        "heading": {"el": "Εξοπλισμός μέσα στο αυτοκίνητο", "en": "Equipment to carry"},
+        "body": {"el": "Ο ΚΟΚ (ν. 5209/2025, άρθρο 85) ορίζει ότι το αυτοκίνητο έχει προειδοποιητικό τρίγωνο και εφεδρικό τροχό· στα επιβατικά επιτρέπεται αντί για εφεδρικό κιτ επισκευής ελαστικού ή σύστημα συνέχισης οδήγησης (run-flat). Υπουργικές αποφάσεις, που εκδίδονται με εξουσιοδότηση του ΚΟΚ, απαιτούν επιπλέον πυροσβεστήρα και φαρμακείο (κιβώτιο πρώτων βοηθειών), που ελέγχονται και από την Τροχαία· για το φαρμακείο ισχύουν νέες προδιαγραφές από 1 Ιανουαρίου 2027. Ο ΚΟΚ δεν ορίζει ανακλαστικό γιλέκο για τους οδηγούς αυτοκινήτων, αλλά ένα γιλέκο και ένας φακός είναι πολύ χρήσιμα σε βλάβη τη νύχτα.", "en": "The Greek Highway Code (Law 5209/2025, Article 85) requires a car to carry a warning triangle and a spare wheel; passenger cars may instead carry a tyre repair kit or run-flat system. Ministerial decisions issued under the Highway Code also require a fire extinguisher and a first-aid kit, which traffic police check too; new first-aid kit specifications apply from 1 January 2027. The Highway Code does not require car drivers to have a reflective vest, but a vest and a torch are very useful for a breakdown at night."},
+        "tip": {"el": "Έλεγχε την ημερομηνία λήξης του πυροσβεστήρα και των υλικών του φαρμακείου.", "en": "Check the expiry dates of the fire extinguisher and the first-aid kit contents."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "car-checks-q1",
+        "q": {"el": "Πότε ελέγχεις σωστά τη στάθμη του λαδιού;", "en": "When do you correctly check the engine oil level?"},
+        "options": [{"el": "Σε επίπεδο έδαφος, λίγα λεπτά αφού σβήσει η μηχανή", "en": "On level ground, a few minutes after switching off the engine"}, {"el": "Με τη μηχανή αναμμένη σε ανηφόρα", "en": "With the engine running on a slope"}, {"el": "Μόνο όταν πηγαίνω στο ΚΤΕΟ", "en": "Only when I go for the KTEO inspection"}],
+        "answer": 0,
+        "explain": {"el": "Σε επίπεδο έδαφος και με το λάδι να έχει κατέβει στο κάρτερ, η ένδειξη της βέργας είναι ακριβής.", "en": "On level ground, with the oil drained back into the sump, the dipstick reading is accurate."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-checks-q2",
+        "q": {"el": "Πότε ανοίγεις το καπάκι του δοχείου ψυκτικού υγρού;", "en": "When may you open the coolant tank cap?"},
+        "options": [{"el": "Με ζεστό κινητήρα, για να φύγει ο ατμός", "en": "With a hot engine, to let the steam out"}, {"el": "Μόνο με κρύο κινητήρα", "en": "Only when the engine is cold"}, {"el": "Ποτέ, το ψυκτικό δεν ελέγχεται", "en": "Never, coolant is not checked"}],
+        "answer": 1,
+        "explain": {"el": "Με ζεστό κινητήρα το σύστημα είναι υπό πίεση και το υγρό μπορεί να σε κάψει.", "en": "With a hot engine the system is pressurised and the coolant can scald you."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-checks-q3",
+        "q": {"el": "Η στάθμη του υγρού φρένων πέφτει αισθητά. Τι μπορεί να σημαίνει;", "en": "The brake fluid level is dropping noticeably. What can it mean?"},
+        "options": [{"el": "Είναι φυσιολογικό, συμπληρώνω με νερό", "en": "It is normal, I top up with water"}, {"el": "Ότι πρέπει να αλλάξω λάδι κινητήρα", "en": "That I need to change the engine oil"}, {"el": "Πιθανή διαρροή ή φθαρμένα τακάκια· χρειάζεται έλεγχος φρένων", "en": "A possible leak or worn pads; the brakes need checking"}],
+        "answer": 2,
+        "explain": {"el": "Τα φρένα είναι το σημαντικότερο σύστημα ασφαλείας· μια πτώση στάθμης θέλει άμεσο έλεγχο. Ποτέ μη βάζεις νερό στο υγρό φρένων.", "en": "Brakes are the most important safety system; a falling level needs prompt checking. Never put water in the brake fluid."},
+        "difficulty": 2
+      },
+      {
+        "id": "car-checks-q4",
+        "q": {"el": "Πού πρέπει να βρίσκεται η στάθμη λαδιού στη βέργα;", "en": "Where should the oil level be on the dipstick?"},
+        "options": [{"el": "Κάτω από το MIN", "en": "Below MIN"}, {"el": "Ανάμεσα σε MIN και MAX", "en": "Between MIN and MAX"}, {"el": "Πάνω από το MAX", "en": "Above MAX"}],
+        "answer": 1,
+        "explain": {"el": "Λίγο λάδι φθείρει τον κινητήρα, αλλά και το υπερβολικό λάδι μπορεί να προκαλέσει ζημιά.", "en": "Too little oil wears the engine, but too much oil can also cause damage."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-checks-q5",
+        "q": {"el": "Ποιο από τα παρακάτω πρέπει να έχει κάθε αυτοκίνητο σύμφωνα με τον ΚΟΚ;", "en": "Which of these must every car carry according to the Greek Highway Code?"},
+        "options": [{"el": "Προειδοποιητικό τρίγωνο", "en": "A warning triangle"}, {"el": "Σετ εφεδρικών λαμπτήρων", "en": "A set of spare bulbs"}, {"el": "Σχοινί ρυμούλκησης", "en": "A tow rope"}],
+        "answer": 0,
+        "explain": {"el": "Το άρθρο 85 του ν. 5209/2025 ορίζει ότι τα μηχανοκίνητα οχήματα είναι εφοδιασμένα με την τριγωνική πινακίδα επισήμανσης.", "en": "Article 85 of Law 5209/2025 states that motor vehicles must carry the triangular warning sign."},
+        "difficulty": 2
+      },
+      {
+        "id": "car-checks-q6",
+        "q": {"el": "Πότε μετράς σωστά την πίεση των ελαστικών;", "en": "When do you correctly measure tyre pressure?"},
+        "options": [{"el": "Αμέσως μετά από μεγάλη διαδρομή", "en": "Right after a long drive"}, {"el": "Μόνο όταν ένα λάστιχο φαίνεται ξεφούσκωτο", "en": "Only when a tyre looks flat"}, {"el": "Με κρύα λάστιχα, με τις τιμές του κατασκευαστή", "en": "With cold tyres, using the manufacturer's values"}],
+        "answer": 2,
+        "explain": {"el": "Τα ζεστά λάστιχα δείχνουν μεγαλύτερη πίεση από την πραγματική, και ένα λάστιχο μπορεί να έχει χαμηλή πίεση χωρίς να φαίνεται.", "en": "Hot tyres read higher than their real pressure, and a tyre can be under-inflated without looking flat."},
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "tyres",
+    "title": {"el": "Ελαστικά", "en": "Tyres"},
+    "icon": "tyre",
+    "summary": {"el": "Τα λάστιχα είναι η μόνη επαφή του αυτοκινήτου με τον δρόμο: πίεση, πέλμα και αλυσίδες.", "en": "Tyres are the car's only contact with the road: pressure, tread and snow chains."},
+    "sections": [
+      {
+        "heading": {"el": "Πίεση ελαστικών", "en": "Tyre pressure"},
+        "body": {"el": "Η σωστή πίεση αναγράφεται σε ετικέτα στο πλαίσιο της πόρτας του οδηγού, στο πορτάκι του ρεζερβουάρ ή στο εγχειρίδιο. Η μέγιστη τιμή στο πλευρό του λάστιχου δεν είναι η πίεση που πρέπει να βάλεις. Χαμηλή πίεση σημαίνει χειρότερο κράτημα και φρενάρισμα, μεγαλύτερη κατανάλωση και κίνδυνο υπερθέρμανσης του ελαστικού.", "en": "The correct pressure is shown on a label in the driver's door frame, on the fuel flap or in the manual. The maximum figure on the tyre sidewall is not the pressure you should use. Low pressure means worse grip and braking, higher fuel consumption and a risk of the tyre overheating."},
+        "tip": {"el": "Με φορτωμένο αυτοκίνητο ή για ταξίδι στις διακοπές, χρησιμοποίησε τις τιμές «πλήρους φορτίου» του κατασκευαστή.", "en": "With a loaded car, for example on holiday, use the manufacturer's 'full load' values."}
+      },
+      {
+        "heading": {"el": "Βάθος πέλματος", "en": "Tread depth"},
+        "body": {"el": "Το ελάχιστο νόμιμο βάθος πέλματος στην Ελλάδα, όπως σε όλη την ΕΕ (Οδηγία 89/459/ΕΟΚ), είναι 1,6 χιλιοστά στις κύριες αυλακώσεις. Μέσα στις αυλακώσεις υπάρχουν μικρά «σημάδια φθοράς» (TWI): όταν το πέλμα φτάσει στο ύψος τους, το λάστιχο πρέπει να αλλάξει. Πολλοί ειδικοί συστήνουν αλλαγή νωρίτερα, γύρω στα 3 χιλιοστά, γιατί στο βρεγμένο το φρενάρισμα χειροτερεύει πολύ.", "en": "The legal minimum tread depth in Greece, as across the EU (Directive 89/459/EEC), is 1.6 mm in the main grooves. Inside the grooves there are small tread wear indicators (TWI): when the tread is level with them, the tyre must be replaced. Many experts recommend replacing earlier, at around 3 mm, because braking on wet roads gets much worse."}
+      },
+      {
+        "heading": {"el": "Φθορές και ηλικία", "en": "Damage and age"},
+        "body": {"el": "Έλεγχε τα πλευρά για φουσκώματα, σκισίματα ή ρωγμές: ένα φούσκωμα σημαίνει εσωτερική ζημιά και το λάστιχο πρέπει να αλλάξει. Η ηλικία φαίνεται στον κωδικό DOT, όπου τα τέσσερα τελευταία ψηφία δείχνουν εβδομάδα και έτος κατασκευής (π.χ. 2324 = 23η εβδομάδα του 2024). Στον ίδιο άξονα βάζεις πάντα ελαστικά ίδιου τύπου και μεγέθους.", "en": "Check the sidewalls for bulges, cuts or cracks: a bulge means internal damage and the tyre must be replaced. The age is shown in the DOT code, where the last four digits are the week and year of manufacture (e.g. 2324 = week 23 of 2024). Always fit tyres of the same type and size on the same axle."}
+      },
+      {
+        "heading": {"el": "Χιόνι και αντιολισθητικές αλυσίδες", "en": "Snow and snow chains"},
+        "body": {"el": "Στην Ελλάδα δεν υπάρχει γενική υποχρέωση για χειμερινά ελαστικά, αλλά στα ορεινά χιονίζει και παγώνει. Ο ΚΟΚ (άρθρο 23) ορίζει ότι σε δρόμο με χιόνι, αν το αυτοκίνητο δεν έχει ειδικά ελαστικά (χιονιού), βάζεις αντιολισθητικές αλυσίδες ή ανάλογα μέσα σε δύο τουλάχιστον κινητήριους τροχούς· το ίδιο ισχύει σε δρόμο με παγετό όταν το ορίζουν πινακίδες ή οι αρχές. Όπου υπάρχει η μπλε κυκλική πινακίδα με τις αλυσίδες, οι αντιολισθητικές αλυσίδες είναι υποχρεωτικές σε δύο τουλάχιστον από τους κινητήριους τροχούς. Οι αλυσίδες μπαίνουν στους τροχούς που κινούν το αυτοκίνητο (στους μπροστινούς σε προσθιοκίνητο) και οδηγείς αργά, μέσα στο όριο ταχύτητας του κατασκευαστή τους.", "en": "Greece has no general winter-tyre requirement, but mountain areas get snow and ice. The Highway Code (Article 23) says that on a snow-covered road, if the car does not have special (winter) tyres, you must fit snow chains or similar devices on at least two driving wheels; the same applies on icy roads when signs or the authorities require it. Where the round blue sign showing chains is posted, snow chains are mandatory on at least two of the driving wheels. Chains go on the wheels that drive the car (the front ones on a front-wheel-drive car) and you drive slowly, within the chain maker's speed limit."},
+        "tip": {"el": "Κάνε πρόβα τοποθέτησης των αλυσίδων στο σπίτι πριν τις χρειαστείς στο κρύο.", "en": "Practise fitting the chains at home before you need them in the cold."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "tyres-q1",
+        "q": {"el": "Ποιο είναι το ελάχιστο νόμιμο βάθος πέλματος για αυτοκίνητο στην Ελλάδα;", "en": "What is the legal minimum tread depth for a car in Greece?"},
+        "options": [{"el": "1,0 χιλιοστό", "en": "1.0 mm"}, {"el": "1,6 χιλιοστά", "en": "1.6 mm"}, {"el": "3,0 χιλιοστά", "en": "3.0 mm"}],
+        "answer": 1,
+        "explain": {"el": "Το όριο είναι 1,6 χιλιοστά, όπως σε όλη την ΕΕ· τα 3 χιλιοστά είναι σύσταση ασφάλειας, όχι νόμος.", "en": "The limit is 1.6 mm, as across the EU; 3 mm is a safety recommendation, not the law."},
+        "difficulty": 1
+      },
+      {
+        "id": "tyres-q2",
+        "q": {"el": "Πού βρίσκεις τη σωστή πίεση ελαστικών για το αυτοκίνητό σου;", "en": "Where do you find the correct tyre pressure for your car?"},
+        "options": [{"el": "Στην ετικέτα της πόρτας ή του ρεζερβουάρ ή στο εγχειρίδιο", "en": "On the door or fuel-flap label or in the owner's manual"}, {"el": "Στη μέγιστη τιμή του πλευρού του λάστιχου", "en": "From the maximum figure on the tyre sidewall"}, {"el": "Είναι πάντα 2 bar για όλα τα αυτοκίνητα", "en": "It is always 2 bar for every car"}],
+        "answer": 0,
+        "explain": {"el": "Κάθε αυτοκίνητο έχει τις δικές του τιμές, ανάλογα με το βάρος και το φορτίο.", "en": "Every car has its own values, depending on weight and load."},
+        "difficulty": 1
+      },
+      {
+        "id": "tyres-q3",
+        "q": {"el": "Πότε πρέπει να μετρήσεις την πίεση;", "en": "When should you measure the pressure?"},
+        "options": [{"el": "Μετά από μεγάλη διαδρομή", "en": "After a long drive"}, {"el": "Δεν έχει σημασία", "en": "It does not matter"}, {"el": "Με κρύα ελαστικά", "en": "With cold tyres"}],
+        "answer": 2,
+        "explain": {"el": "Η θερμότητα αυξάνει την πίεση, οπότε η μέτρηση με ζεστά λάστιχα παραπλανά.", "en": "Heat raises the pressure, so measuring hot tyres is misleading."},
+        "difficulty": 2
+      },
+      {
+        "id": "tyres-q4",
+        "q": {"el": "Συναντάς την πινακίδα υποχρεωτικών αντιολισθητικών αλυσίδων. Πού πρέπει να τις έχεις;", "en": "You meet the 'snow chains compulsory' sign. Where must the chains be fitted?"},
+        "options": [{"el": "Πάντα μόνο στους πίσω τροχούς", "en": "Always on the rear wheels only"}, {"el": "Σε δύο τουλάχιστον κινητήριους τροχούς", "en": "On at least two driving wheels"}, {"el": "Δεν χρειάζονται αν το αυτοκίνητο έχει ABS", "en": "They are not needed if the car has ABS"}],
+        "answer": 1,
+        "explain": {"el": "Ο ΚΟΚ ορίζει αλυσίδες σε δύο τουλάχιστον από τους κινητήριους τροχούς· το ABS δεν δίνει πρόσφυση στο χιόνι.", "en": "The Highway Code requires chains on at least two driving wheels; ABS does not create grip on snow."},
+        "difficulty": 2
+      },
+      {
+        "id": "tyres-q5",
+        "q": {"el": "Ο κωδικός DOT ενός ελαστικού τελειώνει σε 1523. Τι σημαίνει;", "en": "A tyre's DOT code ends in 1523. What does it mean?"},
+        "options": [{"el": "Κατασκευάστηκε στις 15 Ιανουαρίου 2023", "en": "Made on 15 January 2023"}, {"el": "Μέγιστη ταχύτητα 152 χλμ/ώρα", "en": "Maximum speed 152 km/h"}, {"el": "Κατασκευάστηκε την 15η εβδομάδα του 2023", "en": "Made in week 15 of 2023"}],
+        "answer": 2,
+        "explain": {"el": "Τα δύο πρώτα ψηφία είναι η εβδομάδα και τα δύο τελευταία το έτος κατασκευής.", "en": "The first two digits are the week and the last two the year of manufacture."},
+        "difficulty": 3
+      },
+      {
+        "id": "tyres-q6",
+        "q": {"el": "Τι προκαλούν τα ελαστικά με χαμηλή πίεση;", "en": "What do under-inflated tyres cause?"},
+        "options": [{"el": "Μεγαλύτερη κατανάλωση και χειρότερο κράτημα", "en": "Higher fuel consumption and worse grip"}, {"el": "Καλύτερο κράτημα στη βροχή", "en": "Better grip in the rain"}, {"el": "Μικρότερη κατανάλωση καυσίμου", "en": "Lower fuel consumption"}],
+        "answer": 0,
+        "explain": {"el": "Το ξεφούσκωτο λάστιχο παραμορφώνεται, ζεσταίνεται, φθείρεται γρηγορότερα και αυξάνει την αντίσταση κύλισης.", "en": "An under-inflated tyre flexes, heats up, wears faster and increases rolling resistance."},
+        "difficulty": 2
+      },
+      {
+        "id": "tyres-q7",
+        "q": {"el": "Οδηγείς σε δρόμο με χιόνι όπου δεν υπάρχει πινακίδα για αλυσίδες, και το αυτοκίνητο δεν έχει ελαστικά χιονιού. Τι ισχύει;", "en": "You are driving on a snow-covered road with no snow-chain sign, and the car does not have winter tyres. What applies?"},
+        "options": [{"el": "Χωρίς πινακίδα δεν χρειάζεται τίποτα", "en": "Without a sign nothing is required"}, {"el": "Πρέπει να βάλω αλυσίδες ή ανάλογα αντιολισθητικά μέσα σε δύο τουλάχιστον κινητήριους τροχούς", "en": "I must fit chains or similar anti-skid devices on at least two driving wheels"}, {"el": "Αρκεί το αυτοκίνητο να έχει ABS και ESP", "en": "It is enough that the car has ABS and ESP"}],
+        "answer": 1,
+        "explain": {"el": "Το άρθρο 23 του ν. 5209/2025 ορίζει ότι σε δρόμο με χιόνι, αν το όχημα δεν φέρει ειδικά ελαστικά, ο οδηγός τοποθετεί αντιολισθητικές αλυσίδες ή ανάλογα μέσα σε δύο τουλάχιστον κινητήριους τροχούς.", "en": "Article 23 of Law 5209/2025 says that on a snow-covered road, if the vehicle has no special tyres, the driver fits snow chains or similar devices on at least two driving wheels."},
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "car-lights",
+    "title": {"el": "Φώτα και πότε τα χρησιμοποιούμε", "en": "Lights and when to use them"},
+    "icon": "light",
+    "summary": {"el": "Τα φώτα σε βοηθούν να βλέπεις και να σε βλέπουν, χωρίς να θαμπώνεις τους άλλους.", "en": "Lights help you see and be seen, without dazzling others."},
+    "sections": [
+      {
+        "heading": {"el": "Τα φώτα του αυτοκινήτου", "en": "The car's lights"},
+        "body": {"el": "Κάθε φως έχει συγκεκριμένη χρήση και ο ΚΟΚ ορίζει πότε ανάβει το καθένα. Τα φώτα ημέρας (DRL) των νεότερων αυτοκινήτων ανάβουν αυτόματα, αλλά συχνά δεν ανάβουν τα πίσω φώτα. Γι' αυτό στο σούρουπο, στη βροχή και στη νύχτα ανάβεις τα μεσαία.", "en": "Each light has a specific purpose and the Highway Code states when each one is used. The daytime running lights (DRL) of newer cars switch on automatically, but often do not light the rear lamps. That is why at dusk, in rain and at night you switch on the dipped beam."},
+        "bullets": [
+          {"el": "Φώτα θέσης (μικρά): για να φαίνεσαι, π.χ. σε στάση τη νύχτα", "en": "Position lights (sidelights): to be seen, e.g. when stopped at night"},
+          {"el": "Φώτα διασταύρωσης (μεσαία): η κανονική χρήση τη νύχτα", "en": "Dipped beam: normal use at night"},
+          {"el": "Φώτα πορείας (μεγάλα): σε σκοτεινούς δρόμους χωρίς άλλα οχήματα μπροστά", "en": "Main (high) beam: on dark roads with no other vehicles ahead"},
+          {"el": "Φώτα ομίχλης: σε ομίχλη, χιονόπτωση ή καταρρακτώδη βροχή (και σε στενούς ελικοειδείς δρόμους)", "en": "Fog lights: in fog, snowfall or torrential rain (and on narrow winding roads)"}
+        ]
+      },
+      {
+        "heading": {"el": "Τη νύχτα", "en": "At night"},
+        "body": {"el": "Τη νύχτα τα φώτα του οχήματος πρέπει να είναι αναμμένα. Τα μεγάλα απαγορεύονται όταν ο δρόμος φωτίζεται αρκετά ώστε να βλέπεις καθαρά σε απόσταση τουλάχιστον 100 μέτρων, καθώς και όταν το όχημα είναι σταματημένο ή σταθμευμένο. Χαμηλώνεις στα μεσαία όταν έρχεται όχημα αντίθετα και όταν ακολουθείς από κοντά άλλο όχημα.", "en": "At night the vehicle's lights must be on. Main beam is forbidden when the road is lit well enough to see clearly for at least 100 metres, and when the vehicle is stopped or parked. Dip to the dipped beam when a vehicle comes the other way and when you are following close behind another vehicle."},
+        "tip": {"el": "Αν σε θαμπώσει αντίθετο όχημα, κοίτα προς τη δεξιά άκρη του δρόμου και μείωσε ταχύτητα.", "en": "If an oncoming vehicle dazzles you, look towards the right edge of the road and slow down."}
+      },
+      {
+        "heading": {"el": "Ομίχλη, σήραγγες και προειδοποιήσεις", "en": "Fog, tunnels and warnings"},
+        "body": {"el": "Τα φώτα ομίχλης χρησιμοποιούνται σε ομίχλη, χιονόπτωση ή καταρρακτώδη βροχή· ο ΚΟΚ (άρθρο 40) τα επιτρέπει επίσης σε στενούς ελικοειδείς δρόμους. Το πίσω φως ομίχλης είναι πολύ δυνατό και το σβήνεις μόλις βελτιωθεί η ορατότητα. Στις σήραγγες που σημαίνονται με πινακίδα ανάβεις μεσαία ή μεγάλα, ακόμη κι αν η σήραγγα φωτίζεται. Τη νύχτα, αντί για κόρνα, μπορείς να προειδοποιήσεις με σύντομο αναβόσβημα των φώτων, π.χ. για πρόθεση προσπέρασης· κατά τα άλλα απαγορεύεται να αναβοσβήνεις τα φώτα όταν συναντάς αντίθετο όχημα.", "en": "Fog lights are used in fog, snowfall or torrential rain; the Highway Code (Article 40) also allows them on narrow winding roads. The rear fog light is very bright and you switch it off as soon as visibility improves. In tunnels marked by a sign you switch on dipped or main beam, even if the tunnel is lit. At night, instead of the horn, you may warn with a short flash of the lights, e.g. of your intention to overtake; apart from such warnings, flashing your lights at an oncoming vehicle is forbidden."},
+        "tip": {"el": "Οι μοτοσικλέτες και τα μοτοποδήλατα κινούνται και την ημέρα με αναμμένο μεσαίο φως, οπότε το μονό φως που πλησιάζει μπορεί να είναι μηχανή.", "en": "Motorcycles and mopeds must ride with the dipped beam on during the day too, so a single approaching light may be a motorcycle."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "car-lights-q1",
+        "q": {"el": "Μπαίνεις σε σήραγγα με πινακίδα σήραγγας, που είναι φωτισμένη. Τι κάνεις με τα φώτα;", "en": "You enter a signposted tunnel that is lit. What do you do with your lights?"},
+        "options": [{"el": "Τα σβήνω, αφού η σήραγγα φωτίζεται", "en": "Switch them off, since the tunnel is lit"}, {"el": "Ανάβω μεσαία (ή μεγάλα) φώτα", "en": "Switch on dipped (or main) beam"}, {"el": "Ανάβω μόνο τα αλάρμ", "en": "Switch on only the hazard lights"}],
+        "answer": 1,
+        "explain": {"el": "Ο ΚΟΚ (άρθρο 33) ορίζει μεσαία ή μεγάλα φώτα στις σήραγγες ακόμη κι αν είναι φωτισμένες.", "en": "The Highway Code (Article 33) requires dipped or main beam in tunnels even when they are lit."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-lights-q2",
+        "q": {"el": "Οδηγείς τη νύχτα με μεγάλα φώτα και έρχεται όχημα αντίθετα. Τι κάνεις;", "en": "You are driving at night on main beam and a vehicle comes towards you. What do you do?"},
+        "options": [{"el": "Χαμηλώνω στα μεσαία", "en": "Dip to the dipped beam"}, {"el": "Κρατάω τα μεγάλα", "en": "Keep the main beam on"}, {"el": "Σβήνω όλα τα φώτα", "en": "Switch off all the lights"}],
+        "answer": 0,
+        "explain": {"el": "Τα μεγάλα θαμπώνουν τον αντίθετο οδηγό· τα μεσαία φωτίζουν τον δρόμο χωρίς θάμβωση.", "en": "Main beam dazzles the oncoming driver; dipped beam lights the road without dazzle."},
+        "difficulty": 1
+      },
+      {
+        "id": "car-lights-q3",
+        "q": {"el": "Τα μεγάλα φώτα απαγορεύονται όταν ο δρόμος φωτίζεται αρκετά ώστε να βλέπεις καθαρά σε απόσταση τουλάχιστον:", "en": "Main beam is forbidden when the road is lit well enough to see clearly for at least:"},
+        "options": [{"el": "50 μέτρων", "en": "50 metres"}, {"el": "100 μέτρων", "en": "100 metres"}, {"el": "200 μέτρων", "en": "200 metres"}],
+        "answer": 1,
+        "explain": {"el": "Το άρθρο 40 του ν. 5209/2025 αναφέρει απόσταση τουλάχιστον 100 μέτρων.", "en": "Article 40 of Law 5209/2025 refers to a distance of at least 100 metres."},
+        "difficulty": 3
+      },
+      {
+        "id": "car-lights-q4",
+        "q": {"el": "Πότε επιτρέπεται να χρησιμοποιήσεις τα φώτα ομίχλης;", "en": "When may you use the fog lights?"},
+        "options": [{"el": "Κάθε φορά που είναι σκοτάδι", "en": "Whenever it is dark"}, {"el": "Τη μέρα, για να φαίνομαι καλύτερα", "en": "In daytime, to be seen better"}, {"el": "Σε ομίχλη, χιονόπτωση ή καταρρακτώδη βροχή", "en": "In fog, snowfall or torrential rain"}],
+        "answer": 2,
+        "explain": {"el": "Σε καλή ορατότητα τα φώτα ομίχλης, ιδίως το πίσω, θαμπώνουν τους άλλους οδηγούς. Ο ΚΟΚ (άρθρο 40) τα επιτρέπει επίσης σε στενούς ελικοειδείς δρόμους.", "en": "In good visibility fog lights, especially the rear one, dazzle other drivers. The Highway Code (Article 40) also allows them on narrow winding roads."},
+        "difficulty": 2
+      },
+      {
+        "id": "car-lights-q5",
+        "q": {"el": "Ακολουθείς από κοντά άλλο αυτοκίνητο τη νύχτα. Ποια φώτα έχεις;", "en": "You are following close behind another car at night. Which lights do you use?"},
+        "options": [{"el": "Μεσαία, για να μη θαμπώνω τον οδηγό μπροστά", "en": "Dipped beam, so I do not dazzle the driver ahead"}, {"el": "Μεγάλα, για να βλέπω καλύτερα", "en": "Main beam, to see better"}, {"el": "Φώτα ομίχλης", "en": "Fog lights"}],
+        "answer": 0,
+        "explain": {"el": "Τα μεγάλα φώτα αντανακλώνται στους καθρέπτες του μπροστινού και τον τυφλώνουν.", "en": "Main beam reflects in the mirrors of the car ahead and blinds its driver."},
+        "difficulty": 2
+      },
+      {
+        "id": "car-lights-q6",
+        "q": {"el": "Το αυτοκίνητό σου έχει φώτα ημέρας (DRL). Τι ισχύει στο σούρουπο;", "en": "Your car has daytime running lights (DRL). What applies at dusk?"},
+        "options": [{"el": "Αρκούν, τα πίσω φώτα ανάβουν πάντα", "en": "They are enough, the rear lights are always on"}, {"el": "Συχνά δεν ανάβουν τα πίσω φώτα· ανάβω τα μεσαία", "en": "They often do not light the rear; I switch on the dipped beam"}, {"el": "Απαγορεύονται στην Ελλάδα", "en": "They are forbidden in Greece"}],
+        "answer": 1,
+        "explain": {"el": "Τα φώτα ημέρας είναι για να σε βλέπουν τη μέρα· δεν αντικαθιστούν τα μεσαία και τα πίσω φώτα.", "en": "Daytime running lights help others see you by day; they do not replace the dipped beam and rear lights."},
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "safety-systems",
+    "title": {"el": "Συστήματα ασφαλείας", "en": "Safety systems"},
+    "icon": "car",
+    "summary": {"el": "Ζώνες, αερόσακοι, παιδικά καθίσματα, ABS και ESP: τι κάνουν και πώς τα χρησιμοποιείς σωστά.", "en": "Seat belts, airbags, child seats, ABS and ESP: what they do and how to use them correctly."},
+    "sections": [
+      {
+        "heading": {"el": "Ζώνη ασφαλείας και προσκέφαλο", "en": "Seat belt and head restraint"},
+        "body": {"el": "Η ζώνη ασφαλείας είναι υποχρεωτική για τον οδηγό και για όλους τους επιβάτες, μπροστά και πίσω. Ο οδηγός οφείλει να ελέγχει ότι οι συνεπιβάτες του φορούν ζώνη. Το κάτω μέρος της ζώνης περνά χαμηλά στη λεκάνη και το διαγώνιο πάνω από τον ώμο, όχι στον λαιμό. Το προσκέφαλο ρυθμίζεται ώστε το πάνω μέρος του να είναι περίπου στο ύψος της κορυφής του κεφαλιού.", "en": "The seat belt is compulsory for the driver and all passengers, front and rear. The driver must check that passengers wear their belts. The lap part goes low across the hips and the diagonal part over the shoulder, not the neck. Adjust the head restraint so its top is roughly level with the top of your head."}
+      },
+      {
+        "heading": {"el": "Αερόσακοι", "en": "Airbags"},
+        "body": {"el": "Οι αερόσακοι συμπληρώνουν τη ζώνη, δεν την αντικαθιστούν. Μην κάθεσαι πολύ κοντά στο τιμόνι και κράτα τα χέρια ελαφρά λυγισμένα. Ποτέ μη βάζεις παιδικό κάθισμα με φορά προς τα πίσω στη θέση του συνοδηγού αν ο μετωπικός αερόσακος είναι ενεργός.", "en": "Airbags supplement the seat belt, they do not replace it. Do not sit too close to the steering wheel and keep your arms slightly bent. Never fit a rear-facing child seat in the front passenger seat if the front airbag is active."}
+      },
+      {
+        "heading": {"el": "Παιδιά και ISOFIX", "en": "Children and ISOFIX"},
+        "body": {"el": "Για τη μεταφορά παιδιών με αυτοκίνητο είναι υποχρεωτικά τα ειδικά μέσα συγκράτησης, όπως τα παιδικά καθίσματα. Παιδί κάτω των 12 ετών δεν κάθεται δίπλα στον οδηγό, εκτός αν συγκρατείται με εγκεκριμένο σύστημα κατάλληλο για την ηλικία, το ύψος και το βάρος του. Το ISOFIX είναι τυποποιημένα σημεία στερέωσης ανάμεσα στην πλάτη και το μαξιλάρι του καθίσματος, που μειώνουν τα λάθη τοποθέτησης.", "en": "Special restraints such as child seats are compulsory when carrying children by car. A child under 12 may not sit next to the driver unless secured in an approved restraint suitable for their age, height and weight. ISOFIX is a set of standard anchor points between the seat back and cushion that reduces fitting mistakes."},
+        "tip": {"el": "Με ISOFIX χρησιμοποίησε και το πάνω λουρί (top tether) ή το πόδι στήριξης, όπως ορίζει ο κατασκευαστής του καθίσματος.", "en": "With ISOFIX also use the top tether or support leg, as the child-seat maker specifies."}
+      },
+      {
+        "heading": {"el": "ABS, ESP και eCall", "en": "ABS, ESP and eCall"},
+        "body": {"el": "Το ABS εμποδίζει το μπλοκάρισμα των τροχών στο απότομο φρενάρισμα, ώστε να μπορείς να στρίψεις το τιμόνι. Σε κίνδυνο πατάς δυνατά και σταθερά το φρένο, χωρίς να το «παίζεις», ακόμη κι αν το πεντάλ δονείται. Το ESP ανιχνεύει την ολίσθηση και φρενάρει μεμονωμένους τροχούς για να κρατήσει το αυτοκίνητο στην πορεία του, αλλά δεν νικά τους νόμους της φυσικής. Το eCall των νεότερων αυτοκινήτων καλεί αυτόματα το 112 μετά από σοβαρό ατύχημα.", "en": "ABS stops the wheels locking under hard braking, so you can still steer. In an emergency press the brake hard and keep pressing, without pumping it, even if the pedal vibrates. ESP detects skids and brakes individual wheels to keep the car on course, but it cannot beat the laws of physics. eCall in newer cars automatically calls 112 after a serious crash."},
+        "tip": {"el": "Τα συστήματα υποβοήθησης (π.χ. αυτόματο φρενάρισμα) βοηθούν, αλλά την ευθύνη την έχει πάντα ο οδηγός.", "en": "Driver-assistance systems (e.g. automatic emergency braking) help, but the driver is always responsible."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "safety-systems-q1",
+        "q": {"el": "Ποιοι πρέπει να φορούν ζώνη ασφαλείας;", "en": "Who must wear a seat belt?"},
+        "options": [{"el": "Μόνο ο οδηγός", "en": "Only the driver"}, {"el": "Ο οδηγός και ο συνοδηγός", "en": "The driver and the front passenger"}, {"el": "Ο οδηγός και όλοι οι επιβάτες", "en": "The driver and all passengers"}],
+        "answer": 2,
+        "explain": {"el": "Ο ΚΟΚ ορίζει υποχρεωτική ζώνη για οδηγούς και επιβάτες, μπροστά και πίσω.", "en": "The Highway Code makes belts compulsory for drivers and passengers, front and rear."},
+        "difficulty": 1
+      },
+      {
+        "id": "safety-systems-q2",
+        "q": {"el": "Πώς φρενάρεις σε κίνδυνο με αυτοκίνητο που έχει ABS;", "en": "How do you brake in an emergency in a car with ABS?"},
+        "options": [{"el": "Πατάω και αφήνω το φρένο επαναλαμβανόμενα", "en": "Press and release the brake repeatedly"}, {"el": "Πατάω δυνατά και σταθερά και στρίβω αν χρειαστεί", "en": "Press hard and keep pressing, steering if needed"}, {"el": "Τραβάω το χειρόφρενο", "en": "Pull the handbrake"}],
+        "answer": 1,
+        "explain": {"el": "Το ABS κάνει μόνο του τις διακοπές πίεσης· εσύ κρατάς σταθερή πίεση και κατευθύνεις το αυτοκίνητο.", "en": "ABS modulates the pressure itself; you keep firm pressure and steer the car."},
+        "difficulty": 2
+      },
+      {
+        "id": "safety-systems-q3",
+        "q": {"el": "Πότε επιτρέπεται παιδικό κάθισμα με φορά προς τα πίσω στη θέση του συνοδηγού;", "en": "When may a rear-facing child seat go in the front passenger seat?"},
+        "options": [{"el": "Μόνο αν ο μετωπικός αερόσακος του συνοδηγού είναι απενεργοποιημένος", "en": "Only if the front passenger airbag is deactivated"}, {"el": "Πάντα", "en": "Always"}, {"el": "Μόνο σε αυτοκινητόδρομο", "en": "Only on motorways"}],
+        "answer": 0,
+        "explain": {"el": "Ο αερόσακος ανοίγει με μεγάλη δύναμη και μπορεί να τραυματίσει σοβαρά το παιδί.", "en": "The airbag inflates with great force and can seriously injure the child."},
+        "difficulty": 2
+      },
+      {
+        "id": "safety-systems-q4",
+        "q": {"el": "Παιδί 8 ετών θέλει να καθίσει στη θέση του συνοδηγού. Τι ισχύει;", "en": "An 8-year-old wants to sit in the front passenger seat. What applies?"},
+        "options": [{"el": "Επιτρέπεται με την κανονική ζώνη", "en": "It is allowed with the normal seat belt"}, {"el": "Μόνο με εγκεκριμένο σύστημα συγκράτησης κατάλληλο για ηλικία, ύψος και βάρος", "en": "Only with an approved restraint suitable for age, height and weight"}, {"el": "Επιτρέπεται πάντα πάνω από 5 ετών", "en": "It is always allowed above age 5"}],
+        "answer": 1,
+        "explain": {"el": "Το άρθρο 37 του ν. 5209/2025 απαγορεύει σε παιδιά κάτω των 12 τη θέση δίπλα στον οδηγό χωρίς κατάλληλο εγκεκριμένο σύστημα.", "en": "Article 37 of Law 5209/2025 bars children under 12 from the seat next to the driver without a suitable approved restraint."},
+        "difficulty": 2
+      },
+      {
+        "id": "safety-systems-q5",
+        "q": {"el": "Τι κάνει το ESP;", "en": "What does ESP do?"},
+        "options": [{"el": "Βοηθά να αποφευχθεί η ολίσθηση φρενάροντας μεμονωμένους τροχούς", "en": "Helps prevent skids by braking individual wheels"}, {"el": "Αυξάνει την ισχύ του κινητήρα", "en": "Increases engine power"}, {"el": "Κάνει περιττά τα καλά ελαστικά", "en": "Makes good tyres unnecessary"}],
+        "answer": 0,
+        "explain": {"el": "Το ESP διορθώνει την πορεία, αλλά χωρίς πρόσφυση από τα ελαστικά δεν μπορεί να κάνει θαύματα.", "en": "ESP corrects the car's path, but without tyre grip it cannot work miracles."},
+        "difficulty": 2
+      },
+      {
+        "id": "safety-systems-q6",
+        "q": {"el": "Τι είναι το ISOFIX;", "en": "What is ISOFIX?"},
+        "options": [{"el": "Σύστημα επισκευής ελαστικού", "en": "A tyre repair system"}, {"el": "Τυποποιημένο σύστημα στερέωσης παιδικών καθισμάτων", "en": "A standard system for attaching child seats"}, {"el": "Είδος αερόσακου", "en": "A type of airbag"}],
+        "answer": 1,
+        "explain": {"el": "Τα σημεία ISOFIX στερεώνουν το παιδικό κάθισμα κατευθείαν στο αμάξωμα, χωρίς να χρειάζεται η ζώνη του αυτοκινήτου για τη στερέωση του καθίσματος.", "en": "ISOFIX points attach the child seat directly to the car body, without needing the car's seat belt to hold the seat in place."},
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "id": "breakdowns",
+    "title": {"el": "Βλάβη στον δρόμο", "en": "Breaking down"},
+    "icon": "warning",
+    "summary": {"el": "Τι κάνεις βήμα βήμα όταν ακινητοποιηθείς: αλάρμ, τρίγωνο, ασφαλές σημείο και κλήση για βοήθεια.", "en": "What to do step by step when you break down: hazards, triangle, a safe place and calling for help."},
+    "sections": [
+      {
+        "heading": {"el": "Τα πρώτα βήματα", "en": "First steps"},
+        "body": {"el": "Άναψε αμέσως τα αλάρμ και προσπάθησε να βγάλεις το αυτοκίνητο έξω από το οδόστρωμα, όσο πιο δεξιά γίνεται. Στον αυτοκινητόδρομο σταματάς στη Λωρίδα Έκτακτης Ανάγκης (ΛΕΑ): αυτή προορίζεται για οχήματα άμεσης ανάγκης και συντήρησης, και κάθε άλλη χρήση της απαγορεύεται εκτός από την ακινητοποίηση λόγω βλάβης. Οι επιβάτες βγαίνουν από την πλευρά που δεν περνούν αυτοκίνητα και περιμένουν πίσω από το προστατευτικό στηθαίο. Τη νύχτα κρατάς αναμμένα τα φώτα θέσης.", "en": "Switch on the hazard lights at once and try to get the car off the carriageway, as far to the right as possible. On a motorway you stop in the emergency lane: it is reserved for emergency and maintenance vehicles, and any other use is forbidden except stopping after a breakdown. Passengers get out on the side away from traffic and wait behind the safety barrier. At night keep the position lights on."},
+        "tip": {"el": "Φόρα ανακλαστικό γιλέκο πριν βγεις από το αυτοκίνητο, αν έχεις.", "en": "Put on a reflective vest before getting out of the car, if you have one."}
+      },
+      {
+        "heading": {"el": "Το προειδοποιητικό τρίγωνο", "en": "The warning triangle"},
+        "body": {"el": "Αν το όχημα μένει πάνω στο οδόστρωμα, τοποθετείς το τρίγωνο πίσω του, ώστε οι οδηγοί που πλησιάζουν να ειδοποιούνται από απόσταση. Το τρίγωνο είναι ισόπλευρο, με πλευρά τουλάχιστον 40 εκατοστών και κόκκινο ανακλαστικό περίγραμμα. Περπάτα προσεκτικά, όσο πιο έξω από την κυκλοφορία γίνεται.", "en": "If the vehicle stays on the carriageway, place the triangle behind it so approaching drivers are warned from a distance. The triangle is equilateral, with sides of at least 40 cm and a red reflective border. Walk carefully, keeping as far from the traffic as you can."},
+        "bullets": [
+          {"el": "Μέσα σε κατοικημένη περιοχή: σε απόσταση μεγαλύτερη από 20 μέτρα", "en": "In built-up areas: more than 20 metres behind"},
+          {"el": "Εκτός κατοικημένης περιοχής: σε απόσταση μεγαλύτερη από 50 μέτρα", "en": "Outside built-up areas: more than 50 metres behind"},
+          {"el": "Σε αυτοκινητόδρομο και οδό ταχείας κυκλοφορίας: τουλάχιστον 100 μέτρα", "en": "On motorways and expressways: at least 100 metres behind"}
+        ]
+      },
+      {
+        "heading": {"el": "Κανόνες στον αυτοκινητόδρομο", "en": "Motorway rules"},
+        "body": {"el": "Στον αυτοκινητόδρομο απαγορεύονται η όπισθεν και η αναστροφή, ακόμη κι αν έχασες την έξοδο. Αν το αυτοκίνητο ρυμουλκείται λόγω βλάβης, βγαίνει από τον αυτοκινητόδρομο στην πρώτη έξοδο. Μην περπατάς ποτέ πάνω στις λωρίδες κυκλοφορίας.", "en": "On a motorway reversing and U-turns are forbidden, even if you missed your exit. If the car is being towed because of a breakdown, it must leave the motorway at the first exit. Never walk on the traffic lanes."}
+      },
+      {
+        "heading": {"el": "Κλήση για βοήθεια", "en": "Calling for help"},
+        "body": {"el": "Σε ατύχημα με τραυματίες ή κίνδυνο καλείς το 112, τον ενιαίο ευρωπαϊκό αριθμό έκτακτης ανάγκης, που απαντά και στα αγγλικά. Για απλή βλάβη καλείς την οδική βοήθεια του ασφαλιστηρίου σου ή της εταιρείας με την οποία έχεις συμβόλαιο (π.χ. ΕΛΠΑ 10400). Οι αυτοκινητόδρομοι έχουν και δικές τους γραμμές βοήθειας, που αναγράφονται σε πινακίδες. Σε ατύχημα χωρίς τραυματίες ανταλλάσσετε στοιχεία και ενημερώνετε την ασφαλιστική σας· συνήθως συμπληρώνετε μαζί το έντυπο δήλωσης ατυχήματος του Φιλικού Διακανονισμού.", "en": "In a crash with injuries or danger call 112, the single European emergency number, which also answers in English. For a simple breakdown call the roadside assistance on your insurance policy or contract (e.g. ELPA 10400). Motorways also have their own help lines, shown on signs. In a crash without injuries exchange details and inform your insurer; usually you fill in the 'Friendly Settlement' (Φιλικός Διακανονισμός) accident report form together."},
+        "tip": {"el": "Αποθήκευσε από τώρα στο κινητό τον αριθμό οδικής βοήθειας και τον αριθμό του ασφαλιστηρίου σου.", "en": "Save your roadside assistance number and your policy number in your phone now."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "breakdowns-q1",
+        "q": {"el": "Το αυτοκίνητο παθαίνει βλάβη ενώ οδηγείς. Ποιο είναι το πρώτο που κάνεις;", "en": "Your car breaks down while you are driving. What do you do first?"},
+        "options": [{"el": "Ανάβω τα αλάρμ και κατευθύνομαι σε ασφαλές σημείο", "en": "Switch on the hazard lights and steer to a safe place"}, {"el": "Ανοίγω το καπό στη μέση του δρόμου", "en": "Open the bonnet in the middle of the road"}, {"el": "Τηλεφωνώ σε φίλους για συμβουλές", "en": "Phone friends for advice"}],
+        "answer": 0,
+        "explain": {"el": "Πρώτα προειδοποιείς τους άλλους και απομακρύνεσαι από την κυκλοφορία.", "en": "First warn others and get away from the traffic."},
+        "difficulty": 1
+      },
+      {
+        "id": "breakdowns-q2",
+        "q": {"el": "Σε πόση απόσταση πίσω από το όχημα τοποθετείς το τρίγωνο σε αυτοκινητόδρομο;", "en": "How far behind the vehicle do you place the triangle on a motorway?"},
+        "options": [{"el": "Τουλάχιστον 20 μέτρα", "en": "At least 20 metres"}, {"el": "Τουλάχιστον 50 μέτρα", "en": "At least 50 metres"}, {"el": "Τουλάχιστον 100 μέτρα", "en": "At least 100 metres"}],
+        "answer": 2,
+        "explain": {"el": "Το άρθρο 33 του ν. 5209/2025 ορίζει απόσταση εκατό (100) τουλάχιστον μέτρων σε αυτοκινητόδρομους και οδούς ταχείας κυκλοφορίας.", "en": "Article 33 of Law 5209/2025 sets at least 100 metres on motorways and expressways."},
+        "difficulty": 2
+      },
+      {
+        "id": "breakdowns-q3",
+        "q": {"el": "Σε πόση απόσταση τοποθετείς το τρίγωνο σε επαρχιακό δρόμο εκτός κατοικημένης περιοχής;", "en": "How far do you place the triangle on a rural road outside built-up areas?"},
+        "options": [{"el": "Πάνω από 10 μέτρα", "en": "More than 10 metres"}, {"el": "Πάνω από 50 μέτρα", "en": "More than 50 metres"}, {"el": "Ακριβώς πίσω από το αυτοκίνητο", "en": "Right behind the car"}],
+        "answer": 1,
+        "explain": {"el": "Το άρθρο 38 ορίζει απόσταση μεγαλύτερη από 50 μέτρα εκτός κατοικημένων περιοχών.", "en": "Article 38 requires more than 50 metres outside built-up areas."},
+        "difficulty": 2
+      },
+      {
+        "id": "breakdowns-q4",
+        "q": {"el": "Σε πόση απόσταση πίσω από το όχημα τοποθετείς το τρίγωνο μέσα σε κατοικημένη περιοχή;", "en": "How far behind the vehicle do you place the triangle inside a built-up area?"},
+        "options": [{"el": "Πάνω από 20 μέτρα", "en": "More than 20 metres"}, {"el": "Πάνω από 100 μέτρα", "en": "More than 100 metres"}, {"el": "Πάνω από 200 μέτρα", "en": "More than 200 metres"}],
+        "answer": 0,
+        "explain": {"el": "Το άρθρο 38 ορίζει απόσταση μεγαλύτερη από 20 μέτρα στις κατοικημένες περιοχές.", "en": "Article 38 requires more than 20 metres in built-up areas."},
+        "difficulty": 3
+      },
+      {
+        "id": "breakdowns-q5",
+        "q": {"el": "Πού περιμένουν οι επιβάτες μετά από βλάβη σε αυτοκινητόδρομο;", "en": "Where should passengers wait after a breakdown on a motorway?"},
+        "options": [{"el": "Μέσα στο αυτοκίνητο με δεμένες ζώνες", "en": "Inside the car with belts fastened"}, {"el": "Πίσω από το προστατευτικό στηθαίο, μακριά από την κυκλοφορία", "en": "Behind the safety barrier, away from traffic"}, {"el": "Στη ΛΕΑ, δίπλα στο αυτοκίνητο", "en": "In the emergency lane, next to the car"}],
+        "answer": 1,
+        "explain": {"el": "Ένα ακινητοποιημένο αυτοκίνητο μπορεί να χτυπηθεί από πίσω· η ασφαλέστερη θέση είναι πίσω από το στηθαίο.", "en": "A stopped car can be hit from behind; the safest place is behind the barrier."},
+        "difficulty": 2
+      },
+      {
+        "id": "breakdowns-q6",
+        "q": {"el": "Ποιος είναι ο ενιαίος ευρωπαϊκός αριθμός έκτακτης ανάγκης;", "en": "What is the single European emergency number?"},
+        "options": [{"el": "100", "en": "100"}, {"el": "166", "en": "166"}, {"el": "112", "en": "112"}],
+        "answer": 2,
+        "explain": {"el": "Το 112 λειτουργεί σε όλη την ΕΕ, δωρεάν, όλο το 24ωρο. Το 100 είναι η Αστυνομία και το 166 το ΕΚΑΒ.", "en": "112 works across the EU, free, 24 hours a day. 100 is the Police and 166 is the ambulance service (EKAB)."},
+        "difficulty": 1
+      },
+      {
+        "id": "breakdowns-q7",
+        "q": {"el": "Το αυτοκίνητό σου ρυμουλκείται σε αυτοκινητόδρομο λόγω βλάβης. Τι πρέπει να γίνει;", "en": "Your car is being towed on a motorway because of a breakdown. What must happen?"},
+        "options": [{"el": "Να βγει στην πρώτη έξοδο", "en": "It must leave at the first exit"}, {"el": "Να συνεχίσει μέχρι τον προορισμό", "en": "It may continue to the destination"}, {"el": "Να κινηθεί σε όλη τη διαδρομή στη ΛΕΑ", "en": "It must use the emergency lane all the way"}],
+        "answer": 0,
+        "explain": {"el": "Το άρθρο 33 ορίζει ότι όχημα που ρυμουλκείται λόγω βλάβης εξέρχεται στην πρώτη έξοδο.", "en": "Article 33 states that a vehicle towed because of a breakdown leaves at the first exit."},
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "kteo-insurance",
+    "title": {"el": "ΚΤΕΟ και ασφάλιση", "en": "KTEO inspection and insurance"},
+    "icon": "law",
+    "summary": {"el": "Τι είναι ο τεχνικός έλεγχος ΚΤΕΟ, πότε τον περνάς και τι καλύπτει η υποχρεωτική ασφάλιση.", "en": "What the KTEO roadworthiness test is, when it is due and what compulsory insurance covers."},
+    "sections": [
+      {
+        "heading": {"el": "Ο τεχνικός έλεγχος (ΚΤΕΟ)", "en": "The technical inspection (KTEO)"},
+        "body": {"el": "Όλα τα αυτοκίνητα που κυκλοφορούν στην Ελλάδα υπόκεινται σε τακτικό περιοδικό τεχνικό έλεγχο. Ένα ιδιωτικό επιβατικό περνά τον πρώτο έλεγχο τέσσερα χρόνια μετά την πρώτη άδεια κυκλοφορίας και μετά κάθε δύο χρόνια. Ελέγχονται, μεταξύ άλλων, φρένα, τιμόνι, ανάρτηση, φώτα, ελαστικά και καυσαέρια. Η κυκλοφορία χωρίς έγκυρο πιστοποιητικό τεχνικού ελέγχου είναι παράβαση του ΚΟΚ.", "en": "All cars on Greek roads are subject to regular periodic roadworthiness tests. A private passenger car has its first test four years after first registration and then every two years. The test covers, among other things, brakes, steering, suspension, lights, tyres and emissions. Driving without a valid inspection certificate is an offence under the Highway Code."},
+        "bullets": [
+          {"el": "Κλείσε ραντεβού σε ΚΤΕΟ πριν λήξει ο έλεγχος", "en": "Book a KTEO appointment before the test expires"},
+          {"el": "Αν το αυτοκίνητο κοπεί, επισκεύασε τις βλάβες και πήγαινε για επανέλεγχο", "en": "If the car fails, fix the defects and go back for a re-test"},
+          {"el": "Κράτα το πιστοποιητικό στο αυτοκίνητο", "en": "Keep the certificate in the car"}
+        ]
+      },
+      {
+        "heading": {"el": "Υποχρεωτική ασφάλιση", "en": "Compulsory insurance"},
+        "body": {"el": "Κάθε αυτοκίνητο με άδεια και πινακίδες κυκλοφορίας πρέπει να είναι ασφαλισμένο τουλάχιστον για αστική ευθύνη, συνεχώς, είτε κινείται είτε απλώς είναι σταθμευμένο, εκτός αν έχει δηλωθεί επίσημα σε ακινησία. Η αστική ευθύνη καλύπτει τους τραυματισμούς και τις ζημιές που προκαλείς σε τρίτους, όχι τη δική σου ζημιά. Τα ανασφάλιστα οχήματα εντοπίζονται με διασταύρωση στοιχείων και οι ιδιοκτήτες τους τιμωρούνται με πρόστιμο και άλλες κυρώσεις.", "en": "Every car with a registration certificate and plates must be insured at least for third-party liability, continuously, whether it is driven or just parked, unless it has been officially declared off the road (ακινησία). Third-party liability covers injuries and damage you cause to others, not damage to your own car. Uninsured vehicles are traced by cross-checking records, and their owners face a fine and other penalties."},
+        "bullets": [
+          {"el": "Προαιρετικές καλύψεις: οδική βοήθεια, νομική προστασία", "en": "Optional covers: roadside assistance, legal protection"},
+          {"el": "Επίσης: πυρκαγιά, κλοπή, θραύση κρυστάλλων, ίδιες ζημιές (μικτή)", "en": "Also: fire, theft, glass breakage, own damage (comprehensive)"}
+        ],
+        "tip": {"el": "Πριν αγοράσεις μεταχειρισμένο, έλεγξε ότι έχει περάσει ΚΤΕΟ και ότι δεν οφείλονται τέλη κυκλοφορίας.", "en": "Before buying a used car, check that it has passed KTEO and that no road tax is owed."}
+      },
+      {
+        "heading": {"el": "Έγγραφα που έχεις μαζί σου", "en": "Documents to carry"},
+        "body": {"el": "Σύμφωνα με τον ΚΟΚ (άρθρο 103), όταν οδηγείς έχεις μαζί σου την άδεια οδήγησης (έντυπη ή ψηφιακή), την άδεια κυκλοφορίας του οχήματος, το αποδεικτικό ασφάλισης και την απόδειξη πληρωμής των τελών κυκλοφορίας, καθώς και, κατά περίπτωση, το δελτίο τεχνικού ελέγχου (ΚΤΕΟ). Στα ενοικιαζόμενα αυτοκίνητα αρκεί αντίγραφο της άδειας κυκλοφορίας. Σε έλεγχο της Τροχαίας σού ζητούνται αυτά τα έγγραφα.", "en": "Under the Highway Code (Article 103), when you drive you carry your driving licence (paper or digital), the vehicle registration certificate, proof of insurance and proof that road tax has been paid, plus, where applicable, the technical inspection (KTEO) report. In rental cars a copy of the registration certificate is enough. Traffic police ask for these documents at a check."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "kteo-insurance-q1",
+        "q": {"el": "Πότε περνά τον πρώτο έλεγχο ΚΤΕΟ ένα καινούργιο ιδιωτικό επιβατικό;", "en": "When does a new private passenger car have its first KTEO test?"},
+        "options": [{"el": "Μετά από 1 χρόνο", "en": "After 1 year"}, {"el": "Μετά από 4 χρόνια", "en": "After 4 years"}, {"el": "Μετά από 10 χρόνια", "en": "After 10 years"}],
+        "answer": 1,
+        "explain": {"el": "Ο πρώτος έλεγχος γίνεται τέσσερα χρόνια μετά την πρώτη άδεια κυκλοφορίας.", "en": "The first test is four years after first registration."},
+        "difficulty": 1
+      },
+      {
+        "id": "kteo-insurance-q2",
+        "q": {"el": "Μετά τον πρώτο έλεγχο, κάθε πότε πηγαίνει ένα ιδιωτικό επιβατικό στο ΚΤΕΟ;", "en": "After the first test, how often does a private car go to KTEO?"},
+        "options": [{"el": "Κάθε 2 χρόνια", "en": "Every 2 years"}, {"el": "Κάθε χρόνο", "en": "Every year"}, {"el": "Κάθε 5 χρόνια", "en": "Every 5 years"}],
+        "answer": 0,
+        "explain": {"el": "Μετά τον πρώτο έλεγχο, ο έλεγχος επαναλαμβάνεται κάθε δύο χρόνια.", "en": "After the first test, it is repeated every two years."},
+        "difficulty": 1
+      },
+      {
+        "id": "kteo-insurance-q3",
+        "q": {"el": "Τι καλύπτει η υποχρεωτική ασφάλιση αστικής ευθύνης;", "en": "What does compulsory third-party liability insurance cover?"},
+        "options": [{"el": "Την κλοπή του αυτοκινήτου σου", "en": "Theft of your car"}, {"el": "Την επισκευή του δικού σου αυτοκινήτου", "en": "Repairs to your own car"}, {"el": "Τις ζημιές και τους τραυματισμούς που προκαλείς σε τρίτους", "en": "Damage and injuries you cause to others"}],
+        "answer": 2,
+        "explain": {"el": "Η κλοπή και οι ίδιες ζημιές είναι προαιρετικές καλύψεις που αγοράζεις επιπλέον.", "en": "Theft and own-damage are optional covers you buy in addition."},
+        "difficulty": 2
+      },
+      {
+        "id": "kteo-insurance-q4",
+        "q": {"el": "Το αυτοκίνητό σου είναι σταθμευμένο στον δρόμο και δεν το χρησιμοποιείς. Χρειάζεται ασφάλιση;", "en": "Your car is parked on the street and you do not use it. Does it need insurance?"},
+        "options": [{"el": "Όχι, μόνο όταν κινείται", "en": "No, only when it is driven"}, {"el": "Ναι, κάθε όχημα στον δρόμο πρέπει να είναι ασφαλισμένο", "en": "Yes, every vehicle on the road must be insured"}, {"el": "Μόνο το καλοκαίρι", "en": "Only in summer"}],
+        "answer": 1,
+        "explain": {"el": "Η υποχρέωση ασφάλισης ισχύει συνεχώς από τη χορήγηση άδειας και πινακίδων κυκλοφορίας, είτε το αυτοκίνητο κινείται είτε όχι, εκτός αν έχει δηλωθεί σε ακινησία.", "en": "The insurance duty applies continuously from the issue of the registration and plates, whether or not the car is driven, unless it has been declared off the road."},
+        "difficulty": 2
+      },
+      {
+        "id": "kteo-insurance-q5",
+        "q": {"el": "Το αυτοκίνητό σου κόπηκε στο ΚΤΕΟ λόγω βλάβης. Τι κάνεις;", "en": "Your car failed the KTEO test because of a defect. What do you do?"},
+        "options": [{"el": "Επισκευάζω τη βλάβη και πηγαίνω για επανέλεγχο", "en": "Repair the defect and go back for a re-test"}, {"el": "Το αγνοώ μέχρι τον επόμενο έλεγχο", "en": "Ignore it until the next test"}, {"el": "Πληρώνω ένα πρόστιμο και συνεχίζω", "en": "Pay a fine and carry on"}],
+        "answer": 0,
+        "explain": {"el": "Χωρίς έγκυρο πιστοποιητικό τεχνικού ελέγχου το αυτοκίνητο δεν πρέπει να κυκλοφορεί.", "en": "Without a valid inspection certificate the car should not be driven."},
+        "difficulty": 2
+      },
+      {
+        "id": "kteo-insurance-q6",
+        "q": {"el": "Ποιο από τα παρακάτω είναι προαιρετική κάλυψη και όχι μέρος της υποχρεωτικής αστικής ευθύνης;", "en": "Which of these is an optional extra, not part of compulsory liability cover?"},
+        "options": [{"el": "Ο τραυματισμός πεζού που χτύπησες", "en": "Injury to a pedestrian you hit"}, {"el": "Η ζημιά σε άλλο αυτοκίνητο που χτύπησες", "en": "Damage to another car you hit"}, {"el": "Η οδική βοήθεια", "en": "Roadside assistance"}],
+        "answer": 2,
+        "explain": {"el": "Η αστική ευθύνη αφορά τρίτους· η οδική βοήθεια προστίθεται προαιρετικά στο συμβόλαιο.", "en": "Liability cover is about third parties; roadside assistance is an optional add-on to the policy."},
+        "difficulty": 3
+      },
+      {
+        "id": "kteo-insurance-q7",
+        "q": {"el": "Σε ποια μορφή μπορείς να έχεις μαζί σου την άδεια οδήγησης όταν οδηγείς;", "en": "In what form may you carry your driving licence when you drive?"},
+        "options": [{"el": "Μόνο σε έντυπη μορφή", "en": "Only on paper or as a card"}, {"el": "Σε έντυπη ή ψηφιακή μορφή", "en": "On paper or in digital form"}, {"el": "Δεν χρειάζεται να την έχω μαζί μου", "en": "I do not need to carry it"}],
+        "answer": 1,
+        "explain": {"el": "Το άρθρο 103 του ν. 5209/2025 ορίζει ότι ο οδηγός φέρει τη νόμιμη άδεια οδήγησης σε έντυπη ή ψηφιακή μορφή.", "en": "Article 103 of Law 5209/2025 states that the driver carries a valid driving licence in printed or digital form."},
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "fuel-eco-driving",
+    "title": {"el": "Καύσιμα, κατανάλωση και οικονομική οδήγηση", "en": "Fuel, consumption and eco-driving"},
+    "icon": "fuel",
+    "summary": {"el": "Βάλε το σωστό καύσιμο και οδήγησε έτσι ώστε να καις λιγότερο και να ρυπαίνεις λιγότερο.", "en": "Use the right fuel and drive so that you burn less and pollute less."},
+    "sections": [
+      {
+        "heading": {"el": "Τα καύσιμα στο πρατήριο", "en": "Fuels at the station"},
+        "body": {"el": "Στα ελληνικά πρατήρια θα βρεις αμόλυβδη βενζίνη 95 οκτανίων και ενισχυμένη (συνήθως 98 ή 100 οκτανίων), πετρέλαιο κίνησης (diesel) και σε πολλά υγραέριο κίνησης (LPG). Ο σωστός τύπος καυσίμου αναγράφεται στο πορτάκι του ρεζερβουάρ και στο εγχειρίδιο. Αν βάλεις λάθος καύσιμο, μη βάλεις μπρος τη μηχανή και κάλεσε οδική βοήθεια. Στο πρατήριο σβήνεις τη μηχανή και δεν καπνίζεις.", "en": "At Greek filling stations you will find 95 octane unleaded petrol and a premium grade (usually 98 or 100 octane), diesel and, at many, LPG (autogas). The correct fuel is shown on the fuel flap and in the manual. If you put in the wrong fuel, do not start the engine and call roadside assistance. At the station switch the engine off and do not smoke."},
+        "tip": {"el": "Σε πολλά ελληνικά πρατήρια σε εξυπηρετεί υπάλληλος: πες τι καύσιμο θέλεις και πόσο.", "en": "At many Greek stations an attendant serves you: say which fuel and how much you want."}
+      },
+      {
+        "heading": {"el": "Κατανάλωση", "en": "Fuel consumption"},
+        "body": {"el": "Η κατανάλωση μετριέται σε λίτρα ανά 100 χιλιόμετρα. Την αυξάνουν η υψηλή ταχύτητα, τα απότομα ξεκινήματα, το φορτίο, τα ξεφούσκωτα λάστιχα, ο κλιματισμός και οι μπαγκαζιέρες οροφής. Οι πολύ μικρές διαδρομές με κρύο κινητήρα καίνε επίσης περισσότερο.", "en": "Consumption is measured in litres per 100 kilometres. It is increased by high speed, hard starts, extra load, under-inflated tyres, air conditioning and roof boxes. Very short trips with a cold engine also burn more fuel."}
+      },
+      {
+        "heading": {"el": "Οικονομική οδήγηση", "en": "Eco-driving"},
+        "body": {"el": "Η οικονομική οδήγηση είναι και ασφαλέστερη, γιατί βασίζεται στην πρόβλεψη. Κοιτάς μακριά μπροστά, κρατάς απόσταση και αφήνεις το γκάζι νωρίς αντί να φρενάρεις απότομα. Στις κατηφόρες αφήνεις το γκάζι με ταχύτητα μέσα, αντί να πας με νεκρά.", "en": "Eco-driving is also safer, because it is based on anticipation. You look far ahead, keep your distance and lift off the accelerator early instead of braking hard. On downhill stretches you lift off the accelerator in gear, instead of coasting in neutral."},
+        "bullets": [
+          {"el": "Ομαλές επιταχύνσεις, χωρίς απότομα γκάζια", "en": "Smooth acceleration, no sudden throttle"},
+          {"el": "Αλλαγή σε μεγαλύτερη ταχύτητα νωρίς", "en": "Change up to a higher gear early"},
+          {"el": "Σταθερή ταχύτητα στον αυτοκινητόδρομο", "en": "Steady speed on the motorway"},
+          {"el": "Σωστή πίεση ελαστικών", "en": "Correct tyre pressure"},
+          {"el": "Αφαίρεση άχρηστου βάρους και μπαγκαζιέρας", "en": "Remove unnecessary weight and the roof box"},
+          {"el": "Σβήσιμο κινητήρα σε μεγάλη αναμονή", "en": "Switch the engine off during long waits"}
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "fuel-eco-driving-q1",
+        "q": {"el": "Σε τι μονάδα μετριέται συνήθως η κατανάλωση καυσίμου στην Ελλάδα;", "en": "In what unit is fuel consumption usually measured in Greece?"},
+        "options": [{"el": "Λίτρα ανά 100 χιλιόμετρα", "en": "Litres per 100 kilometres"}, {"el": "Χιλιόμετρα ανά ώρα", "en": "Kilometres per hour"}, {"el": "Μίλια ανά γαλόνι", "en": "Miles per gallon"}],
+        "answer": 0,
+        "explain": {"el": "Π.χ. 6 λίτρα/100 χλμ σημαίνει ότι το αυτοκίνητο καίει 6 λίτρα για κάθε 100 χιλιόμετρα.", "en": "For example, 6 L/100 km means the car burns 6 litres every 100 kilometres."},
+        "difficulty": 1
+      },
+      {
+        "id": "fuel-eco-driving-q2",
+        "q": {"el": "Έβαλες κατά λάθος βενζίνη σε πετρελαιοκίνητο αυτοκίνητο. Τι κάνεις;", "en": "You accidentally filled a diesel car with petrol. What do you do?"},
+        "options": [{"el": "Βάζω μπρος και οδηγώ αργά", "en": "Start the engine and drive slowly"}, {"el": "Δεν βάζω μπρος και καλώ οδική βοήθεια", "en": "Do not start the engine and call roadside assistance"}, {"el": "Προσθέτω πετρέλαιο για να αραιώσει", "en": "Add diesel to dilute it"}],
+        "answer": 1,
+        "explain": {"el": "Αν δεν πάρει μπρος η μηχανή, το λάθος καύσιμο αδειάζει χωρίς να καταστρέψει το σύστημα ψεκασμού.", "en": "If the engine is not started, the wrong fuel can be drained without damaging the injection system."},
+        "difficulty": 2
+      },
+      {
+        "id": "fuel-eco-driving-q3",
+        "q": {"el": "Ποιος τρόπος οδήγησης εξοικονομεί καύσιμο;", "en": "Which driving style saves fuel?"},
+        "options": [{"el": "Απότομα γκάζια και φρενάρισμα της τελευταίας στιγμής", "en": "Hard acceleration and last-moment braking"}, {"el": "Οδήγηση σε χαμηλή ταχύτητα με πολλές στροφές", "en": "Driving in a low gear at high revs"}, {"el": "Πρόβλεψη της κυκλοφορίας και ομαλή οδήγηση", "en": "Anticipating traffic and driving smoothly"}],
+        "answer": 2,
+        "explain": {"el": "Κάθε άσκοπο φρενάρισμα «πετάει» την ενέργεια που πλήρωσες σε καύσιμο.", "en": "Every unnecessary brake throws away energy you paid for in fuel."},
+        "difficulty": 1
+      },
+      {
+        "id": "fuel-eco-driving-q4",
+        "q": {"el": "Πώς επηρεάζουν την κατανάλωση τα ελαστικά με χαμηλή πίεση;", "en": "How do under-inflated tyres affect consumption?"},
+        "options": [{"el": "Την αυξάνουν", "en": "They increase it"}, {"el": "Τη μειώνουν", "en": "They reduce it"}, {"el": "Δεν την επηρεάζουν", "en": "They have no effect"}],
+        "answer": 0,
+        "explain": {"el": "Η χαμηλή πίεση αυξάνει την αντίσταση κύλισης, άρα και την κατανάλωση.", "en": "Low pressure increases rolling resistance, and so consumption."},
+        "difficulty": 2
+      },
+      {
+        "id": "fuel-eco-driving-q5",
+        "q": {"el": "Έχεις μπαγκαζιέρα οροφής που δεν χρειάζεσαι. Τι κάνεις;", "en": "You have a roof box you do not need. What do you do?"},
+        "options": [{"el": "Την κρατάω, βοηθά τη σταθερότητα", "en": "Keep it, it helps stability"}, {"el": "Την αφαιρώ, γιατί αυξάνει την αντίσταση του αέρα και την κατανάλωση", "en": "Remove it, because it increases air drag and consumption"}, {"el": "Δεν έχει καμία επίδραση", "en": "It makes no difference"}],
+        "answer": 1,
+        "explain": {"el": "Η μπαγκαζιέρα χαλάει την αεροδυναμική, ιδίως σε μεγάλες ταχύτητες.", "en": "A roof box spoils the aerodynamics, especially at high speed."},
+        "difficulty": 2
+      },
+      {
+        "id": "fuel-eco-driving-q6",
+        "q": {"el": "Σε μεγάλη κατηφόρα, ποιος τρόπος είναι ασφαλέστερος και συνήθως πιο οικονομικός σε σύγχρονο αυτοκίνητο;", "en": "On a long downhill, which is safer and usually more economical in a modern car?"},
+        "options": [{"el": "Με ταχύτητα μέσα, αφήνοντας το γκάζι", "en": "In gear, lifting off the accelerator"}, {"el": "Με νεκρά", "en": "In neutral"}, {"el": "Με πατημένο τον συμπλέκτη", "en": "With the clutch pressed down"}],
+        "answer": 0,
+        "explain": {"el": "Με ταχύτητα μέσα έχεις φρένο κινητήρα και πλήρη έλεγχο, ενώ οι σύγχρονοι κινητήρες κόβουν σχεδόν εντελώς τον ψεκασμό όταν αφήνεις το γκάζι.", "en": "In gear you have engine braking and full control, and modern engines cut fuel injection almost completely when you lift off."},
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "manual-vs-automatic",
+    "title": {"el": "Μηχανικό ή αυτόματο κιβώτιο και κωδικός 78", "en": "Manual or automatic and code 78"},
+    "icon": "exam",
+    "summary": {"el": "Η διαφορά των δύο κιβωτίων και τι σημαίνει για το δίπλωμά σου αν εξεταστείς με αυτόματο.", "en": "The difference between the two gearboxes and what it means for your licence if you take the test in an automatic."},
+    "sections": [
+      {
+        "heading": {"el": "Μηχανικό κιβώτιο", "en": "Manual gearbox"},
+        "body": {"el": "Στο μηχανικό κιβώτιο αλλάζεις μόνος σου ταχύτητες με τον λεβιέ, πατώντας τον συμπλέκτη. Το «σημείο εμπλοκής» είναι η θέση όπου ο συμπλέκτης αρχίζει να συμπλέκει και το αυτοκίνητο ξεκινά να κινείται. Αν αφήσεις τον συμπλέκτη απότομα χωρίς γκάζι, ο κινητήρας σβήνει.", "en": "In a manual gearbox you change gear yourself with the lever while pressing the clutch. The 'biting point' is where the clutch starts to engage and the car begins to move. If you release the clutch suddenly without any accelerator, the engine stalls."}
+      },
+      {
+        "heading": {"el": "Αυτόματο κιβώτιο", "en": "Automatic gearbox"},
+        "body": {"el": "Το αυτόματο δεν έχει πεντάλ συμπλέκτη και αλλάζει μόνο του ταχύτητες. Για να βγάλεις τον λεβιέ από το P πατάς το φρένο. Σε D ή R το αυτοκίνητο μπορεί να κυλήσει μόνο του αργά (έρπει), γι' αυτό κρατάς το πόδι στο φρένο όταν είσαι σταματημένος. Τα ηλεκτρικά αυτοκίνητα οδηγούνται όπως τα αυτόματα.", "en": "An automatic has no clutch pedal and changes gear by itself. To move the lever out of P you press the brake. In D or R the car can creep forward slowly on its own, so keep your foot on the brake when stopped. Electric cars are driven like automatics."}
+      },
+      {
+        "heading": {"el": "Ο κωδικός 78 στο δίπλωμα", "en": "Code 78 on the licence"},
+        "body": {"el": "Η θεωρητική εξέταση είναι ίδια και για τα δύο κιβώτια. Αν περάσεις την πρακτική εξέταση με αυτοκίνητο χωρίς πεντάλ συμπλέκτη, το δίπλωμα κατηγορίας Β γράφει τον ευρωπαϊκό κωδικό 78 και επιτρέπει να οδηγείς μόνο αυτόματα. Με κωδικό 78 δεν επιτρέπεται να οδηγήσεις μηχανικό κιβώτιο, ούτε σε ενοικιαζόμενο αυτοκίνητο. Με τους σημερινούς κανόνες, για να φύγει ο περιορισμός συνήθως χρειάζεται νέα πρακτική εξέταση με αυτοκίνητο με μηχανικό κιβώτιο· επιβεβαίωσε την ακριβή διαδικασία με τη σχολή οδηγών σου.", "en": "The theory test is the same for both gearboxes. If you pass the practical test in a car without a clutch pedal, your category B licence shows the EU code 78 and lets you drive only automatics. With code 78 you may not drive a manual car, not even a rental. Under the current rules, removing the restriction usually requires a new practical test in a manual car; confirm the exact procedure with your driving school."}
+      },
+      {
+        "heading": {"el": "Τι αλλάζει με τη νέα οδηγία της ΕΕ", "en": "What the new EU directive changes"},
+        "body": {"el": "Η νέα ευρωπαϊκή οδηγία για τις άδειες οδήγησης (ΕΕ) 2025/2205 δημοσιεύτηκε τον Νοέμβριο του 2025. Προβλέπει ότι ο κωδικός 78 για την κατηγορία Β θα μπορεί να αφαιρείται μετά από πρόσθετη εκπαίδευση, χωρίς νέα εξέταση. Θα ισχύσει όμως στην Ελλάδα μόνο όταν ενσωματωθεί στο εθνικό δίκαιο: τα κράτη μέλη πρέπει να την ενσωματώσουν έως τις 26 Νοεμβρίου 2028 και να την εφαρμόζουν από τις 26 Νοεμβρίου 2029. Μέχρι τότε ισχύουν οι σημερινοί κανόνες.", "en": "The new EU driving licence directive (EU) 2025/2205 was published in November 2025. It provides that code 78 for category B can be removed after additional training, without a new test. It will apply in Greece only once it is written into national law: member states must transpose it by 26 November 2028 and apply it from 26 November 2029. Until then the current rules apply."},
+        "tip": {"el": "Αν σκοπεύεις να νοικιάζεις αυτοκίνητα στην Ελλάδα, σκέψου το μηχανικό: πολλά ενοικιαζόμενα, ιδίως τα φθηνότερα, είναι μηχανικά.", "en": "If you plan to rent cars in Greece, consider learning on a manual: many rental cars, especially the cheaper ones, are manual."}
+      }
+    ],
+    "quiz": [
+      {
+        "id": "manual-vs-automatic-q1",
+        "q": {"el": "Τι σημαίνει ο κωδικός 78 στο δίπλωμα οδήγησης;", "en": "What does code 78 on a driving licence mean?"},
+        "options": [{"el": "Επιτρέπεται η οδήγηση μόνο αυτοκινήτων με αυτόματο κιβώτιο", "en": "Driving is allowed only in cars with automatic transmission"}, {"el": "Το δίπλωμα ισχύει μόνο στην Ελλάδα", "en": "The licence is valid only in Greece"}, {"el": "Ο οδηγός πρέπει να φορά γυαλιά", "en": "The driver must wear glasses"}],
+        "answer": 0,
+        "explain": {"el": "Ο κωδικός 78 είναι εναρμονισμένος ευρωπαϊκός κωδικός περιορισμού σε οχήματα χωρίς πεντάλ συμπλέκτη.", "en": "Code 78 is a harmonised EU code restricting the holder to vehicles without a clutch pedal."},
+        "difficulty": 1
+      },
+      {
+        "id": "manual-vs-automatic-q2",
+        "q": {"el": "Σε αυτόματο κιβώτιο, τι κάνεις για να βγάλεις τον λεβιέ από το P;", "en": "In an automatic, what do you do to move the lever out of P?"},
+        "options": [{"el": "Πατάω τον συμπλέκτη", "en": "Press the clutch"}, {"el": "Πατάω το φρένο", "en": "Press the brake"}, {"el": "Ανεβάζω στροφές", "en": "Rev the engine"}],
+        "answer": 1,
+        "explain": {"el": "Το πάτημα του φρένου είναι κλείδωμα ασφαλείας, για να μην ξεκινήσει απότομα το αυτοκίνητο.", "en": "Pressing the brake is a safety interlock, so the car cannot lurch off."},
+        "difficulty": 1
+      },
+      {
+        "id": "manual-vs-automatic-q3",
+        "q": {"el": "Ποιο πεντάλ δεν υπάρχει σε αυτοκίνητο με αυτόματο κιβώτιο;", "en": "Which pedal does an automatic car not have?"},
+        "options": [{"el": "Το φρένο", "en": "The brake"}, {"el": "Το γκάζι", "en": "The accelerator"}, {"el": "Ο συμπλέκτης", "en": "The clutch"}],
+        "answer": 2,
+        "explain": {"el": "Το αυτόματο κιβώτιο κάνει μόνο του τη δουλειά του συμπλέκτη.", "en": "The automatic gearbox does the clutch's job by itself."},
+        "difficulty": 1
+      },
+      {
+        "id": "manual-vs-automatic-q4",
+        "q": {"el": "Τι είναι το «σημείο εμπλοκής» του συμπλέκτη;", "en": "What is the clutch 'biting point'?"},
+        "options": [{"el": "Το σημείο όπου ο συμπλέκτης αρχίζει να συμπλέκει και το αυτοκίνητο ξεκινά", "en": "The point where the clutch starts to engage and the car begins to move"}, {"el": "Οι μέγιστες στροφές του κινητήρα", "en": "The engine's maximum revs"}, {"el": "Το σημείο όπου μπλοκάρουν τα φρένα", "en": "The point where the brakes lock"}],
+        "answer": 0,
+        "explain": {"el": "Στο σημείο εμπλοκής ο κινητήρας αρχίζει να μεταδίδει κίνηση στους τροχούς· εκεί κρατάς το πόδι σταθερό.", "en": "At the biting point the engine starts driving the wheels; that is where you hold your foot steady."},
+        "difficulty": 2
+      },
+      {
+        "id": "manual-vs-automatic-q5",
+        "q": {"el": "Πέρασες την πρακτική με αυτόματο και το δίπλωμα έχει κωδικό 78. Μπορείς να οδηγήσεις ενοικιαζόμενο με μηχανικό κιβώτιο;", "en": "You passed the practical test in an automatic and your licence shows code 78. May you drive a manual rental car?"},
+        "options": [{"el": "Ναι, αν έχω δίπλωμα πάνω από έναν χρόνο", "en": "Yes, if I have held the licence for over a year"}, {"el": "Όχι, όσο ισχύει ο κωδικός 78", "en": "No, as long as code 78 applies"}, {"el": "Μόνο σε αυτοκινητόδρομο", "en": "Only on motorways"}],
+        "answer": 1,
+        "explain": {"el": "Ο κωδικός 78 περιορίζει το δίπλωμα σε αυτόματα· η οδήγηση μηχανικού είναι εκτός του δικαιώματος οδήγησης.", "en": "Code 78 restricts the licence to automatics; driving a manual is outside your entitlement."},
+        "difficulty": 2
+      },
+      {
+        "id": "manual-vs-automatic-q6",
+        "q": {"el": "Τι προβλέπει η νέα οδηγία (ΕΕ) 2025/2205 για τον κωδικό 78 στην κατηγορία Β;", "en": "What does the new Directive (EU) 2025/2205 provide for code 78 in category B?"},
+        "options": [{"el": "Θα μπορεί να αφαιρείται μετά από πρόσθετη εκπαίδευση, όταν ενσωματωθεί στο εθνικό δίκαιο", "en": "It can be removed after extra training, once it is in national law"}, {"el": "Καταργεί όλους τους κωδικούς των διπλωμάτων", "en": "It abolishes all licence codes"}, {"el": "Ακυρώνει τα διπλώματα αυτόματου", "en": "It cancels automatic-only licences"}],
+        "answer": 0,
+        "explain": {"el": "Η οδηγία δεν ισχύει αυτόματα· κάθε κράτος μέλος πρέπει πρώτα να την ενσωματώσει στη νομοθεσία του.", "en": "The directive does not apply automatically; each member state must first write it into its own law."},
+        "difficulty": 3
+      }
+    ]
+  }
+]

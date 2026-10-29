@@ -1,0 +1,3543 @@
+[
+ {
+  "code": "Π-1",
+  "codeLatin": "P-1",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων, η οποία τοποθετείται στις οδούς ταχείας κυκλοφορίας προ διασταυρώσεων με αναγραφές κατευθύνσεων και χιλιομετρικών αποστάσεων.",
+  "nameEn": "Advance direction sign on expressways before intersections, showing directions and distances in km.",
+  "explainEl": "Σε οδό ταχείας κυκλοφορίας σε προειδοποιεί πριν από διασταύρωση για τις κατευθύνσεις και τις αποστάσεις. Επίλεξε έγκαιρα λωρίδα.",
+  "explainEn": "On an expressway it tells you in advance the directions and distances at the next intersection. Choose your lane early.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-1.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI01_-_official_-_sample_01_-_EN_VCT.svg",
+  "license": "CC BY 3.0",
+  "similar": [
+   "Π-2",
+   "Π-3"
+  ]
+ },
+ {
+  "code": "Π-2",
+  "codeLatin": "P-2",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων, η οποία τοποθετείται στις οδούς ταχείας κυκλοφορίας προ διακλαδώσεων με αναγραφές κατευθύνσεων και χιλιομετρικών αποστάσεων.",
+  "nameEn": "Advance direction sign on expressways before forks/branches, showing directions and distances in km.",
+  "explainEl": "Σε οδό ταχείας κυκλοφορίας προειδοποιεί πριν από διακλάδωση της οδού για κατευθύνσεις και αποστάσεις.",
+  "explainEn": "On an expressway it warns in advance of a fork (branching) and shows directions and distances.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-2.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI02_-_new_official_-_sample_01_-_EL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-1",
+   "Π-91",
+   "Π-3"
+  ]
+ },
+ {
+  "code": "Π-3",
+  "codeLatin": "P-3",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων για συνήθεις οδούς με αναγραφές κατευθύνσεων και χιλιομετρικών αποστάσεων.",
+  "nameEn": "Advance direction sign for ordinary roads, showing directions and distances in km.",
+  "explainEl": "Σε συνήθη (μη ταχείας κυκλοφορίας) οδό δείχνει πριν από τον κόμβο τις κατευθύνσεις και τις αποστάσεις.",
+  "explainEn": "On an ordinary road it shows, before the junction, the directions and distances.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-3.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_new_-_P-3.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-1",
+   "Π-3α",
+   "Π-3β"
+  ]
+ },
+ {
+  "code": "Π-3α",
+  "codeLatin": "P-3a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων με αναγραφή κατευθύνσεων και χιλιομετρικών αποστάσεων σε οδούς τοπικού οδικού δικτύου.",
+  "nameEn": "Advance direction sign with directions and distances on roads of the local road network (white background).",
+  "explainEl": "Ενημερώνει για κατευθύνσεις και αποστάσεις στο τοπικό οδικό δίκτυο.",
+  "explainEn": "Gives directions and distances on the local road network.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-3a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-3a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-3",
+   "Π-3β"
+  ]
+ },
+ {
+  "code": "Π-3β",
+  "codeLatin": "P-3b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων, με αναγραφή κατευθύνσεων για περιοχές μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος.",
+  "nameEn": "Advance direction sign to areas of major tourist or archaeological interest (brown background).",
+  "explainEl": "Το καφέ χρώμα δείχνει κατεύθυνση προς τόπο τουριστικού ή αρχαιολογικού ενδιαφέροντος.",
+  "explainEn": "The brown colour shows the direction to a place of tourist or archaeological interest.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-3b.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-3b.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-3α",
+   "Π-8δ"
+  ]
+ },
+ {
+  "code": "Π-4",
+  "codeLatin": "P-4",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική για αδιέξοδο στα δεξιά.",
+  "nameEn": "Advance warning of a dead end (no through road) on the right.",
+  "explainEl": "Ο δρόμος που ξεκινά δεξιά είναι αδιέξοδος. Μην τον χρησιμοποιήσεις για διέλευση.",
+  "explainEn": "The road branching off to the right is a dead end. Do not use it as a through route.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-4.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-4.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-5",
+   "Π-25"
+  ]
+ },
+ {
+  "code": "Π-5",
+  "codeLatin": "P-5",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική για αδιέξοδο στα αριστερά διαγώνια.",
+  "nameEn": "Advance warning of a dead end (no through road) diagonally to the left.",
+  "explainEl": "Ο δρόμος που ξεκινά διαγώνια αριστερά είναι αδιέξοδος.",
+  "explainEn": "The road branching off diagonally to the left is a dead end.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-5.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-5.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-4",
+   "Π-25"
+  ]
+ },
+ {
+  "code": "Π-6",
+  "codeLatin": "P-6",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική υποχρεωτικής διαδρομής για στροφή αριστερά στην επόμενη διασταύρωση όπου αυτή απαγορεύεται.",
+  "nameEn": "Advance sign showing the route to follow for a left turn at the next junction, where turning left is prohibited.",
+  "explainEl": "Στην επόμενη διασταύρωση η αριστερή στροφή απαγορεύεται. Ακολούθησε τη διαδρομή του σχεδίου για να πας αριστερά.",
+  "explainEn": "Turning left is banned at the next junction. Follow the route drawn on the sign to go left.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-6.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-6.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-7",
+   "Π-91"
+  ]
+ },
+ {
+  "code": "Π-7",
+  "codeLatin": "P-7",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική πινακίδα για προεπιλογή λωρίδας σε διασταύρωση σε οδούς με πολλές λωρίδες κυκλοφορίας.",
+  "nameEn": "Lane pre-selection sign before a junction on multi-lane roads.",
+  "explainEl": "Πριν από τη διασταύρωση μπες στη λωρίδα που αντιστοιχεί στον προορισμό σου.",
+  "explainEn": "Before the junction, move into the lane that matches your destination.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-7.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-7.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-69",
+   "Π-6"
+  ]
+ },
+ {
+  "code": "Π-8α",
+  "codeLatin": "P-8a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση μίας τοπωνυμίας με μορφή βέλους.",
+  "nameEn": "Direction sign to one place, arrow-shaped (place name in Greek).",
+  "explainEl": "Δείχνει την κατεύθυνση προς έναν προορισμό στο σημείο της διασταύρωσης.",
+  "explainEn": "Shows the direction to one destination at the junction itself.",
+  "shape": "other",
+  "image": "downloads/P/P-8a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_new_-_P-8a.svg",
+  "license": "CC BY 3.0",
+  "similar": [
+   "Π-8β",
+   "Π-8γ",
+   "Π-9"
+  ]
+ },
+ {
+  "code": "Π-8β",
+  "codeLatin": "P-8b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση μιας τοπωνυμίας με μορφή βέλους (και με λατινικούς χαρακτήρες).",
+  "nameEn": "Direction sign to one place, arrow-shaped (also in Latin characters).",
+  "explainEl": "Όπως η Π-8α, αλλά το όνομα του προορισμού γράφεται και με λατινικούς χαρακτήρες.",
+  "explainEn": "Like Π-8α, but the destination name is also written in Latin characters.",
+  "shape": "other",
+  "image": "downloads/P/P-8b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_new_-_P-8b.svg",
+  "license": "CC BY 3.0",
+  "similar": [
+   "Π-8α",
+   "Π-8γ"
+  ]
+ },
+ {
+  "code": "Π-8γ",
+  "codeLatin": "P-8g",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση για περισσότερες της μιας τοπωνυμίας με μορφή βέλους.",
+  "nameEn": "Direction sign to more than one place, arrow-shaped.",
+  "explainEl": "Δείχνει την κατεύθυνση προς περισσότερους από έναν προορισμούς.",
+  "explainEn": "Shows the direction to more than one destination.",
+  "shape": "other",
+  "image": "downloads/P/P-8g.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-8c.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-8α",
+   "Π-8β"
+  ]
+ },
+ {
+  "code": "Π-8δ",
+  "codeLatin": "P-8d",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση μιας τοπωνυμίας μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος, με μορφή βέλους.",
+  "nameEn": "Arrow-shaped direction sign to one place of major tourist or archaeological interest (brown).",
+  "explainEl": "Καφέ βέλος: κατεύθυνση προς τόπο τουριστικού ή αρχαιολογικού ενδιαφέροντος.",
+  "explainEn": "Brown arrow: direction to a place of tourist or archaeological interest.",
+  "shape": "other",
+  "image": "downloads/P/P-8d.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-8d.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-3β",
+   "Π-8α"
+  ]
+ },
+ {
+  "code": "Π-9",
+  "codeLatin": "P-9",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση μίας τοπωνυμίας, μορφής ορθογωνίου.",
+  "nameEn": "Direction sign to one place, rectangular.",
+  "explainEl": "Δείχνει την κατεύθυνση προς έναν προορισμό με ορθογώνια πινακίδα και βέλος.",
+  "explainEn": "Shows the direction to one destination on a rectangular sign with an arrow.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-9.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_new_-_P-9.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-8α",
+   "Π-8β",
+   "Π-20"
+  ]
+ },
+ {
+  "code": "Π-10",
+  "codeLatin": "P-10",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση προς αεροδρόμιο.",
+  "nameEn": "Direction to an airport.",
+  "explainEl": "Ακολούθησε την κατεύθυνση για το αεροδρόμιο.",
+  "explainEn": "Follow this direction to the airport.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-10.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-10.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-50",
+   "Π-11"
+  ]
+ },
+ {
+  "code": "Π-11",
+  "codeLatin": "P-11",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση προς κατασκήνωση.",
+  "nameEn": "Direction to a campsite.",
+  "explainEl": "Ακολούθησε την κατεύθυνση για την κατασκήνωση (κάμπινγκ).",
+  "explainEn": "Follow this direction to the campsite.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-11.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Greek_traffic_sign_P-11.png",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-41",
+   "Π-12"
+  ]
+ },
+ {
+  "code": "Π-12",
+  "codeLatin": "P-12",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση προς Ξενώνα Νεότητας.",
+  "nameEn": "Direction to a youth hostel.",
+  "explainEl": "Ακολούθησε την κατεύθυνση για τον ξενώνα νεότητας.",
+  "explainEn": "Follow this direction to the youth hostel.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-12.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Greek_traffic_sign_P-12.png",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-44",
+   "Π-11"
+  ]
+ },
+ {
+  "code": "Π-13",
+  "codeLatin": "P-13",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αρίθμηση εθνικών οδών.",
+  "nameEn": "National road number.",
+  "explainEl": "Δείχνει τον αριθμό της εθνικής οδού στην οποία βρίσκεσαι ή προς την οποία κατευθύνεσαι.",
+  "explainEn": "Shows the number of the national road you are on or heading to.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-13.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR-EO-1.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-14",
+   "Π-15",
+   "Π-16"
+  ]
+ },
+ {
+  "code": "Π-14",
+  "codeLatin": "P-14",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αρίθμηση διεθνών αρτηριών.",
+  "nameEn": "International (European E-road) route number.",
+  "explainEl": "Δείχνει τον αριθμό της διεθνούς (ευρωπαϊκής) οδού, π.χ. E 75, σε πράσινο φόντο.",
+  "explainEn": "Shows the number of the international (European) route, e.g. E 75, on a green background.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-14.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:European_Road_92_number_DE.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-13",
+   "Π-15"
+  ]
+ },
+ {
+  "code": "Π-15",
+  "codeLatin": "P-15",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χιλιομέτρηση οδών.",
+  "nameEn": "Road kilometre marker.",
+  "explainEl": "Δείχνει τη χιλιομετρική θέση στην οδό. Δεν είναι απόσταση προς προορισμό.",
+  "explainEn": "Shows the kilometre position along the road. It is not the distance to a destination.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-15.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-15.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-13",
+   "Π-64",
+   "Π-14"
+  ]
+ },
+ {
+  "code": "Π-16",
+  "codeLatin": "P-16",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χιλιομέτρηση οδών.",
+  "nameEn": "Road kilometre marker.",
+  "explainEl": "Δείχνει τη χιλιομετρική θέση στην οδό. Δεν είναι απόσταση προς προορισμό.",
+  "explainEn": "Shows the kilometre position along the road. It is not the distance to a destination.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-16.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-16.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-13",
+   "Π-64"
+  ]
+ },
+ {
+  "code": "Π-17",
+  "codeLatin": "P-17",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αρχή κατοικημένης περιοχής.",
+  "nameEn": "Beginning of a built-up area.",
+  "explainEl": "Από εδώ ισχύουν οι κανόνες κατοικημένης περιοχής, όπως το χαμηλότερο όριο ταχύτητας και η απαγόρευση ηχητικών προειδοποιήσεων.",
+  "explainEn": "From here the rules for built-up areas apply, such as the lower speed limit and the ban on using the horn.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-17.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-17_(new_font)_-_Thessaloniki.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-18",
+   "Π-58",
+   "Π-19"
+  ]
+ },
+ {
+  "code": "Π-18",
+  "codeLatin": "P-18",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τέλος κατοικημένης περιοχής.",
+  "nameEn": "End of a built-up area.",
+  "explainEl": "Τελειώνουν οι κανόνες κατοικημένης περιοχής. Ισχύουν τα όρια ταχύτητας εκτός κατοικημένης περιοχής, εκτός αν άλλη πινακίδα ορίζει διαφορετικά.",
+  "explainEn": "The built-up area rules end. Out-of-town speed limits apply unless another sign says otherwise.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-18.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-18_(new_font)_-_Thessaloniki.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-17",
+   "Π-59"
+  ]
+ },
+ {
+  "code": "Π-19",
+  "codeLatin": "P-19",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τοπωνύμια.",
+  "nameEn": "Place name.",
+  "explainEl": "Πληροφορεί για το όνομα τοποθεσίας, ποταμού κ.λπ. Δεν σημαίνει αρχή κατοικημένης περιοχής.",
+  "explainEn": "Gives the name of a locality, river etc. It does not mark the start of a built-up area.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-19.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-19.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-17",
+   "Π-18",
+   "Π-20"
+  ]
+ },
+ {
+  "code": "Π-20",
+  "codeLatin": "P-20",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Επιβεβαιωτική πινακίδα (παράδειγμα).",
+  "nameEn": "Confirmatory sign (example): confirms the route and shows distances to destinations ahead.",
+  "explainEl": "Μετά από κόμβο επιβεβαιώνει ότι βρίσκεσαι στη σωστή διαδρομή και δείχνει αποστάσεις.",
+  "explainEn": "After a junction it confirms you are on the right route and shows the distances.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-20.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI20_-_new_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-87",
+   "Π-3"
+  ]
+ },
+ {
+  "code": "Π-21",
+  "codeLatin": "P-21",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Διάβαση πεζών.",
+  "nameEn": "Pedestrian crossing.",
+  "explainEl": "Εδώ υπάρχει διάβαση πεζών. Μείωσε ταχύτητα και δώσε προτεραιότητα στους πεζούς που διασχίζουν.",
+  "explainEn": "There is a pedestrian crossing here. Slow down and give way to pedestrians crossing.",
+  "shape": "square",
+  "image": "downloads/P/P-21.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-21.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-21α",
+   "Π-21γ",
+   "Π-61"
+  ]
+ },
+ {
+  "code": "Π-21α",
+  "codeLatin": "P-21a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Διάβαση ποδηλάτων.",
+  "nameEn": "Cycle crossing.",
+  "explainEl": "Εδώ υπάρχει διάβαση ποδηλάτων. Πρόσεχε τους ποδηλάτες που διασχίζουν.",
+  "explainEn": "There is a cycle crossing here. Watch for cyclists crossing.",
+  "shape": "square",
+  "image": "downloads/P/P-21a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-21a.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-21",
+   "Π-21β",
+   "Π-21γ"
+  ]
+ },
+ {
+  "code": "Π-21β",
+  "codeLatin": "P-21b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Παράλληλες διαβάσεις πεζών και ποδηλάτων.",
+  "nameEn": "Parallel pedestrian and cycle crossings.",
+  "explainEl": "Εδώ υπάρχουν δίπλα-δίπλα διάβαση πεζών και διάβαση ποδηλάτων.",
+  "explainEn": "Here there are side-by-side pedestrian and cycle crossings.",
+  "shape": "square",
+  "image": "downloads/P/P-21b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-21b.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-21γ",
+   "Π-21α"
+  ]
+ },
+ {
+  "code": "Π-21γ",
+  "codeLatin": "P-21g",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κοινή διάβαση πεζών και ποδηλάτων.",
+  "nameEn": "Shared pedestrian and cycle crossing.",
+  "explainEl": "Εδώ πεζοί και ποδηλάτες διασχίζουν από την ίδια κοινή διάβαση.",
+  "explainEn": "Pedestrians and cyclists cross here on one shared crossing.",
+  "shape": "square",
+  "image": "downloads/P/P-21g.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-21g.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-21β",
+   "Π-21"
+  ]
+ },
+ {
+  "code": "Π-22",
+  "codeLatin": "P-22",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Νοσοκομείο (για την αποφυγή ή μείωση οποιουδήποτε μη αναγκαίου θορύβου).",
+  "nameEn": "Hospital (avoid or reduce any unnecessary noise).",
+  "explainEl": "Κοντά σε νοσοκομείο: απόφυγε κάθε περιττό θόρυβο, όπως κόρνα.",
+  "explainEn": "Near a hospital: avoid any unnecessary noise, such as using the horn.",
+  "shape": "square",
+  "image": "downloads/P/P-22.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-22.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-32",
+   "Π-36"
+  ]
+ },
+ {
+  "code": "Π-23",
+  "codeLatin": "P-23",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Μονόδρομος.",
+  "nameEn": "One-way street (sign placed facing the traffic).",
+  "explainEl": "Η κυκλοφορία στην οδό γίνεται μόνο προς την κατεύθυνση του βέλους.",
+  "explainEn": "Traffic on this road moves only in the direction of the arrow.",
+  "shape": "square",
+  "image": "downloads/P/P-23.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-23.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-25",
+   "Π-7"
+  ]
+ },
+ {
+  "code": "Π-24",
+  "codeLatin": "P-24",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Μονόδρομος.",
+  "nameEn": "One-way street (sign placed across, arrow left or right).",
+  "explainEl": "Ο δρόμος στον οποίο μπαίνεις είναι μονόδρομος προς την κατεύθυνση του βέλους.",
+  "explainEn": "The road you are entering is one-way in the direction of the arrow.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-24.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-24_(right).svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-9",
+   "Π-31γ"
+  ]
+ },
+ {
+  "code": "Π-25",
+  "codeLatin": "P-25",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Οδός αδιέξοδος.",
+  "nameEn": "No through road (dead end).",
+  "explainEl": "Ο δρόμος δεν έχει έξοδο στο τέλος του.",
+  "explainEn": "The road has no exit at its end.",
+  "shape": "square",
+  "image": "downloads/P/P-25.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-25.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-4",
+   "Π-5"
+  ]
+ },
+ {
+  "code": "Π-26",
+  "codeLatin": "P-26",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Οδός ταχείας κυκλοφορίας.",
+  "nameEn": "Expressway (fast-traffic road).",
+  "explainEl": "Από εδώ ισχύουν οι κανόνες οδού ταχείας κυκλοφορίας (π.χ. δεν επιτρέπονται πεζοί και αργά οχήματα).",
+  "explainEn": "From here the expressway rules apply (e.g. no pedestrians or slow vehicles).",
+  "shape": "square",
+  "image": "downloads/P/P-26.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-26.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-26α",
+   "Π-27"
+  ]
+ },
+ {
+  "code": "Π-26α",
+  "codeLatin": "P-26a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τέλος οδού ταχείας κυκλοφορίας.",
+  "nameEn": "End of expressway.",
+  "explainEl": "Τελειώνουν οι κανόνες της οδού ταχείας κυκλοφορίας.",
+  "explainEn": "The expressway rules end here.",
+  "shape": "square",
+  "image": "downloads/P/P-26a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-26%CE%B1.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-26",
+   "Π-27α"
+  ]
+ },
+ {
+  "code": "Π-27",
+  "codeLatin": "P-27",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αυτοκινητόδρομος.",
+  "nameEn": "Motorway.",
+  "explainEl": "Από εδώ ισχύουν οι κανόνες αυτοκινητόδρομου (πράσινη πινακίδα).",
+  "explainEn": "From here the motorway rules apply (green sign).",
+  "shape": "square",
+  "image": "downloads/P/P-27.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-27.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-27α",
+   "Π-26"
+  ]
+ },
+ {
+  "code": "Π-27α",
+  "codeLatin": "P-27a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τέλος αυτοκινητόδρομου.",
+  "nameEn": "End of motorway.",
+  "explainEl": "Τελειώνουν οι κανόνες του αυτοκινητόδρομου.",
+  "explainEn": "The motorway rules end here.",
+  "shape": "square",
+  "image": "downloads/P/P-27a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-27a.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-27",
+   "Π-26α"
+  ]
+ },
+ {
+  "code": "Π-28",
+  "codeLatin": "P-28",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Στάση λεωφορείου ή τρόλεϊ.",
+  "nameEn": "Bus or trolleybus stop.",
+  "explainEl": "Εδώ είναι στάση λεωφορείου ή τρόλεϊ. Μην σταθμεύεις στη στάση και πρόσεχε επιβάτες.",
+  "explainEn": "This is a bus or trolleybus stop. Do not park at the stop and watch for passengers.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-28.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-28.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-28α",
+   "Π-95"
+  ]
+ },
+ {
+  "code": "Π-28α",
+  "codeLatin": "P-28a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Στάση τροχιοδρόμου.",
+  "nameEn": "Tram stop.",
+  "explainEl": "Εδώ είναι στάση τραμ. Πρόσεχε επιβάτες που ανεβαίνουν ή κατεβαίνουν.",
+  "explainEn": "This is a tram stop. Watch for passengers getting on or off.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-28a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-28a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-28",
+   "Π-95"
+  ]
+ },
+ {
+  "code": "Π-29",
+  "codeLatin": "P-29",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ορεινή οδός, ανοικτή ή κλειστή, ανάλογα με τις ενδείξεις μέσα στο πλαίσιο 1, 2, 3, της πινακίδας.",
+  "nameEn": "Mountain road (pass) open or closed according to the indications in panels 1, 2 and 3 of the sign.",
+  "explainEl": "Πριν από ορεινό πέρασμα ενημερώνει αν η οδός είναι ανοικτή ή κλειστή και αν χρειάζονται αλυσίδες.",
+  "explainEn": "Before a mountain pass it tells you whether the road is open or closed and whether chains are needed.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-29.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-29.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-30",
+   "Π-19"
+  ]
+ },
+ {
+  "code": "Π-30",
+  "codeLatin": "P-30",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Συνιστώνται αλυσίδες ή ελαστικά χιονιών για το πλαίσιο 2 της Π-29.",
+  "nameEn": "Snow chains or snow tyres recommended (for panel 2 of sign Π-29).",
+  "explainEl": "Συνιστάται να έχεις τοποθετήσει αλυσίδες ή χειμερινά ελαστικά.",
+  "explainEn": "Snow chains or snow tyres are recommended.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-30.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-30.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-29",
+   "Π-65"
+  ]
+ },
+ {
+  "code": "Π-31",
+  "codeLatin": "P-31",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χώρος επιτρεπόμενης στάθμευσης.",
+  "nameEn": "Parking place (parking permitted).",
+  "explainEl": "Εδώ επιτρέπεται η στάθμευση.",
+  "explainEn": "Parking is permitted here.",
+  "shape": "square",
+  "image": "downloads/P/P-31.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-31.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-31α",
+   "Π-31γ"
+  ]
+ },
+ {
+  "code": "Π-31α",
+  "codeLatin": "P-31a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Περιοχή επιτρεπόμενης στάθμευσης.",
+  "nameEn": "Parking zone (area where parking is permitted).",
+  "explainEl": "Αρχή περιοχής όπου επιτρέπεται η στάθμευση, σύμφωνα με τους όρους της πινακίδας.",
+  "explainEn": "Start of an area where parking is permitted, under the conditions shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-31a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-31a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-31β",
+   "Π-31"
+  ]
+ },
+ {
+  "code": "Π-31β",
+  "codeLatin": "P-31b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδος από περιοχή επιτρεπόμενης στάθμευσης.",
+  "nameEn": "End of parking zone.",
+  "explainEl": "Τελειώνει η περιοχή όπου επιτρέπεται η στάθμευση.",
+  "explainEn": "The parking zone ends here.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-31b.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-31b.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-31α",
+   "Π-31"
+  ]
+ },
+ {
+  "code": "Π-31γ",
+  "codeLatin": "P-31g",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση προς χώρο επιτρεπόμενης στάθμευσης.",
+  "nameEn": "Direction to a parking place.",
+  "explainEl": "Ακολούθησε το βέλος για να βρεις χώρο στάθμευσης.",
+  "explainEn": "Follow the arrow to reach a parking place.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-31g.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-31c.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-31",
+   "Π-72"
+  ]
+ },
+ {
+  "code": "Π-31δ",
+  "codeLatin": "P-31d",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χώρος επιτρεπόμενης στάθμευσης ποδηλάτων.",
+  "nameEn": "Bicycle parking place.",
+  "explainEl": "Εδώ επιτρέπεται η στάθμευση ποδηλάτων.",
+  "explainEn": "Bicycles may be parked here.",
+  "shape": "square",
+  "image": "downloads/P/P-31d.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-31%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-31",
+   "Π-31γ"
+  ]
+ },
+ {
+  "code": "Π-32",
+  "codeLatin": "P-32",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Σταθμός πρώτων βοηθειών.",
+  "nameEn": "First-aid station.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-32.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-32.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-22",
+   "Π-33"
+  ]
+ },
+ {
+  "code": "Π-33",
+  "codeLatin": "P-33",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Συνεργείο επισκευής βλαβών.",
+  "nameEn": "Breakdown repair workshop.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-33.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-33.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-35",
+   "Π-32"
+  ]
+ },
+ {
+  "code": "Π-34",
+  "codeLatin": "P-34",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τηλέφωνο.",
+  "nameEn": "Telephone.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-34.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-34.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-132",
+   "Π-48"
+  ]
+ },
+ {
+  "code": "Π-35",
+  "codeLatin": "P-35",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Πρατήριο καυσίμων.",
+  "nameEn": "Filling (petrol) station.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-35.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-35.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-35α",
+   "Π-33"
+  ]
+ },
+ {
+  "code": "Π-35α",
+  "codeLatin": "P-35a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Θέση/Σημείο επαναφόρτισης ηλεκτροκίνητων οχημάτων.",
+  "nameEn": "Electric vehicle charging place/point.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-35a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-35%CE%B1_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-35",
+   "Π-33"
+  ]
+ },
+ {
+  "code": "Π-36",
+  "codeLatin": "P-36",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ξενοδοχείο ή MOTEL.",
+  "nameEn": "Hotel or motel.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-36.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-36.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-22",
+   "Π-44",
+   "Π-37"
+  ]
+ },
+ {
+  "code": "Π-37",
+  "codeLatin": "P-37",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Εστιατόριο.",
+  "nameEn": "Restaurant.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-37.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-37.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-38",
+   "Π-36"
+  ]
+ },
+ {
+  "code": "Π-38",
+  "codeLatin": "P-38",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αναψυκτήριο ή καφενείο.",
+  "nameEn": "Refreshments or café.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-38.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-38.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-37",
+   "Π-39"
+  ]
+ },
+ {
+  "code": "Π-39",
+  "codeLatin": "P-39",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Θέση για παραμονή εκδρομέων.",
+  "nameEn": "Picnic site (place for day-trippers).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-39.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-39.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-40",
+   "Π-41"
+  ]
+ },
+ {
+  "code": "Π-40",
+  "codeLatin": "P-40",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Σημείο έναρξης περιπάτου.",
+  "nameEn": "Starting point of a walk (hiking trail).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-40.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-40.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-39",
+   "Π-41"
+  ]
+ },
+ {
+  "code": "Π-41",
+  "codeLatin": "P-41",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Θέσεις για κατασκηνώσεις.",
+  "nameEn": "Camping site (tents).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-41.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-41.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-42",
+   "Π-43",
+   "Π-11"
+  ]
+ },
+ {
+  "code": "Π-42",
+  "codeLatin": "P-42",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Θέση για τροχόσπιτα.",
+  "nameEn": "Caravan site.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-42.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_PI-42.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-41",
+   "Π-43"
+  ]
+ },
+ {
+  "code": "Π-43",
+  "codeLatin": "P-43",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Θέση για κατασκηνώσεις και τροχόσπιτα.",
+  "nameEn": "Camping and caravan site.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-43.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-43.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-41",
+   "Π-42"
+  ]
+ },
+ {
+  "code": "Π-44",
+  "codeLatin": "P-44",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ξενώνας Νεότητας.",
+  "nameEn": "Youth hostel.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-44.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-44.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-36",
+   "Π-12"
+  ]
+ },
+ {
+  "code": "Π-45",
+  "codeLatin": "P-45",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τουριστικές πληροφορίες.",
+  "nameEn": "Tourist information.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-45.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-45.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-48",
+   "Π-47"
+  ]
+ },
+ {
+  "code": "Π-46",
+  "codeLatin": "P-46",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Περιοχή κολύμβησης.",
+  "nameEn": "Bathing (swimming) area.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-46.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-46.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-53",
+   "Π-54"
+  ]
+ },
+ {
+  "code": "Π-47",
+  "codeLatin": "P-47",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Εγκατάσταση υγιεινής.",
+  "nameEn": "Toilets (sanitary facilities).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-47.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-47.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-71",
+   "Π-60"
+  ]
+ },
+ {
+  "code": "Π-48",
+  "codeLatin": "P-48",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ραδιοφωνική συχνότητα πληροφοριών οδικής κυκλοφορίας.",
+  "nameEn": "Radio frequency for road-traffic information.",
+  "explainEl": "Συντονίσου στη συχνότητα που αναγράφεται για να ακούς πληροφορίες κυκλοφορίας.",
+  "explainEn": "Tune to the frequency shown to hear traffic information.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-48.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-48.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-45",
+   "Π-34"
+  ]
+ },
+ {
+  "code": "Π-49",
+  "codeLatin": "P-49",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Σήραγγα.",
+  "nameEn": "Tunnel.",
+  "explainEl": "Πλησιάζεις σήραγγα. Άναψε τα φώτα πορείας και κράτα απόσταση.",
+  "explainEn": "You are approaching a tunnel. Switch on dipped headlights and keep your distance.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-49.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-49.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-62",
+   "Π-61"
+  ]
+ },
+ {
+  "code": "Π-50",
+  "codeLatin": "P-50",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αεροδρόμιο.",
+  "nameEn": "Airport.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-50.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-50.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-10",
+   "Π-51"
+  ]
+ },
+ {
+  "code": "Π-51",
+  "codeLatin": "P-51",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ελικοδρόμιο.",
+  "nameEn": "Heliport.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-51.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-51.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-50",
+   "Π-52"
+  ]
+ },
+ {
+  "code": "Π-52",
+  "codeLatin": "P-52",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Εναέρια μεταφορά.",
+  "nameEn": "Aerial transport (cable car).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-52.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-52.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-51",
+   "Π-50"
+  ]
+ },
+ {
+  "code": "Π-53",
+  "codeLatin": "P-53",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Λιμάνι.",
+  "nameEn": "Port.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-53.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-53.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-54",
+   "Π-56"
+  ]
+ },
+ {
+  "code": "Π-54",
+  "codeLatin": "P-54",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τουριστικό λιμάνι.",
+  "nameEn": "Tourist port (marina).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-54.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-54.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-53",
+   "Π-55"
+  ]
+ },
+ {
+  "code": "Π-55",
+  "codeLatin": "P-55",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Λιμενικός σταθμός ιπτάμενων σκαφών.",
+  "nameEn": "Port station for hydrofoils (flying boats).",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-55.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-55.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-56",
+   "Π-54"
+  ]
+ },
+ {
+  "code": "Π-56",
+  "codeLatin": "P-56",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Λιμενικός σταθμός εμπορικών οχηματαγωγών πλοίων.",
+  "nameEn": "Port station for commercial car ferries.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-56.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-56.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-55",
+   "Π-53"
+  ]
+ },
+ {
+  "code": "Π-57",
+  "codeLatin": "P-57",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αστυνομία.",
+  "nameEn": "Police.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-57.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-57.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-93",
+   "Π-32"
+  ]
+ },
+ {
+  "code": "Π-58",
+  "codeLatin": "P-58",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αρχή περιοχής κατοικίας.",
+  "nameEn": "Beginning of a residential area.",
+  "explainEl": "Από εδώ ισχύουν οι κανόνες κατοικημένης περιοχής, όπως και με την Π-17 (π.χ. χαμηλότερο όριο ταχύτητας, απαγόρευση ηχητικών προειδοποιήσεων). Δεν είναι το ίδιο με την περιοχή ήπιας κυκλοφορίας (Π-92).",
+  "explainEn": "From here the built-up-area rules apply, just as with Π-17 (e.g. lower speed limit, no use of the horn). It is not the same as a traffic-calming zone (Π-92).",
+  "shape": "rectangle",
+  "image": "downloads/P/P-58.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_-_KOK_2009_-_P-58;_Greek_road_sign.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-59",
+   "Π-17",
+   "Π-92"
+  ]
+ },
+ {
+  "code": "Π-59",
+  "codeLatin": "P-59",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τέλος περιοχής κατοικίας.",
+  "nameEn": "End of a residential area.",
+  "explainEl": "Τελειώνουν οι κανόνες κατοικημένης περιοχής, όπως και με την Π-18.",
+  "explainEn": "The built-up-area rules end here, just as with Π-18.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-59.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-59.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-58",
+   "Π-18",
+   "Π-92α"
+  ]
+ },
+ {
+  "code": "Π-60",
+  "codeLatin": "P-60",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Άτομα με αναπηρία.",
+  "nameEn": "Persons with disabilities.",
+  "explainEl": "Ο χώρος ή η εγκατάσταση προορίζεται για άτομα με αναπηρίες. Μην τον χρησιμοποιείς αν δεν δικαιούσαι.",
+  "explainEn": "This place or facility is intended for persons with disabilities. Do not use it if you are not entitled.",
+  "shape": "square",
+  "image": "downloads/P/P-60.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-60.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-71",
+   "Π-47"
+  ]
+ },
+ {
+  "code": "Π-61",
+  "codeLatin": "P-61",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Άνω (υπέργεια) διάβαση πεζών.",
+  "nameEn": "Pedestrian overpass (footbridge).",
+  "explainEl": "Οι πεζοί διασχίζουν την οδό από γέφυρα πάνω από αυτήν.",
+  "explainEn": "Pedestrians cross the road by a bridge above it.",
+  "shape": "square",
+  "image": "downloads/P/P-61.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-61.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-62",
+   "Π-63",
+   "Π-21"
+  ]
+ },
+ {
+  "code": "Π-62",
+  "codeLatin": "P-62",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κάτω (υπόγεια) διάβαση πεζών.",
+  "nameEn": "Pedestrian underpass.",
+  "explainEl": "Οι πεζοί διασχίζουν την οδό από υπόγεια διάβαση.",
+  "explainEn": "Pedestrians cross the road through an underpass.",
+  "shape": "square",
+  "image": "downloads/P/P-62.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-62.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-61",
+   "Π-63"
+  ]
+ },
+ {
+  "code": "Π-63",
+  "codeLatin": "P-63",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ανισόπεδη διάβαση πεζών χωρίς σκαλοπάτια.",
+  "nameEn": "Grade-separated pedestrian crossing without steps (ramp).",
+  "explainEl": "Η ανισόπεδη διάβαση πεζών έχει ράμπα αντί για σκαλοπάτια.",
+  "explainEn": "The grade-separated pedestrian crossing has a ramp instead of steps.",
+  "shape": "square",
+  "image": "downloads/P/P-63.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-63.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-61",
+   "Π-62"
+  ]
+ },
+ {
+  "code": "Π-64",
+  "codeLatin": "P-64",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Συνιστώμενη ταχύτητα.",
+  "nameEn": "Recommended (advisory) speed.",
+  "explainEl": "Συνιστάται να οδηγείς με την ταχύτητα που αναγράφεται. Δεν είναι υποχρεωτικό όριο.",
+  "explainEn": "You are advised to drive at the speed shown. It is not a mandatory limit.",
+  "shape": "square",
+  "image": "downloads/P/P-64.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-64.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-65",
+   "Π-67"
+  ]
+ },
+ {
+  "code": "Π-65",
+  "codeLatin": "P-65",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Γενικά όρια ταχύτητας.",
+  "nameEn": "General speed limits (in force in the country).",
+  "explainEl": "Ενημερώνει για τα γενικά όρια ταχύτητας ανά είδος οδού. Συνήθως στα σύνορα της χώρας.",
+  "explainEn": "Shows the general speed limits per road type. Usually at the country's borders.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-65.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-65.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-64",
+   "Π-67"
+  ]
+ },
+ {
+  "code": "Π-66",
+  "codeLatin": "P-66",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Λωρίδα αποκλειστικής κυκλοφορίας λεωφορείων ή τρόλεϊ ή τροχιοδρόμου ή δίκυκλου ή συνδυασμού αυτών.",
+  "nameEn": "Lane reserved for buses or trolleybuses or trams or two-wheelers, or a combination of these.",
+  "explainEl": "Η σημειωμένη λωρίδα είναι μόνο για τα οχήματα που απεικονίζονται. Μην κινείσαι μέσα της με αυτοκίνητο.",
+  "explainEn": "The marked lane is only for the vehicles shown. Do not drive your car in it.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-66.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-66.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-69α",
+   "Π-98α"
+  ]
+ },
+ {
+  "code": "Π-67",
+  "codeLatin": "P-67",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ανώτατα όρια ταχυτήτων ανά λωρίδα κυκλοφορίας.",
+  "nameEn": "Maximum speed limits per traffic lane.",
+  "explainEl": "Σε κάθε λωρίδα ισχύει το ανώτατο όριο ταχύτητας που αναγράφεται πάνω της.",
+  "explainEn": "Each lane has the maximum speed limit shown above it.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-67.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-67.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-68",
+   "Π-64"
+  ]
+ },
+ {
+  "code": "Π-68",
+  "codeLatin": "P-68",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Όρια ελάχιστων ταχυτήτων ανά λωρίδα κυκλοφορίας.",
+  "nameEn": "Minimum speed limits per traffic lane.",
+  "explainEl": "Σε κάθε λωρίδα δεν πρέπει να κινείσαι πιο αργά από την ελάχιστη ταχύτητα που αναγράφεται.",
+  "explainEn": "In each lane you must not drive slower than the minimum speed shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-68.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-68a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-67",
+   "Π-70"
+  ]
+ },
+ {
+  "code": "Π-69",
+  "codeLatin": "P-69",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων.",
+  "nameEn": "Number and directions of traffic lanes.",
+  "explainEl": "Δείχνει πόσες λωρίδες υπάρχουν μπροστά και προς τα πού οδηγεί η καθεμία (π.χ. λωρίδα που προστίθεται ή διακλαδίζεται). Όλες οι λωρίδες έχουν την ίδια φορά με εσένα.",
+  "explainEn": "Shows how many lanes there are ahead and where each one leads (e.g. a lane that is added or branches off). All lanes run in your direction.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-69a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-69a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-7",
+   "Π-70",
+   "Π-70α"
+  ]
+ },
+ {
+  "code": "Π-69α",
+  "codeLatin": "P-69a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων.",
+  "nameEn": "Number and directions of traffic lanes.",
+  "explainEl": "Δείχνει τον αριθμό και τη φορά των λωρίδων, όταν υπάρχουν και λωρίδες αντίθετης κατεύθυνσης (βέλη προς τα κάτω), π.χ. όταν οι λωρίδες μετατοπίζονται.",
+  "explainEn": "Shows the number and direction of lanes where some lanes carry oncoming traffic (arrows pointing down), e.g. where lanes are shifted.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-69.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-69.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-70",
+   "Π-7",
+   "Π-66"
+  ]
+ },
+ {
+  "code": "Π-70",
+  "codeLatin": "P-70",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Περιορισμός αριθμού κυκλοφοριακών λωρίδων.",
+  "nameEn": "Reduction in the number of traffic lanes.",
+  "explainEl": "Μια λωρίδα τελειώνει πιο κάτω. Άλλαξε λωρίδα έγκαιρα και με ασφάλεια.",
+  "explainEn": "A lane ends ahead. Change lanes early and safely.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-70.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-70.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-69",
+   "Π-68"
+  ]
+ },
+ {
+  "code": "Π-70α",
+  "codeLatin": "P-70a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Περιορισμός αριθμού κυκλοφοριακών λωρίδων.",
+  "nameEn": "Reduction in the number of traffic lanes.",
+  "explainEl": "Μια λωρίδα τελειώνει πιο κάτω. Άλλαξε λωρίδα έγκαιρα και με ασφάλεια.",
+  "explainEn": "A lane ends ahead. Change lanes early and safely.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-70a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-70a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-69",
+   "Π-69α",
+   "Π-25"
+  ]
+ },
+ {
+  "code": "Π-71",
+  "codeLatin": "P-71",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Εγκαταστάσεις υγιεινής για άτομα με αναπηρία.",
+  "nameEn": "Toilets for persons with disabilities.",
+  "explainEl": "Πληροφορεί ότι κοντά υπάρχει η συγκεκριμένη εξυπηρέτηση.",
+  "explainEn": "Tells you this facility or service is nearby.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-71.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Greek_traffic_sign_P-71.png",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-47",
+   "Π-60"
+  ]
+ },
+ {
+  "code": "Π-72",
+  "codeLatin": "P-72",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση οχημάτων για στάθμευση σε συγκεκριμένο χώρο (όπως ΜΕΤΡΟ για χρησιμοποίηση του μεταφορικού αυτού μέσου).",
+  "nameEn": "Direction for vehicles to park at a specific place (e.g. METRO, park and ride).",
+  "explainEl": "Ακολούθησε την κατεύθυνση για να σταθμεύσεις και να συνεχίσεις με το μέσο μεταφοράς (π.χ. μετρό).",
+  "explainEn": "Follow the direction to park and continue by public transport (e.g. metro).",
+  "shape": "rectangle",
+  "image": "downloads/P/P-72.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-72.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-31γ",
+   "Π-73"
+  ]
+ },
+ {
+  "code": "Π-73",
+  "codeLatin": "P-73",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποίηση κατεύθυνσης οχημάτων για στάθμευση σε συγκεκριμένο στεγασμένο χώρο.",
+  "nameEn": "Advance direction for vehicles to park in a specific covered car park.",
+  "explainEl": "Ακολούθησε την κατεύθυνση για στεγασμένο χώρο στάθμευσης.",
+  "explainEn": "Follow the direction to a covered car park.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-73α",
+   "Π-72",
+   "Π-31γ"
+  ],
+  "svgHint": "White rectangle: black arrow, then a blue square with a white P under a white roof (gable) symbol meaning covered car park, then the car-park/street name in black capitals (e.g. ΚΛΑΥΘΜΩΝΟΣ)."
+ },
+ {
+  "code": "Π-73α",
+  "codeLatin": "P-73a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποίηση κατεύθυνσης οχημάτων για στάθμευση σε συγκεκριμένο υπαίθριο χώρο.",
+  "nameEn": "Advance direction for vehicles to park in a specific open-air car park.",
+  "explainEl": "Ακολούθησε την κατεύθυνση για υπαίθριο χώρο στάθμευσης.",
+  "explainEn": "Follow the direction to an open-air car park.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-73",
+   "Π-31γ"
+  ],
+  "svgHint": "Like Π-73 (white rectangle: black arrow, blue square with white P, car-park name in black) but the P has NO roof symbol, i.e. an open-air car park."
+ },
+ {
+  "code": "Π-74",
+  "codeLatin": "P-74",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση - επισήμανση επικίνδυνων καμπυλών.",
+  "nameEn": "Direction marker for dangerous curves.",
+  "explainEl": "Η στροφή είναι επικίνδυνη προς την πλευρά που δείχνουν τα βέλη. Μείωσε ταχύτητα.",
+  "explainEn": "The bend is dangerous in the direction the arrows point. Slow down.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-74.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-74L.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-75",
+   "Π-76"
+  ]
+ },
+ {
+  "code": "Π-75",
+  "codeLatin": "P-75",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Διαδοχικά βέλη κατεύθυνσης, που τοποθετούνται σε επικίνδυνες καμπύλες κυρίων αρτηριών.",
+  "nameEn": "Successive direction arrows (chevrons) placed on dangerous curves of main roads.",
+  "explainEl": "Τα διαδοχικά βέλη δείχνουν την πορεία της επικίνδυνης στροφής. Μείωσε ταχύτητα και ακολούθησε την καμπύλη.",
+  "explainEn": "The chevrons show the line of a dangerous bend. Slow down and follow the curve.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-75.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Road-sign-%CF%8075a.svg",
+  "license": "Public domain",
+  "similar": [
+   "Π-74",
+   "Π-79"
+  ]
+ },
+ {
+  "code": "Π-76",
+  "codeLatin": "P-76",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Εμπόδιο κινητό, λόγω έργων επί της οδού.",
+  "nameEn": "Movable obstacle (barrier) due to roadworks.",
+  "explainEl": "Υπάρχει κινητό εμπόδιο λόγω έργων. Μείωσε ταχύτητα και πέρασε με προσοχή.",
+  "explainEn": "There is a movable barrier because of roadworks. Slow down and pass carefully.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-76.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-76.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-77",
+   "Π-78"
+  ]
+ },
+ {
+  "code": "Π-77",
+  "codeLatin": "P-77",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Για υποχρεωτικό πέρασμα από τα δεξιά νησίδας ή εμποδίου. Συνδυάζεται η τοποθέτησή της π.χ. με τη Ρ-52δ.",
+  "nameEn": "Marker for compulsory passing on the right of an island or obstacle (combined e.g. with Ρ-52δ).",
+  "explainEl": "Πέρασε το εμπόδιο ή τη νησίδα από τα δεξιά.",
+  "explainEn": "Pass the obstacle or traffic island on the right.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-77.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-77.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-78",
+   "Π-79"
+  ]
+ },
+ {
+  "code": "Π-78",
+  "codeLatin": "P-78",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Για υποχρεωτικό πέρασμα από τα αριστερά νησίδας ή εμποδίου. Συνδυάζεται η τοποθέτησή της π.χ. με τη Ρ-52α.",
+  "nameEn": "Marker for compulsory passing on the left of an island or obstacle (combined e.g. with Ρ-52α).",
+  "explainEl": "Πέρασε το εμπόδιο ή τη νησίδα από τα αριστερά.",
+  "explainEn": "Pass the obstacle or traffic island on the left.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-78.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-78.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-77",
+   "Π-79"
+  ]
+ },
+ {
+  "code": "Π-79",
+  "codeLatin": "P-79",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Για υποχρεωτικό πέρασμα από τα δεξιά ή αριστερά νησίδας ή εμποδίου. Συνδυάζεται η τοποθέτησή της π.χ. με τη Ρ-52.",
+  "nameEn": "Marker for compulsory passing on the right or left of an island or obstacle (combined e.g. with Ρ-52).",
+  "explainEl": "Μπορείς να περάσεις το εμπόδιο ή τη νησίδα είτε από δεξιά είτε από αριστερά.",
+  "explainEn": "You may pass the obstacle or island on either side.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-79.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-79.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-77",
+   "Π-78"
+  ]
+ },
+ {
+  "code": "Π-80",
+  "codeLatin": "P-80",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αναγγελία προσέγγισης σε ανισόπεδο κόμβο (αποκλειστικά για αυτοκινητόδρομο).",
+  "nameEn": "Announcement of approach to an interchange (motorways only).",
+  "explainEl": "Πινακίδα αυτοκινητόδρομου (πράσινη). Διάβασε έγκαιρα τις κατευθύνσεις και πάρε τη σωστή λωρίδα.",
+  "explainEn": "Motorway sign (green). Read the directions early and get into the correct lane.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-80.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI80_-_new_-_sample_01a_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-81",
+   "Π-90α"
+  ]
+ },
+ {
+  "code": "Π-81",
+  "codeLatin": "P-81",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων προ ανισόπεδου κόμβου (αποκλειστικά για αυτοκινητόδρομο).",
+  "nameEn": "Advance direction sign before an interchange (motorways only).",
+  "explainEl": "Πινακίδα αυτοκινητόδρομου (πράσινη). Διάβασε έγκαιρα τις κατευθύνσεις και πάρε τη σωστή λωρίδα.",
+  "explainEn": "Motorway sign (green). Read the directions early and get into the correct lane.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-81.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-81_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-80",
+   "Π-83"
+  ]
+ },
+ {
+  "code": "Π-82",
+  "codeLatin": "P-82",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατευθύνσεων εισόδου σε αυτοκινητόδρομο από δευτερεύουσα οδό μέσω ανισόπεδου κόμβου.",
+  "nameEn": "Advance direction sign for entering a motorway from a secondary road via an interchange.",
+  "explainEl": "Σε δευτερεύουσα οδό δείχνει πώς θα μπεις στον αυτοκινητόδρομο και προς ποιες κατευθύνσεις.",
+  "explainEn": "On a secondary road it shows how to enter the motorway and in which directions.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-82.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-82_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-88",
+   "Π-89"
+  ]
+ },
+ {
+  "code": "Π-83",
+  "codeLatin": "P-83",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Γέφυρα σήμανσης με αναγραφή κατευθύνσεων προ ανισόπεδου κόμβου (αποκλειστικά για αυτοκινητόδρομο).",
+  "nameEn": "Overhead sign gantry with directions before an interchange (motorways only).",
+  "explainEl": "Οι πινακίδες πάνω από κάθε λωρίδα δείχνουν πού οδηγεί. Πάρε έγκαιρα τη σωστή λωρίδα.",
+  "explainEn": "The signs above each lane show where it leads. Take the correct lane early.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-83.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-82.3_-_sample_01a_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-84",
+   "Π-85"
+  ]
+ },
+ {
+  "code": "Π-84",
+  "codeLatin": "P-84",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Γέφυρα σήμανσης με αναγραφή κατευθύνσεων προ ανισόπεδου κόμβου με αφαίρεση λωρίδας του αυτοκινητόδρομου.",
+  "nameEn": "Overhead sign gantry with directions before an interchange where a motorway lane is dropped.",
+  "explainEl": "Η λωρίδα που σημειώνεται καταλήγει στην έξοδο. Αν συνεχίζεις, μην μείνεις σε αυτήν.",
+  "explainEn": "The marked lane becomes the exit. If you are continuing, do not stay in it.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-84.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI84_-_new_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-83",
+   "Π-85"
+  ]
+ },
+ {
+  "code": "Π-85",
+  "codeLatin": "P-85",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Γέφυρα σήμανσης με αναγραφή κατευθύνσεων στην αρχή εξόδου από τον αυτοκινητόδρομο (αρχή λωρίδας επιβράδυνσης κόμβου).",
+  "nameEn": "Overhead sign gantry at the start of a motorway exit (start of the deceleration lane).",
+  "explainEl": "Εδώ αρχίζει η λωρίδα επιβράδυνσης της εξόδου. Μπες σε αυτήν και μετά μείωσε ταχύτητα.",
+  "explainEn": "The exit deceleration lane starts here. Move into it, then slow down.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-85.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-82.3b_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-83",
+   "Π-86"
+  ]
+ },
+ {
+  "code": "Π-86",
+  "codeLatin": "P-86",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση εξόδου από τον αυτοκινητόδρομο.",
+  "nameEn": "Motorway exit direction sign.",
+  "explainEl": "Στο σημείο της εξόδου δείχνει την κατεύθυνση εξόδου από τον αυτοκινητόδρομο.",
+  "explainEn": "At the exit point it shows the way off the motorway.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-86.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-83_-_sample_01a_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-85",
+   "Π-90α"
+  ]
+ },
+ {
+  "code": "Π-87",
+  "codeLatin": "P-87",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Επιβεβαιωτική της εισόδου στον συγκεκριμένο αυτοκινητόδρομο μετά τον ανισόπεδο κόμβο.",
+  "nameEn": "Confirmation of entry onto the specific motorway after the interchange.",
+  "explainEl": "Επιβεβαιώνει ότι μπήκες στον σωστό αυτοκινητόδρομο.",
+  "explainEn": "Confirms that you have joined the correct motorway.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-20",
+   "Π-89"
+  ],
+  "svgHint": "Green rectangle with white motorway symbol, motorway number and destination names with distances in km."
+ },
+ {
+  "code": "Π-88",
+  "codeLatin": "P-88",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική κατεύθυνσης εισόδου στον αυτοκινητόδρομο.",
+  "nameEn": "Advance direction sign for the entrance to the motorway.",
+  "explainEl": "Προειδοποιεί ότι πλησιάζει η είσοδος στον αυτοκινητόδρομο.",
+  "explainEn": "Warns that the motorway entrance is ahead.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-89",
+   "Π-82"
+  ],
+  "svgHint": "Rectangle with a green motorway panel (white motorway pictogram and destination) and an arrow toward the entry slip road, with distance."
+ },
+ {
+  "code": "Π-89",
+  "codeLatin": "P-89",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση εισόδου στον αυτοκινητόδρομο.",
+  "nameEn": "Direction sign for the entrance to the motorway.",
+  "explainEl": "Στο σημείο της εισόδου δείχνει πού να στρίψεις για τον αυτοκινητόδρομο.",
+  "explainEn": "At the entrance point it shows where to turn for the motorway.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-89.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:GR_KOK_-_Sign_PI89_-_new_-_sample_01_-_BIL_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-88",
+   "Π-82"
+  ]
+ },
+ {
+  "code": "Π-90α",
+  "codeLatin": "P-90a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική εξόδου από τον αυτοκινητόδρομο σε απόσταση 300 μέτρων προ της αρχής της λωρίδας επιβράδυνσης του κόμβου (όπου τίθεται η πινακίδα Π-85).",
+  "nameEn": "Motorway exit countdown marker: 300 m before the start of the exit deceleration lane (where sign Π-85 is).",
+  "explainEl": "Τρεις λοξές γραμμές: απομένουν 300 μ. μέχρι την αρχή της λωρίδας επιβράδυνσης της εξόδου.",
+  "explainEn": "Three diagonal bars: 300 m to the start of the exit deceleration lane.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-90a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-90.3_-_sample_01_-_EN_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-90β",
+   "Π-90γ"
+  ]
+ },
+ {
+  "code": "Π-90β",
+  "codeLatin": "P-90b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική εξόδου από τον αυτοκινητόδρομο σε απόσταση 200 μέτρων προ της αρχής της λωρίδας επιβράδυνσης του κόμβου (όπου τίθεται η πινακίδα Π-85).",
+  "nameEn": "Motorway exit countdown marker: 200 m before the start of the exit deceleration lane.",
+  "explainEl": "Δύο λοξές γραμμές: απομένουν 200 μ. μέχρι την αρχή της λωρίδας επιβράδυνσης της εξόδου.",
+  "explainEn": "Two diagonal bars: 200 m to the start of the exit deceleration lane.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-90b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-90.2_-_sample_01_-_EN_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-90α",
+   "Π-90γ"
+  ]
+ },
+ {
+  "code": "Π-90γ",
+  "codeLatin": "P-90g",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική εξόδου από τον αυτοκινητόδρομο σε απόσταση 100 μέτρων προ της αρχής της λωρίδας επιβράδυνσης του κόμβου (όπου τίθεται η πινακίδα Π-85).",
+  "nameEn": "Motorway exit countdown marker: 100 m before the start of the exit deceleration lane.",
+  "explainEl": "Μία λοξή γραμμή: απομένουν 100 μ. μέχρι την αρχή της λωρίδας επιβράδυνσης της εξόδου.",
+  "explainEn": "One diagonal bar: 100 m to the start of the exit deceleration lane.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-90g.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_OMOE-KSA_2003_-_PI-90.1_-_sample_01_-_EN_VCT.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-90α",
+   "Π-90β"
+  ]
+ },
+ {
+  "code": "Π-91",
+  "codeLatin": "P-91",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική υποχρεωτικής παρακαμπτήριας διαδρομής των οδικών οχημάτων μεταφοράς επικίνδυνων φορτίων.",
+  "nameEn": "Advance sign of the compulsory detour route for road vehicles carrying dangerous goods.",
+  "explainEl": "Τα οχήματα με επικίνδυνα φορτία πρέπει να ακολουθήσουν την παρακαμπτήρια διαδρομή που δείχνεται.",
+  "explainEn": "Vehicles carrying dangerous goods must follow the detour shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-91.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-91.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-2",
+   "Π-6"
+  ]
+ },
+ {
+  "code": "Π-92",
+  "codeLatin": "P-92",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αρχή περιοχής κατοικίας, χαρακτηρισμένης ως περιοχής ήπιας κυκλοφορίας.",
+  "nameEn": "Beginning of a residential area designated as a traffic-calming zone.",
+  "explainEl": "Αρχή περιοχής ήπιας κυκλοφορίας: οι πεζοί μπορούν να χρησιμοποιούν όλο το πλάτος του δρόμου και τα παιχνίδια επιτρέπονται. Οδήγησε πολύ αργά, μη θέτεις σε κίνδυνο τους πεζούς και σταμάτα αν χρειαστεί.",
+  "explainEn": "Start of a traffic-calming zone: pedestrians may use the whole width of the road and children may play. Drive very slowly, do not endanger pedestrians and stop if necessary.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-92.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-92.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-92α",
+   "Π-58"
+  ]
+ },
+ {
+  "code": "Π-92α",
+  "codeLatin": "P-92a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τέλος περιοχής κατοικίας, χαρακτηρισμένης ως περιοχής ήπιας κυκλοφορίας.",
+  "nameEn": "End of a residential area designated as a traffic-calming zone.",
+  "explainEl": "Τελειώνει η περιοχή ήπιας κυκλοφορίας.",
+  "explainEn": "The traffic-calming zone ends here.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-92a.svg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-92a.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Π-92",
+   "Π-59"
+  ]
+ },
+ {
+  "code": "Π-93",
+  "codeLatin": "P-93",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Ρύθμιση κυκλοφορίας από σχολικό τροχονόμο.",
+  "nameEn": "Traffic controlled by a school crossing patrol.",
+  "explainEl": "Κοντά σε σχολείο η κυκλοφορία ρυθμίζεται από σχολικό τροχονόμο. Υπάκουσε στις ενδείξεις του.",
+  "explainEn": "Near a school, traffic is controlled by a school crossing patrol. Obey their signals.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-93.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-93.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-21",
+   "Π-57"
+  ]
+ },
+ {
+  "code": "Π-94",
+  "codeLatin": "P-94",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Απαγορεύονται η στάση και η στάθμευση. Οι παραβάτες (σταθμευμένα αυτοκίνητα) μεταφέρονται.",
+  "nameEn": "Stopping and parking prohibited; offending (parked) vehicles are towed away.",
+  "explainEl": "Μην σταματάς και μην σταθμεύεις εδώ. Το όχημα θα ρυμουλκηθεί.",
+  "explainEn": "Do not stop or park here. Your vehicle will be towed away.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-94.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-94.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-31",
+   "Π-31β"
+  ]
+ },
+ {
+  "code": "Π-95",
+  "codeLatin": "P-95",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τροχιόδρομος επί του οδοστρώματος.",
+  "nameEn": "Tramway on the carriageway.",
+  "explainEl": "Το τραμ κινείται πάνω στο οδόστρωμα. Πρόσεχε τις ράγες και το τραμ.",
+  "explainEn": "The tram runs on the road surface. Watch for the rails and the tram.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-95.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_P-95.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-28α",
+   "Π-95α"
+  ]
+ },
+ {
+  "code": "Π-95α",
+  "codeLatin": "P-95a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική διασταύρωσης με αποκλειστική λωρίδα μέσων μαζικής μεταφοράς και ποδηλάτων (η φορά των βελών είναι ενδεικτική).",
+  "nameEn": "Advance warning of a junction with a lane reserved for public transport and cycles.",
+  "explainEl": "Στη διασταύρωση θα διασχίσεις λωρίδα λεωφορείων και ποδηλάτων. Κοίτα για λεωφορεία και ποδηλάτες.",
+  "explainEn": "At the junction you will cross a bus and cycle lane. Look out for buses and cyclists.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-95a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-95%CE%B1_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-130",
+   "Π-98α"
+  ]
+ },
+ {
+  "code": "Π-98α",
+  "codeLatin": "P-98a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα μέσων μαζικής μεταφοράς, μοτοσικλετών και ποδηλάτων παράλληλης ροής με την υπόλοιπη κυκλοφορία, καθώς και οχημάτων που στρίβουν δεξιά.",
+  "nameEn": "Lane reserved for public transport, motorcycles and cycles running with the flow of other traffic, and for vehicles turning right.",
+  "explainEl": "Λωρίδα μόνο για ΜΜΜ, μοτοσικλέτες και ποδήλατα. Με αυτοκίνητο μπαίνεις μόνο για να στρίψεις δεξιά.",
+  "explainEn": "Lane only for public transport, motorcycles and cycles. In a car you may enter it only to turn right.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-66",
+   "Π-104α",
+   "Π-99α"
+  ],
+  "svgHint": "White rectangle with black border: general-traffic lane arrow(s) and, separated by a dashed line, a reserved lane in the same direction marked with bus, motorcycle and bicycle symbols plus a right-turn indication."
+ },
+ {
+  "code": "Π-99α",
+  "codeLatin": "P-99a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα μέσων μαζικής μεταφοράς και ποδηλάτων, αντίθετης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Lane reserved for public transport and cycles, running against the flow of other traffic (contraflow).",
+  "explainEl": "Η λωρίδα κινείται αντίθετα από την υπόλοιπη κυκλοφορία. Πρόσεχε λεωφορεία και ποδήλατα από την αντίθετη πλευρά.",
+  "explainEn": "The lane runs against the other traffic. Watch for buses and cycles coming the other way.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-100α",
+   "Π-98α"
+  ],
+  "svgHint": "Blue rectangle split into lanes: general traffic arrows one way and a lane with bus and bicycle symbols and an arrow pointing the opposite way."
+ },
+ {
+  "code": "Π-100α",
+  "codeLatin": "P-100a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα μέσων μαζικής μεταφοράς και ποδηλάτων, αντίθετης ροής με την κυκλοφορία.",
+  "nameEn": "Lane reserved for public transport and cycles, against the flow of traffic (contraflow).",
+  "explainEl": "Η λωρίδα είναι αντίθετης ροής και μόνο για ΜΜΜ και ποδήλατα. Μην μπεις σε αυτήν.",
+  "explainEn": "The contraflow lane is only for public transport and cycles. Do not enter it.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-99α",
+   "Π-98α"
+  ],
+  "svgHint": "Blue rectangle with a contraflow lane marked with bus and bicycle symbols and an arrow opposite to the general traffic."
+ },
+ {
+  "code": "Π-104α",
+  "codeLatin": "P-104a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα μέσων μαζικής μεταφοράς, μοτοσικλετών και ποδηλάτων παράλληλης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Lane reserved for public transport, motorcycles and cycles, running with the flow of other traffic.",
+  "explainEl": "Λωρίδα αποκλειστικά για τα οχήματα που απεικονίζονται. Με αυτοκίνητο δεν κινείσαι μέσα της.",
+  "explainEn": "Lane only for the vehicles shown. Do not drive your car in it.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-98α",
+   "Π-66"
+  ],
+  "svgHint": "Blue rectangle with lane arrows; one lane carries bus, motorcycle and bicycle symbols, same direction as other traffic."
+ },
+ {
+  "code": "Π-121",
+  "codeLatin": "P-121",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική έναρξης αποκλειστικής λωρίδας ποδηλάτων παράλληλης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Advance warning of the start of a reserved cycle lane running with the flow of traffic.",
+  "explainEl": "Πιο κάτω αρχίζει αποκλειστική λωρίδα ποδηλάτων. Μην κινείσαι μέσα της.",
+  "explainEn": "A reserved cycle lane starts ahead. Do not drive in it.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-121α",
+   "Π-122"
+  ],
+  "svgHint": "Blue rectangle with lane arrows; the right-hand lane shows a white bicycle and starts further ahead."
+ },
+ {
+  "code": "Π-121α",
+  "codeLatin": "P-121a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική έναρξης λωρίδας ποδηλάτων μη αποκλειστικής χρήσης, παράλληλης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Advance warning of the start of a non-exclusive (advisory) cycle lane.",
+  "explainEl": "Πιο κάτω αρχίζει λωρίδα ποδηλάτων μη αποκλειστικής χρήσης. Πρόσεχε τους ποδηλάτες.",
+  "explainEn": "A non-exclusive cycle lane starts ahead. Watch for cyclists.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-121",
+   "Π-122α"
+  ],
+  "svgHint": "Blue rectangle with lane arrows; one lane with a bicycle symbol separated by a dashed line, starting ahead."
+ },
+ {
+  "code": "Π-122",
+  "codeLatin": "P-122",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα ποδηλάτων, παράλληλης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Reserved cycle lane running with the flow of other traffic.",
+  "explainEl": "Λωρίδα ποδηλάτων. Μην κινείσαι ή σταθμεύεις μέσα της και πρόσεχε τους ποδηλάτες.",
+  "explainEn": "Cycle lane. Do not drive or park in it and watch for cyclists.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-122α",
+   "Π-123"
+  ],
+  "svgHint": "Blue rectangle with lane arrows; one lane shows a white bicycle, separated by a solid line, same direction."
+ },
+ {
+  "code": "Π-122α",
+  "codeLatin": "P-122a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Λωρίδα ποδηλάτων μη αποκλειστικής χρήσης.",
+  "nameEn": "Non-exclusive (advisory) cycle lane.",
+  "explainEl": "Λωρίδα ποδηλάτων που δεν είναι αποκλειστική. Αν τη χρησιμοποιήσεις, δώσε προτεραιότητα στους ποδηλάτες.",
+  "explainEn": "A cycle lane that is not exclusive. If you use it, give priority to cyclists.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-122",
+   "Π-121α"
+  ],
+  "svgHint": "Blue rectangle with lane arrows; one lane with a bicycle symbol separated by a dashed line."
+ },
+ {
+  "code": "Π-123",
+  "codeLatin": "P-123",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα ποδηλάτων, αντίθετης ροής με την υπόλοιπη κυκλοφορία.",
+  "nameEn": "Reserved contraflow cycle lane (against the flow of other traffic).",
+  "explainEl": "Οι ποδηλάτες κινούνται αντίθετα από εσένα στη λωρίδα τους. Πρόσεχέ τους.",
+  "explainEn": "Cyclists ride towards you in their own lane. Watch for them.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-131",
+   "Π-122"
+  ],
+  "svgHint": "Blue rectangle: general traffic arrow one way, a lane with bicycle and arrow pointing the opposite way."
+ },
+ {
+  "code": "Π-124",
+  "codeLatin": "P-124",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Διαδρομή ποδηλάτων που είναι αριθμημένη και αποτελεί μέρος δικτύου ποδηλάτων.",
+  "nameEn": "Numbered cycle route that is part of a cycle network.",
+  "explainEl": "Δείχνει αριθμημένη διαδρομή ποδηλάτων του δικτύου ποδηλάτων.",
+  "explainEn": "Shows a numbered cycle route that belongs to the cycle network.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-124.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-124_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-125",
+   "Π-130"
+  ]
+ },
+ {
+  "code": "Π-125",
+  "codeLatin": "P-125",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Κατεύθυνση ποδηλάτου μιας τοπωνυμίας με μορφή βέλους.",
+  "nameEn": "Arrow-shaped cycle direction sign to one place.",
+  "explainEl": "Δείχνει στους ποδηλάτες την κατεύθυνση προς έναν προορισμό.",
+  "explainEn": "Shows cyclists the direction to one destination.",
+  "shape": "other",
+  "image": "downloads/P/P-125.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-125_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-124",
+   "Π-8α"
+  ]
+ },
+ {
+  "code": "Π-130",
+  "codeLatin": "P-130",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Προειδοποιητική διασταύρωσης με αποκλειστική λωρίδα ποδηλάτων.",
+  "nameEn": "Advance warning of a junction with a reserved cycle lane.",
+  "explainEl": "Στη διασταύρωση θα διασχίσεις λωρίδα ποδηλάτων. Δώσε προσοχή στους ποδηλάτες.",
+  "explainEn": "At the junction you will cross a cycle lane. Watch for cyclists.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-130.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-130_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-95α",
+   "Π-21α"
+  ]
+ },
+ {
+  "code": "Π-131",
+  "codeLatin": "P-131",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Αποκλειστική λωρίδα ποδηλάτων, αντίθετης ροής με την κυκλοφορία.",
+  "nameEn": "Reserved cycle lane against the flow of traffic (contraflow).",
+  "explainEl": "Οι ποδηλάτες κινούνται αντίθετα από την κυκλοφορία στη λωρίδα τους.",
+  "explainEn": "Cyclists ride against the traffic in their lane.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Π-123",
+   "Π-122"
+  ],
+  "svgHint": "Blue rectangle with one lane showing a bicycle and an arrow opposite to the general traffic arrow."
+ },
+ {
+  "code": "Π-132",
+  "codeLatin": "P-132",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Τηλέφωνο έκτακτης ανάγκης.",
+  "nameEn": "Emergency telephone.",
+  "explainEl": "Εδώ υπάρχει τηλέφωνο έκτακτης ανάγκης (π.χ. σε σήραγγα ή αυτοκινητόδρομο).",
+  "explainEn": "There is an emergency telephone here (e.g. in a tunnel or on a motorway).",
+  "shape": "rectangle",
+  "image": "downloads/P/P-132.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-132_(KOK_2020).svg",
+  "license": "CC0",
+  "similar": [
+   "Π-34",
+   "Π-133"
+  ]
+ },
+ {
+  "code": "Π-133",
+  "codeLatin": "P-133",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Πυροσβεστήρας.",
+  "nameEn": "Fire extinguisher.",
+  "explainEl": "Εδώ υπάρχει πυροσβεστήρας για περίπτωση ανάγκης.",
+  "explainEn": "A fire extinguisher is available here for emergencies.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-133.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-133.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-132",
+   "Π-134β"
+  ]
+ },
+ {
+  "code": "Π-134α",
+  "codeLatin": "P-134a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χώρος στάσης έκτακτης ανάγκης.",
+  "nameEn": "Emergency stopping area (lay-by).",
+  "explainEl": "Υποδεικνύει χώρο που μπορεί να χρησιμοποιηθεί για στάση ή στάθμευση σε περίπτωση ανάγκης ή κινδύνου. Αν ο χώρος έχει τηλέφωνο έκτακτης ανάγκης ή πυροσβεστήρα, η πινακίδα φέρει και τα σύμβολα των Π-132 ή Π-133.",
+  "explainEn": "Shows an area you may use to stop or park in an emergency or danger. If the area has an emergency telephone or fire extinguisher, the sign also carries the Π-132 or Π-133 symbols.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-134a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-134%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-31",
+   "Π-70"
+  ]
+ },
+ {
+  "code": "Π-134β",
+  "codeLatin": "P-134b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Χώρος στάσης έκτακτης ανάγκης.",
+  "nameEn": "Emergency stopping area (lay-by), alternative layout.",
+  "explainEl": "Υποδεικνύει χώρο που μπορεί να χρησιμοποιηθεί για στάση ή στάθμευση σε περίπτωση ανάγκης ή κινδύνου. Αν ο χώρος έχει τηλέφωνο έκτακτης ανάγκης ή πυροσβεστήρα, η πινακίδα φέρει και τα σύμβολα των Π-132 ή Π-133.",
+  "explainEn": "Shows an area you may use to stop or park in an emergency or danger. If the area has an emergency telephone or fire extinguisher, the sign also carries the Π-132 or Π-133 symbols.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-134b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0-134%CE%B2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Π-31",
+   "Π-70",
+   "Π-132"
+  ]
+ },
+ {
+  "code": "Π-135α",
+  "codeLatin": "P-135a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδοι κινδύνου. Οι πινακίδες αυτές υποδεικνύουν τη θέση των εξόδων κινδύνου.",
+  "nameEn": "Emergency exit.",
+  "explainEl": "Δείχνει τη θέση της εξόδου κινδύνου (π.χ. σε σήραγγα). Πράσινο φόντο.",
+  "explainEn": "Shows the location of the emergency exit (e.g. in a tunnel). Green background.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-135a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-135%CE%B1_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-136α",
+   "Π-134α",
+   "Π-132"
+  ]
+ },
+ {
+  "code": "Π-135β",
+  "codeLatin": "P-135b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδοι κινδύνου. Οι πινακίδες αυτές υποδεικνύουν τη θέση των εξόδων κινδύνου.",
+  "nameEn": "Emergency exit.",
+  "explainEl": "Δείχνει τη θέση της εξόδου κινδύνου (π.χ. σε σήραγγα).",
+  "explainEn": "Shows the location of the emergency exit (e.g. in a tunnel).",
+  "shape": "rectangle",
+  "image": "downloads/P/P-135b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-135%CE%B2_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-136β",
+   "Π-134β",
+   "Π-133"
+  ]
+ },
+ {
+  "code": "Π-136α",
+  "codeLatin": "P-136a",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδοι κινδύνου.",
+  "nameEn": "Emergency exits (direction and distance).",
+  "explainEl": "Δείχνει την κατεύθυνση και την απόσταση της πιο κοντινής εξόδου κινδύνου.",
+  "explainEn": "Shows the direction and distance of the nearest emergency exit.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-136a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-136%CE%B1_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-135α",
+   "Π-86"
+  ]
+ },
+ {
+  "code": "Π-136β",
+  "codeLatin": "P-136b",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδοι κινδύνου.",
+  "nameEn": "Emergency exits (direction and distance).",
+  "explainEl": "Δείχνει την κατεύθυνση και την απόσταση της πιο κοντινής εξόδου κινδύνου.",
+  "explainEn": "Shows the direction and distance of the nearest emergency exit.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-136b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-136%CE%B2_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-135β",
+   "Π-86"
+  ]
+ },
+ {
+  "code": "Π-136γ",
+  "codeLatin": "P-136g",
+  "official": true,
+  "group": "informative",
+  "sectionEl": "Πληροφοριακές πινακίδες (Σειρά Π)",
+  "nameEl": "Έξοδοι κινδύνου.",
+  "nameEn": "Emergency exits (directions and distances of the nearest exits both ways).",
+  "explainEl": "Δείχνει τις κατευθύνσεις και τις αποστάσεις των πιο κοντινών εξόδων κινδύνου.",
+  "explainEn": "Shows the directions and distances of the nearest emergency exits.",
+  "shape": "rectangle",
+  "image": "downloads/P/P-136g.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0-136%CE%B3_(KOK_2020).png",
+  "license": "CC0",
+  "similar": [
+   "Π-135α",
+   "Π-86",
+   "Π-134α"
+  ]
+ },
+ {
+  "code": "Πρ-1",
+  "codeLatin": "Pr-1",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Απόσταση από τη θέση της πινακίδας μέχρι την αρχή της επικίνδυνης θέσης ή της περιοχής στην οποία εφαρμόζεται ο καθοριζόμενος με αυτήν κανόνας ή περιορισμός (π.χ. 200 μ.).",
+  "nameEn": "Distance from the sign to the start of the danger or of the area where the rule or restriction applies (e.g. 200 m).",
+  "explainEl": "Ο κίνδυνος ή η ρύθμιση της κύριας πινακίδας αρχίζει μετά την απόσταση που αναγράφεται.",
+  "explainEn": "The danger or rule of the main sign begins after the distance shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-1.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_Pr-1.svg",
+  "license": "CC BY-SA 3.0",
+  "similar": [
+   "Πρ-2",
+   "Πρ-4β"
+  ]
+ },
+ {
+  "code": "Πρ-2",
+  "codeLatin": "Pr-2",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Μήκος του επικίνδυνου τμήματος ή της περιοχής στην οποία εφαρμόζεται ο καθοριζόμενος με την πινακίδα κανόνας ή περιορισμός (π.χ. 1 χιλιόμετρο).",
+  "nameEn": "Length of the dangerous section or of the area where the rule or restriction applies (e.g. 1 km).",
+  "explainEl": "Ο κίνδυνος ή η ρύθμιση της κύριας πινακίδας ισχύει για το μήκος που αναγράφεται.",
+  "explainEn": "The danger or rule of the main sign applies for the length shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-2.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-1",
+   "Πρ-4β"
+  ]
+ },
+ {
+  "code": "Πρ-3α",
+  "codeLatin": "Pr-3a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Αρχή ισχύος πινακίδας Ρ-39 ή Ρ-40, που τοποθετείται παράλληλα προς τον άξονα της οδού. Η ισχύς της πινακίδας εκτείνεται επί … (π.χ. 10 μ.) από τη θέση της πινακίδας και προς την κατεύθυνση του βέλους.",
+  "nameEn": "Start of validity of a no-parking/no-stopping sign (Ρ-39 or Ρ-40) placed parallel to the road; applies for the distance shown in the direction of the arrow.",
+  "explainEl": "Η απαγόρευση στάθμευσης/στάσης αρχίζει εδώ και ισχύει προς την κατεύθυνση του βέλους για την απόσταση που γράφει.",
+  "explainEn": "The parking/stopping ban starts here and applies in the arrow's direction for the distance shown.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-3β",
+   "Πρ-3γ",
+   "Πρ-4α"
+  ],
+  "svgHint": "White rectangle with black border: a horizontal arrow starting from a vertical bar at one end, with a distance such as 10 m."
+ },
+ {
+  "code": "Πρ-3β",
+  "codeLatin": "Pr-3b",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Υπόμνηση ισχύος πινακίδας Ρ-39 ή Ρ-40 που τοποθετείται παράλληλα προς τον άξονα της οδού. Η ισχύς της πινακίδας εκτείνεται επί … (π.χ. 5μ.) και από τις δυο πλευρές της θέσης της πινακίδας.",
+  "nameEn": "Reminder (continuation) of a Ρ-39 or Ρ-40 sign placed parallel to the road; applies for the distance shown on both sides of the sign.",
+  "explainEl": "Η απαγόρευση συνεχίζει και ισχύει και από τις δύο πλευρές της πινακίδας.",
+  "explainEn": "The ban continues and applies on both sides of the sign.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-3α",
+   "Πρ-3γ",
+   "Πρ-4β"
+  ],
+  "svgHint": "White rectangle with black border: a horizontal double-headed arrow with a distance such as 5 m."
+ },
+ {
+  "code": "Πρ-3γ",
+  "codeLatin": "Pr-3g",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Τέλος ισχύος πινακίδας Ρ-39 ή Ρ-40, που τοποθετείται παράλληλα προς τον άξονα της οδού.",
+  "nameEn": "End of validity of a Ρ-39 or Ρ-40 sign placed parallel to the road.",
+  "explainEl": "Εδώ τελειώνει η απαγόρευση στάθμευσης/στάσης.",
+  "explainEn": "The parking/stopping ban ends here.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-3α",
+   "Πρ-3β",
+   "Πρ-4γ"
+  ],
+  "svgHint": "White rectangle with black border: a horizontal arrow ending at a vertical bar, with a distance such as 10 m."
+ },
+ {
+  "code": "Πρ-4α",
+  "codeLatin": "Pr-4a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Αρχή ισχύος πινακίδας Ρ-39 ή Ρ-40 που τοποθετείται κάθετα προς τον άξονα της οδού.",
+  "nameEn": "Start of validity of a Ρ-39 or Ρ-40 sign placed perpendicular to the road.",
+  "explainEl": "Η απαγόρευση στάθμευσης/στάσης αρχίζει από αυτό το σημείο.",
+  "explainEn": "The parking/stopping ban starts at this point.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-4a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-4%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-4β",
+   "Πρ-4γ"
+  ]
+ },
+ {
+  "code": "Πρ-4β",
+  "codeLatin": "Pr-4b",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επανάληψη ισχύος πινακίδας Ρ-39 ή Ρ-40 που τοποθετείται κάθετα προς τον άξονα της οδού.",
+  "nameEn": "Repetition (continuation) of a Ρ-39 or Ρ-40 sign placed perpendicular to the road.",
+  "explainEl": "Η απαγόρευση στάθμευσης/στάσης συνεχίζεται.",
+  "explainEn": "The parking/stopping ban continues.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-4b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-4%CE%B2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-4α",
+   "Πρ-4γ"
+  ]
+ },
+ {
+  "code": "Πρ-4γ",
+  "codeLatin": "Pr-4g",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Τέλος ισχύος πινακίδας Ρ-39 ή Ρ-40 που τοποθετείται κάθετα προς τον άξονα της οδού.",
+  "nameEn": "End of validity of a Ρ-39 or Ρ-40 sign placed perpendicular to the road.",
+  "explainEl": "Εδώ τελειώνει η απαγόρευση στάθμευσης/στάσης.",
+  "explainEn": "The parking/stopping ban ends here.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-4g.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-4%CE%B3.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-4α",
+   "Πρ-4β"
+  ]
+ },
+ {
+  "code": "Πρ-4δ",
+  "codeLatin": "Pr-4d",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επιτρέπεται μόνο για οχήματα ατόμων με αναπηρία ύστερα από ειδική άδεια.",
+  "nameEn": "Permitted only for vehicles of persons with disabilities, with a special permit.",
+  "explainEl": "Η θέση ή η ρύθμιση αφορά μόνο οχήματα ΑμεΑ με ειδική άδεια.",
+  "explainEn": "The space or rule is only for vehicles of disabled persons with a special permit.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-4d.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-4%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-4ε",
+   "Π-60"
+  ]
+ },
+ {
+  "code": "Πρ-4ε",
+  "codeLatin": "Pr-4e",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Εξαιρούνται μόνο οχήματα ατόμων με αναπηρία ύστερα από ειδική άδεια.",
+  "nameEn": "Except only vehicles of persons with disabilities, with a special permit.",
+  "explainEl": "Η απαγόρευση δεν ισχύει για οχήματα ΑμεΑ με ειδική άδεια.",
+  "explainEn": "The ban does not apply to vehicles of disabled persons with a special permit.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-4e.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-4%CE%B5.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-4δ",
+   "Πρ-17"
+  ]
+ },
+ {
+  "code": "Πρ-5",
+  "codeLatin": "Pr-5",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Πάγος.",
+  "nameEn": "Ice (danger due to ice or snow).",
+  "explainEl": "Ο κίνδυνος της κύριας πινακίδας οφείλεται σε πάγο. Οδήγησε πολύ αργά και ομαλά.",
+  "explainEn": "The danger of the main sign is due to ice. Drive very slowly and smoothly.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-5.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-5.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-6"
+  ]
+ },
+ {
+  "code": "Πρ-6",
+  "codeLatin": "Pr-6",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Βροχή.",
+  "nameEn": "Rain (applies when wet).",
+  "explainEl": "Η ρύθμιση ή ο κίνδυνος της κύριας πινακίδας ισχύει όταν βρέχει.",
+  "explainEn": "The rule or danger of the main sign applies when it rains.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-6.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-6.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-5"
+  ]
+ },
+ {
+  "code": "Πρ-7",
+  "codeLatin": "Pr-7",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διασταύρωση (π.χ. α-δ).",
+  "nameEn": "Priority direction at a crossroads (e.g. α–δ): the priority road comes from below and turns right.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-7.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-7.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-8",
+   "Πρ-9"
+  ]
+ },
+ {
+  "code": "Πρ-8",
+  "codeLatin": "Pr-8",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διασταύρωση μορφής ⊣ (π.χ. α-β).",
+  "nameEn": "Priority direction at a ⊣-shaped junction (e.g. α–β): the priority road comes from below and turns left.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-8.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-8.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-7",
+   "Πρ-10"
+  ]
+ },
+ {
+  "code": "Πρ-9",
+  "codeLatin": "Pr-9",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής ⊢ (π.χ. α-γ).",
+  "nameEn": "Priority direction at a ⊢-shaped junction (e.g. α–γ): the priority road comes from below and turns right.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-9.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-9.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-10",
+   "Πρ-12"
+  ]
+ },
+ {
+  "code": "Πρ-10",
+  "codeLatin": "Pr-10",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής ⊤ (π.χ. α-β).",
+  "nameEn": "Priority direction at a ⊤-shaped junction (e.g. α–β): the priority road bends between the left arm and the arm below.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-10.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-10.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-11",
+   "Πρ-9"
+  ]
+ },
+ {
+  "code": "Πρ-11",
+  "codeLatin": "Pr-11",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής ⊥ (π.χ. α-β).",
+  "nameEn": "Priority direction at a ⊥-shaped junction (e.g. α–β): the priority road bends between the arm above and the left arm.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-11.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-11.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-10",
+   "Πρ-13"
+  ]
+ },
+ {
+  "code": "Πρ-12",
+  "codeLatin": "Pr-12",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής Υ (π.χ. α-γ).",
+  "nameEn": "Priority direction at a Y-shaped fork (e.g. α–γ): the priority road goes from below to the upper right.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-12.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-12.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-9",
+   "Πρ-13"
+  ]
+ },
+ {
+  "code": "Πρ-13",
+  "codeLatin": "Pr-13",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής Υ (π.χ. α-β).",
+  "nameEn": "Priority direction at a Y-shaped fork (e.g. α–β): the priority road goes from below to the upper left.",
+  "explainEl": "Μπαίνει κάτω από πινακίδα προτεραιότητας: η παχιά γραμμή δείχνει την πορεία της οδού προτεραιότητας στη διασταύρωση.",
+  "explainEn": "Placed under a priority sign: the thick line shows the course of the priority road through the junction.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-13.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-13.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-11",
+   "Πρ-12"
+  ]
+ },
+ {
+  "code": "Πρ-14α",
+  "codeLatin": "Pr-14a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επικίνδυνη κλειστή στροφή αριστερά.",
+  "nameEn": "Dangerous sharp bend to the left.",
+  "explainEl": "Η στροφή αριστερά είναι πολύ κλειστή. Μείωσε πολύ την ταχύτητα.",
+  "explainEn": "The left bend is very sharp. Slow right down.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-14a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-14%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-14δ",
+   "Πρ-15α"
+  ]
+ },
+ {
+  "code": "Πρ-14δ",
+  "codeLatin": "Pr-14d",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επικίνδυνη κλειστή στροφή δεξιά.",
+  "nameEn": "Dangerous sharp bend to the right.",
+  "explainEl": "Η στροφή δεξιά είναι πολύ κλειστή. Μείωσε πολύ την ταχύτητα.",
+  "explainEn": "The right bend is very sharp. Slow right down.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-14d.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-14%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-14α",
+   "Πρ-15δ"
+  ]
+ },
+ {
+  "code": "Πρ-15α",
+  "codeLatin": "Pr-15a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Ανακάμπτων ελιγμός αριστερά.",
+  "nameEn": "Hairpin bend to the left.",
+  "explainEl": "Η οδός κάνει φουρκέτα αριστερά. Οδήγησε πολύ αργά και κράτα τη δεξιά πλευρά.",
+  "explainEn": "The road makes a hairpin to the left. Drive very slowly and keep right.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-15a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-15%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-15δ",
+   "Πρ-14α"
+  ]
+ },
+ {
+  "code": "Πρ-15δ",
+  "codeLatin": "Pr-15d",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Ανακάμπτων ελιγμός δεξιά.",
+  "nameEn": "Hairpin bend to the right.",
+  "explainEl": "Η οδός κάνει φουρκέτα δεξιά. Οδήγησε πολύ αργά.",
+  "explainEn": "The road makes a hairpin to the right. Drive very slowly.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-15d.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_%CE%A0%CF%81-15%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-15α",
+   "Πρ-14δ"
+  ]
+ },
+ {
+  "code": "Πρ-16",
+  "codeLatin": "Pr-16",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επιτρέπεται μόνο για τη συγκεκριμένη κατηγορία οχημάτων που απεικονίζει το σύμβολο.",
+  "nameEn": "Applies (permitted) only for the specific category of vehicles shown by the symbol.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-17",
+   "Πρ-18α"
+  ],
+  "svgHint": "White rectangle with black border showing a black vehicle symbol (variants Πρ-16α to Πρ-16ιε)."
+ },
+ {
+  "code": "Πρ-16α",
+  "codeLatin": "Pr-16a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Ζωήλατο όχημα.",
+  "nameEn": "Animal-drawn vehicle.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16β",
+   "Πρ-16η"
+  ]
+ },
+ {
+  "code": "Πρ-16β",
+  "codeLatin": "Pr-16b",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Χειράμαξα.",
+  "nameEn": "Handcart.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16α",
+   "Πρ-16η"
+  ]
+ },
+ {
+  "code": "Πρ-16γ",
+  "codeLatin": "Pr-16g",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Ποδήλατο.",
+  "nameEn": "Bicycle.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16g.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B3.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16δ",
+   "Πρ-16ε"
+  ]
+ },
+ {
+  "code": "Πρ-16δ",
+  "codeLatin": "Pr-16d",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Μοτοποδήλατο.",
+  "nameEn": "Moped.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16d.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ε",
+   "Πρ-16γ"
+  ]
+ },
+ {
+  "code": "Πρ-16ε",
+  "codeLatin": "Pr-16e",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Μοτοσικλέτα ή τρίτροχο όχημα.",
+  "nameEn": "Motorcycle or three-wheeled vehicle.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16e.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B5.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16δ",
+   "Πρ-16γ"
+  ]
+ },
+ {
+  "code": "Πρ-16στ",
+  "codeLatin": "Pr-16st",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επιβατηγό όχημα.",
+  "nameEn": "Passenger car.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16st.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CF%83%CF%84.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ζ",
+   "Πρ-16ι"
+  ]
+ },
+ {
+  "code": "Πρ-16ζ",
+  "codeLatin": "Pr-16z",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επιβατηγό με ρυμουλκούμενο ενός άξονα (τρέιλερ).",
+  "nameEn": "Passenger car with a single-axle trailer.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16z.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B6.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16στ",
+   "Πρ-16ιγ"
+  ]
+ },
+ {
+  "code": "Πρ-16η",
+  "codeLatin": "Pr-16h",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Αγροτικό μηχάνημα.",
+  "nameEn": "Agricultural machine (tractor).",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16h.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B7.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16α",
+   "Πρ-16β"
+  ]
+ },
+ {
+  "code": "Πρ-16θ",
+  "codeLatin": "Pr-16th",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Λεωφορείο ή τρόλεϊ.",
+  "nameEn": "Bus or trolleybus.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16th.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B8.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ι",
+   "Πρ-16ιε"
+  ]
+ },
+ {
+  "code": "Πρ-16ι",
+  "codeLatin": "Pr-16i",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Φορτηγό αυτοκίνητο.",
+  "nameEn": "Lorry (truck).",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16i.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ια",
+   "Πρ-16ιγ"
+  ]
+ },
+ {
+  "code": "Πρ-16ια",
+  "codeLatin": "Pr-16ia",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Φορτηγό αρθρωτό.",
+  "nameEn": "Articulated lorry.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16ia.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ι",
+   "Πρ-16ιβ"
+  ]
+ },
+ {
+  "code": "Πρ-16ιβ",
+  "codeLatin": "Pr-16ib",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Φορτηγό με ρυμουλκούμενο όχημα πλην ρυμουλκούμενου ενός άξονα.",
+  "nameEn": "Lorry with a trailer (other than a single-axle trailer).",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16ib.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9%CE%B2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ιγ",
+   "Πρ-16ια"
+  ]
+ },
+ {
+  "code": "Πρ-16ιγ",
+  "codeLatin": "Pr-16ig",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Φορτηγό με ρυμουλκούμενο όχημα ενός άξονα.",
+  "nameEn": "Lorry with a single-axle trailer.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16ig.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9%CE%B3.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16ιβ",
+   "Πρ-16ζ"
+  ]
+ },
+ {
+  "code": "Πρ-16ιδ",
+  "codeLatin": "Pr-16id",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Όχημα που φέρει πάνω από ορισμένη ποσότητα εκρηκτικές ή εύφλεκτες ύλες.",
+  "nameEn": "Vehicle carrying more than a set quantity of explosive or flammable substances.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16id.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9%CE%B4.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16στ",
+   "Π-91"
+  ]
+ },
+ {
+  "code": "Πρ-16ιε",
+  "codeLatin": "Pr-16ie",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Τροχιόδρομος.",
+  "nameEn": "Tram.",
+  "explainEl": "Μπαίνει κάτω από κύρια πινακίδα (Πρ-16): η ρύθμιση της κύριας πινακίδας ισχύει μόνο για αυτή την κατηγορία οχημάτων.",
+  "explainEn": "Placed under a main sign (Πρ-16): the main sign's rule applies only to this vehicle category.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-16ie.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-16%CE%B9%CE%B5.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16θ",
+   "Πρ-16ια"
+  ]
+ },
+ {
+  "code": "Πρ-17",
+  "codeLatin": "Pr-17",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Εξαιρείται (από την ισχύουσα ρύθμιση) μόνο η συγκεκριμένη κατηγορία οχημάτων που απεικονίζει το σύμβολο (αρίθμηση αντίστοιχη με την Πρ-16).",
+  "nameEn": "Except only the vehicle category shown by the symbol (numbering as for Πρ-16), e.g. except buses and trolleybuses.",
+  "explainEl": "Η ρύθμιση της κύριας πινακίδας δεν ισχύει για την κατηγορία οχημάτων που απεικονίζεται.",
+  "explainEn": "The main sign's rule does not apply to the vehicle category shown.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-17.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-17_(%CE%B1-%CE%B9%CE%B4).svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-16",
+   "Πρ-18β"
+  ]
+ },
+ {
+  "code": "Πρ-18α",
+  "codeLatin": "Pr-18a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Επιτρέπεται μόνο για τα TAXI.",
+  "nameEn": "Permitted only for taxis.",
+  "explainEl": "Η ρύθμιση ή η θέση αφορά μόνο ταξί.",
+  "explainEn": "The rule or space is only for taxis.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-18a.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-18%CE%B1.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-18β",
+   "Πρ-16στ"
+  ]
+ },
+ {
+  "code": "Πρ-18β",
+  "codeLatin": "Pr-18b",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Εξαιρούνται μόνο τα TAXI.",
+  "nameEn": "Except only taxis.",
+  "explainEl": "Η ρύθμιση δεν ισχύει για ταξί.",
+  "explainEn": "The rule does not apply to taxis.",
+  "shape": "rectangle",
+  "image": "downloads/P/Pr-18b.png",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%A0%CF%81-18%CE%B2.svg",
+  "license": "CC BY-SA 4.0",
+  "similar": [
+   "Πρ-18α",
+   "Πρ-17"
+  ]
+ },
+ {
+  "code": "Πρ-19α",
+  "codeLatin": "Pr-19a",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Ηλεκτροκίνητα Οχήματα. Στην περίπτωση που η πινακίδα χρησιμοποιείται για τη στάση/στάθμευση, αυτή ισχύει μόνο για τη διάρκεια επαναφόρτισης του οχήματος.",
+  "nameEn": "Electric vehicles (the main sign applies to electric vehicles; for stopping/parking, only while recharging).",
+  "explainEl": "Η ρύθμιση της κύριας πινακίδας αφορά ηλεκτροκίνητα οχήματα. Αν αφορά στάση/στάθμευση, ισχύει μόνο όσο το όχημα επαναφορτίζεται.",
+  "explainEn": "The main sign applies to electric vehicles. For stopping/parking it applies only while the vehicle is recharging.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-19β",
+   "Π-35α"
+  ],
+  "svgHint": "White rectangle with black border showing a black car symbol with a charging plug/cable."
+ },
+ {
+  "code": "Πρ-19β",
+  "codeLatin": "Pr-19b",
+  "official": true,
+  "group": "supplementary",
+  "sectionEl": "Πρόσθετες πινακίδες (Σειρά Πρ)",
+  "nameEl": "Εξαιρούνται τα ηλεκτροκίνητα οχήματα. Στην περίπτωση που η πινακίδα χρησιμοποιείται για τη στάση/στάθμευση, αυτή ισχύει μόνο για τη διάρκεια επαναφόρτισης του οχήματος.",
+  "nameEn": "Except electric vehicles (for stopping/parking, the exemption applies only while recharging).",
+  "explainEl": "Τα ηλεκτροκίνητα οχήματα εξαιρούνται από τη ρύθμιση. Σε απαγόρευση στάσης/στάθμευσης η εξαίρεση ισχύει μόνο όσο φορτίζουν.",
+  "explainEn": "Electric vehicles are exempt from the rule. Under a no-stopping/no-parking sign the exemption applies only while they are charging.",
+  "shape": "rectangle",
+  "image": null,
+  "imageSource": null,
+  "license": null,
+  "similar": [
+   "Πρ-19α",
+   "Π-35α"
+  ],
+  "svgHint": "White rectangle with black border showing a black car symbol connected by a cable to a charging post."
+ }
+]
