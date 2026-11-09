@@ -23,14 +23,16 @@ async function openSection(title) {
   await page.waitForTimeout(500)
 }
 
-/** Answers a section test to the end and returns the question prompts' picture sources. */
+/** Answers a section test to the end and returns each question's picture source and prompt. */
 async function runSectionTest() {
   await page.waitForSelector('.question')
   const count = await page.locator('.quiz__count').textContent()
   const total = Number(count?.match(/από (\d+)/)?.[1])
   const pictures = []
+  const prompts = []
   for (let i = 0; i < total; i++) {
     pictures.push(await page.locator('.question__image').getAttribute('src').catch(() => null))
+    prompts.push(await page.locator('.question__prompt').textContent())
     await page.locator('.option').first().click()
     await page.locator('.quiz__next').click()
     await page.waitForTimeout(80)
@@ -38,7 +40,13 @@ async function runSectionTest() {
   await page.waitForSelector('.results-hero')
   await page.locator('.quiz__footer .btn', { hasText: 'Τέλος' }).click()
   await page.waitForTimeout(300)
-  return { total, pictures }
+  return { total, pictures, prompts }
+}
+
+/** The same question twice in one test, as a user reads it: the same wording on the same picture. */
+const repeatedQuestion = ({ pictures, prompts }) => {
+  const keys = prompts.map((prompt, i) => `${(prompt ?? '').replace(/\s+/g, ' ').trim()}|${pictures[i] ?? ''}`)
+  return keys.find((key, i) => keys.indexOf(key) !== i)
 }
 
 await page.goto(BASE)
@@ -81,11 +89,25 @@ for (let run = 0; run < 3; run++) {
   if (run > 0) {
     await page.locator(`${top} .section-card .btn--primary`).click()
   }
-  const { total, pictures } = await runSectionTest()
-  const keys = pictures.filter(Boolean).map((src) => dupOf.get(src.replace(/^\.?\//, '')) ?? src)
-  if (new Set(keys).size !== keys.length) fail(`Απαγορεύσεις test ${run + 1} repeats a sign (${total} questions)`)
-  else console.log(`Απαγορεύσεις test ${run + 1}: ${total} questions, no sign repeated`)
+  const test = await runSectionTest()
+  const keys = test.pictures.filter(Boolean).map((src) => dupOf.get(src.replace(/^\.?\//, '')) ?? src)
+  const twice = repeatedQuestion(test)
+  if (new Set(keys).size !== keys.length) fail(`Απαγορεύσεις test ${run + 1} repeats a sign (${test.total} questions)`)
+  else if (twice) fail(`Απαγορεύσεις test ${run + 1} asks the same question twice: ${twice}`)
+  else console.log(`Απαγορεύσεις test ${run + 1}: ${test.total} questions, no sign and no question repeated`)
 }
+
+// 3b. «Οριζόντια σήμανση» has fewer questions than the test size, so every one of them is shown: if the
+// bank holds the same question twice (ΣΗΜΑΝΣΗ 97 did, on pages 7 and 201), this test shows it twice.
+await page.locator(`${top} [aria-label="Πίσω"]`).click()
+await page.waitForTimeout(400)
+await page.locator(`${top} .row`, { hasText: 'Οριζόντια σήμανση' }).click()
+await page.waitForTimeout(400)
+await page.locator(`${top} .section-card .btn--primary`).click()
+const marking = await runSectionTest()
+const markingTwice = repeatedQuestion(marking)
+if (markingTwice) fail(`Οριζόντια σήμανση asks the same question twice: ${markingTwice}`)
+else console.log(`Οριζόντια σήμανση: ${marking.total} questions, each asked once`)
 await page.locator(`${top} [aria-label="Πίσω"]`).click()
 await page.waitForTimeout(400)
 await page.locator(`${top} .row`, { hasText: 'προτεραιότητας' }).click()

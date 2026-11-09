@@ -4,6 +4,7 @@
 //   src/data/bank.json                 — the official exam question bank (import_bank.py)
 //   <research-dir>/out                 — explanations, look-alike lists and Part 2 lessons
 // Usage: node scripts/build-data.mjs <research-dir>
+import { createHash } from 'node:crypto'
 import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -115,10 +116,68 @@ const sections = SECTIONS.map(({ match, ...meta }) => {
   }
 }).filter((s) => s.codes.length > 0)
 
+/* ---------- Drop questions the bank holds twice ---------- */
+
+/**
+ * When the Ministry refreshes a question's wording it keeps the old revision on an extra page of the
+ * questionnaire (QPag 200/201, outside the 30 group pages the exam draws from), so the same chapter
+ * number ends up on two rows with the same picture and the same answer. The row on a real group page is
+ * the current one: «ΣΗΜΑΝΣΗ 97» kept «…σιδηροδρομικός συρμός» on page 201 and «…συρμός ή τροχιόδρομος»
+ * in group 7.
+ *
+ * A chapter numbers each of its questions once, so that number is the only evidence strong enough to
+ * delete a row. Sharing a stem, or even a stem and a picture, is not: ΔΙΑΣΤΑΥΡΩΣΕΙΣ 9 and 10 both ask
+ * «Σε μια κυκλική διασταύρωση:» over the same drawing and have different answers, and ΑΛΚΟΟΛ 24, 30 and
+ * 33 all read «Η κατανάλωση αλκοόλ μπορεί να προκαλέσει κατά την οδήγηση:». Those stay in the bank;
+ * keeping them out of one another's tests is `sameQuestionKeys` in src/lib/quiz.ts, which costs nothing.
+ */
+const EXAM_PAGES = 30
+const current = (a, b) => (a.group <= EXAM_PAGES) !== (b.group <= EXAM_PAGES) ? (a.group <= EXAM_PAGES ? -1 : 1) : b.id.localeCompare(a.id, 'en', { numeric: true })
+
+function dropDuplicates(questions) {
+  const taken = new Map()
+  const kept = new Set()
+  for (const q of [...questions].sort(current)) {
+    if (q.number === null) {
+      kept.add(q.id)
+      continue
+    }
+    const key = `${q.chapter}#${q.number}`
+    const clash = taken.get(key)
+    if (clash) {
+      warnings.push(`${q.id} (ομάδα ${q.group}, ${q.chapter} ${q.number}): duplicate of ${clash.id} (ομάδα ${clash.group}) — dropped`)
+      continue
+    }
+    taken.set(key, q)
+    kept.add(q.id)
+  }
+  return questions.filter((q) => kept.has(q.id))
+}
+
+/**
+ * The export ships one drawing under several names — bank/D009.webp and bank/D010.webp are the same
+ * bytes — so «Σε μια κυκλική διασταύρωση:» looks like two different pictures to anything that compares
+ * the path. Point every question at the first name its picture has, leaving the extra files in place.
+ */
+function oneNamePerPicture(questions) {
+  const canonical = new Map()
+  for (const image of [...new Set(questions.map((q) => q.image).filter(Boolean))].sort()) {
+    const file = join(ROOT, 'public', image)
+    if (!existsSync(file)) {
+      warnings.push(`${image}: picture file missing`)
+      continue
+    }
+    const digest = createHash('sha256').update(readFileSync(file)).digest('hex')
+    canonical.set(image, canonical.get(digest) ?? image)
+    if (!canonical.has(digest)) canonical.set(digest, image)
+  }
+  return questions.map((q) => (q.image && canonical.get(q.image) !== q.image ? { ...q, image: canonical.get(q.image) } : q))
+}
+
 /* ---------- Link official questions to sign sections ---------- */
 
 const bankFile = join(DATA_DIR, 'bank.json')
-const bank = readJson(bankFile)
+const bank = dropDuplicates(oneNamePerPicture(readJson(bankFile)))
 const tokens = (text) => new Set(text.split(' ').filter((w) => w.length >= 3))
 const jaccard = (a, b) => {
   const inter = [...a].filter((w) => b.has(w)).length
@@ -197,9 +256,19 @@ const lessons = ['car', 'driving', 'rules'].flatMap((module) =>
 
 /* ---------- Write ---------- */
 
+// The chapter counts are printed on the tests screen, so they follow the bank that was just written —
+// import_bank.py counted the rows it imported, which is a different number once a duplicate is dropped.
+const chaptersFile = join(DATA_DIR, 'chapters.json')
+const chapters = existsSync(chaptersFile)
+  ? readJson(chaptersFile)
+      .map((c) => ({ ...c, count: linkedBank.filter((q) => q.chapter === c.id).length }))
+      .filter((c) => c.count > 0)
+  : []
+
 writeFileSync(join(DATA_DIR, 'signs.json'), JSON.stringify(finalSigns))
 writeFileSync(join(DATA_DIR, 'sections.json'), JSON.stringify(sections, null, 1))
 writeFileSync(bankFile, JSON.stringify(linkedBank))
+writeFileSync(chaptersFile, JSON.stringify(chapters, null, 1))
 writeFileSync(join(DATA_DIR, 'lessons.json'), JSON.stringify(lessons))
 
 for (const s of sections) {

@@ -138,3 +138,130 @@ describe('buildLessonQuiz', () => {
     expect(q?.options.find((o) => o.id === q.correctId)?.label).toBe('t1 right')
   })
 })
+
+describe('questions that repeat a stem', () => {
+  const stem = 'Η κατανάλωση αλκοόλ μπορεί να προκαλέσει κατά την οδήγηση:'
+  /** The bank's own shape: one stem asked three times with different answers, plus the same stem on two signs. */
+  const bank = [
+    makeBank('a1', 5, { chapter: 'ΑΛΚΟΟΛ', number: 24, q: stem, options: ['a1 right', 'a1 wrong'] }),
+    makeBank('a2', 6, { chapter: 'ΑΛΚΟΟΛ', number: 30, q: stem, options: ['a2 right', 'a2 wrong'] }),
+    makeBank('a3', 7, { chapter: 'ΑΛΚΟΟΛ', number: 33, q: 'ΠΩΣ ΕΝΕΡΓΕΙΤΕ;', options: ['a3 right', 'a3 wrong'] }),
+    makeBank('a4', 8, { chapter: 'ΑΛΚΟΟΛ', number: 40, q: 'Πώς ενεργείτε:', options: ['a4 right', 'a4 wrong'] }),
+  ]
+
+  it('asks a repeated stem only once in one test, whatever the accents and the answers', () => {
+    for (let seed = 0; seed < 30; seed++) {
+      const quiz = buildChapterQuiz('ΑΛΚΟΟΛ', bank, createRng(seed), 20, titleOf)
+      expect(quiz).toHaveLength(2)
+      expect(new Set(quiz.map((q) => q.prompt.toLowerCase())).size).toBe(2)
+    }
+  })
+
+  it('still gives every one of them its turn across attempts', () => {
+    const seen = new Set<string>()
+    for (let seed = 0; seed < 60; seed++) buildChapterQuiz('ΑΛΚΟΟΛ', bank, createRng(seed), 20, titleOf).forEach((q) => seen.add(q.ref))
+    expect([...seen].sort()).toEqual(['a1', 'a2', 'a3', 'a4'])
+  })
+
+  it('keeps the same stem on two different pictures as two questions', () => {
+    const signs = [
+      makeBank('s1', 1, { q: stem, image: 'bank/C097.webp' }),
+      makeBank('s2', 2, { q: stem, image: 'bank/C106.webp' }),
+    ]
+    for (let seed = 0; seed < 20; seed++) {
+      expect(buildChapterQuiz('ΣΗΜΑΝΣΗ', signs, createRng(seed), 20, titleOf)).toHaveLength(2)
+    }
+  })
+
+  it('drops the stale copy of a question that the bank holds twice with the same picture', () => {
+    const twins = [
+      makeBank('t1', 201, { q: stem, image: 'bank/C097.webp', number: 97 }),
+      makeBank('t2', 7, { q: stem, image: 'bank/C097.webp', number: 97 }),
+      makeBank('t3', 7, { q: 'other', image: null, number: 98 }),
+    ]
+    for (let seed = 0; seed < 20; seed++) {
+      const quiz = buildSectionQuiz('diagrammiseis', twins.map((b) => ({ ...b, sectionId: 'diagrammiseis' })), createRng(seed), 20, titleOf)
+      expect(quiz).toHaveLength(2)
+      expect(new Set(quiz.map((q) => `${q.prompt}|${q.image}`)).size).toBe(2)
+    }
+  })
+
+  it('never repeats a question in the mock exam, even across groups', () => {
+    const repeatedAcrossGroups = [
+      makeBank('g1a', 1, { q: stem }),
+      makeBank('g2a', 2, { q: stem }),
+      makeBank('g2b', 2, { q: 'only in group two' }),
+    ]
+    for (let seed = 0; seed < 30; seed++) {
+      const refs = buildOfficialExam(repeatedAcrossGroups, createRng(seed), [1, 2], titleOf).map((q) => q.ref)
+      expect(refs).toEqual(['g1a', 'g2b'])
+    }
+  })
+})
+
+describe('a reworded revision of one question', () => {
+  /** ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΣ 43 was once stored twice: «συνιστάται» and «επιτρέπεται να χρησιμοποιείται». */
+  const reworded = [
+    makeBank('r1', 201, { chapter: 'ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΣ', number: 43, q: 'Η αριστερή λωρίδα συνιστάται να χρησιμοποιείται:' }),
+    makeBank('r2', 24, { chapter: 'ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΣ', number: 43, q: 'Η αριστερή λωρίδα επιτρέπεται να χρησιμοποιείται:' }),
+    makeBank('r3', 24, { chapter: 'ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΣ', number: 44, q: 'Κάτι άλλο:' }),
+  ]
+
+  it('is asked once even though the two wordings differ, because the book numbers it once', () => {
+    for (let seed = 0; seed < 30; seed++) {
+      const quiz = buildChapterQuiz('ΑΥΤΟΚΙΝΗΤΟΔΡΟΜΟΣ', reworded, createRng(seed), 20, titleOf)
+      expect(quiz).toHaveLength(2)
+      expect(quiz.map((q) => q.ref)).toContain('r3')
+    }
+  })
+
+  it('does not merge two questions that the book leaves unnumbered', () => {
+    const unnumbered = [
+      makeBank('u1', 1, { chapter: 'ΟΡΓΑΝΑ', number: null, q: 'first' }),
+      makeBank('u2', 2, { chapter: 'ΟΡΓΑΝΑ', number: null, q: 'second' }),
+    ]
+    expect(buildChapterQuiz('ΟΡΓΑΝΑ', unnumbered, createRng(1), 20, titleOf)).toHaveLength(2)
+  })
+})
+
+describe('sampleDistinct counting', () => {
+  /** Rows carrying both a sign key and a text key: the count must still be the number of questions. */
+  const pool = Array.from({ length: 30 }, (_, i) =>
+    makeBank(`m${i}`, 1, { sectionId: 'kindynou', dup: `sign:X${i}`, q: `question ${i}`, number: i + 1 }),
+  )
+
+  it('returns exactly the requested count when every row has two keys', () => {
+    expect(buildSectionQuiz('kindynou', pool, createRng(1), 20, titleOf)).toHaveLength(20)
+    expect(buildSectionQuiz('kindynou', pool, createRng(1), 1, titleOf)).toHaveLength(1)
+    expect(buildSectionQuiz('kindynou', pool, createRng(1), 0, titleOf)).toHaveLength(0)
+    expect(buildSectionQuiz('kindynou', pool, createRng(1), 40, titleOf)).toHaveLength(30)
+  })
+})
+
+describe('buildReviewQuiz', () => {
+  it('asks a question once even when two mistakes are the same question', () => {
+    const bank = [
+      makeBank('v1', 1, { chapter: 'ΚΑΝΟΝΕΣ', number: 1, q: 'one question', image: 'bank/C001.webp' }),
+      makeBank('v2', 2, { chapter: 'ΕΚΤΑΚΤΑ', number: 2, q: 'one question', image: 'bank/C001.webp' }),
+      makeBank('v3', 3, { chapter: 'ΕΚΤΑΚΤΑ', number: 3, q: 'another' }),
+    ]
+    for (let seed = 0; seed < 20; seed++) {
+      const quiz = buildReviewQuiz(['v1', 'v2', 'v3'], bank, createRng(seed), titleOf)
+      expect(quiz).toHaveLength(2)
+      expect(new Set(quiz.map((q) => q.id)).size).toBe(2)
+    }
+  })
+})
+
+describe('«Τα λάθη μου» keeps every mistake reachable', () => {
+  /** Two different questions about one sign: both are mistakes, and each clears only on its own ref. */
+  const sameSign = [
+    makeBank('s1', 1, { chapter: 'ΣΗΜΑΝΣΗ', number: 1, q: 'what does it mean', image: 'bank/C001.webp', dup: 'sign:Ρ-2' }),
+    makeBank('s2', 2, { chapter: 'ΣΗΜΑΝΣΗ', number: 2, q: 'how do you act', image: 'bank/C001.webp', dup: 'sign:Ρ-2' }),
+  ]
+
+  it('asks both questions of one sign, unlike a practice test', () => {
+    expect(buildReviewQuiz(['s1', 's2'], sameSign, createRng(3), titleOf).map((q) => q.ref).sort()).toEqual(['s1', 's2'])
+    expect(buildChapterQuiz('ΣΗΜΑΝΣΗ', sameSign, createRng(3), 20, titleOf)).toHaveLength(1)
+  })
+})

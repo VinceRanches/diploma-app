@@ -455,14 +455,6 @@
         "difficulty": 2
       },
       {
-        "id": "safety-systems-q4",
-        "q": {"el": "Παιδί 8 ετών θέλει να καθίσει στη θέση του συνοδηγού. Τι ισχύει;", "en": "An 8-year-old wants to sit in the front passenger seat. What applies?"},
-        "options": [{"el": "Επιτρέπεται με την κανονική ζώνη", "en": "It is allowed with the normal seat belt"}, {"el": "Μόνο με εγκεκριμένο σύστημα συγκράτησης κατάλληλο για ηλικία, ύψος και βάρος", "en": "Only with an approved restraint suitable for age, height and weight"}, {"el": "Επιτρέπεται πάντα πάνω από 5 ετών", "en": "It is always allowed above age 5"}],
-        "answer": 1,
-        "explain": {"el": "Το άρθρο 37 του ν. 5209/2025 απαγορεύει σε παιδιά κάτω των 12 τη θέση δίπλα στον οδηγό χωρίς κατάλληλο εγκεκριμένο σύστημα.", "en": "Article 37 of Law 5209/2025 bars children under 12 from the seat next to the driver without a suitable approved restraint."},
-        "difficulty": 2
-      },
-      {
         "id": "safety-systems-q5",
         "q": {"el": "Τι κάνει το ESP;", "en": "What does ESP do?"},
         "options": [{"el": "Βοηθά να αποφευχθεί η ολίσθηση φρενάροντας μεμονωμένους τροχούς", "en": "Helps prevent skids by braking individual wheels"}, {"el": "Αυξάνει την ισχύ του κινητήρα", "en": "Increases engine power"}, {"el": "Κάνει περιττά τα καλά ελαστικά", "en": "Makes good tyres unnecessary"}],

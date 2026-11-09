@@ -71,6 +71,38 @@ def enhance(src, dst):
     return im.size
 
 
+def drop_duplicates(bank: list[dict]) -> tuple[list[dict], list[tuple[dict, dict]]]:
+    """Removes a question's stale revision.
+
+    When a question's wording is refreshed, the database keeps the old revision on an extra page
+    (QPag 200/201, outside the 30 group pages the exam draws from) and the chapter's question number then
+    appears on two rows with the same picture and the same answer. The row on a real group page is the
+    current one — ΣΗΜΑΝΣΗ 97 kept «…σιδηροδρομικός συρμός» on page 201 and «…συρμός ή τροχιόδρομος» in
+    group 7.
+
+    A chapter numbers each of its questions once, so that number is the only evidence strong enough to
+    drop a row. Sharing a stem is not: ΑΛΚΟΟΛ 24, 30 and 33 all ask «Η κατανάλωση αλκοόλ μπορεί να
+    προκαλέσει κατά την οδήγηση:» with different answers, and ΔΙΑΣΤΑΥΡΩΣΕΙΣ 9 and 10 ask the same thing
+    over one drawing. Those stay; keeping them out of one another's tests is sameQuestionKeys in
+    src/lib/quiz.ts.
+    """
+    exam_pages = 30
+    ranked = sorted(bank, key=lambda b: (b['group'] > exam_pages, -int(re.sub(r'\D', '', b['id']) or 0)))
+    taken: dict[tuple[str, int], dict] = {}
+    kept_ids, stale = set(), []
+    for q in ranked:
+        if q['number'] is None:
+            kept_ids.add(q['id'])
+            continue
+        clash = taken.get((q['chapter'], q['number']))
+        if clash:
+            stale.append((q, clash))
+            continue
+        taken[(q['chapter'], q['number'])] = q
+        kept_ids.add(q['id'])
+    return [q for q in bank if q['id'] in kept_ids], stale
+
+
 def main():
     quests = [q for q in csv.DictReader(open(os.path.join(CSV_DIR, 'quest.csv'), encoding='utf-8'))
               if q['QKateg'] == CAR_QUESTIONNAIRE and q['QLang'] == GREEK]
@@ -115,6 +147,7 @@ def main():
             'image': image,
         })
 
+    bank, stale = drop_duplicates(bank)
     order = {k: i for i, (k, _) in enumerate(CHAPTERS)}
     bank.sort(key=lambda b: (order[b['chapter']], b['number'] or 0))
     chapters = [{'id': k, 'title': t, 'count': sum(1 for b in bank if b['chapter'] == k)} for k, t in CHAPTERS]
@@ -125,6 +158,10 @@ def main():
     groups = sorted({b['group'] for b in bank})
     print(f'✓ {len(bank)} official questions, {len(done_images)} pictures, {len(chapters)} chapters, groups {groups[0]}..{groups[-1]} ({len(groups)})')
     print(f'  with picture: {sum(1 for b in bank if b["image"])}; 2 options: {sum(1 for b in bank if len(b["options"]) == 2)}; 3 options: {sum(1 for b in bank if len(b["options"]) == 3)}')
+    if stale:
+        print(f'! dropped {len(stale)} stale revisions:',
+              [(q['id'], f"ομάδα {q['group']}", q['chapter'], q['number'], f"kept {kept['id']} ομάδα {kept['group']}")
+               for q, kept in stale[:10]])
     if problems:
         print(f'! skipped {len(problems)}:', problems[:10])
 
