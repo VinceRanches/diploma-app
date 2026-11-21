@@ -1,0 +1,138 @@
+:root {
+  --font-sans: 'Manrope Variable', 'Manrope', Roboto, 'Noto Sans', sans-serif;
+
+  --radius-xs: 10px;
+  --radius-sm: 14px;
+  --radius-md: 20px;
+  --radius-lg: 26px;
+  --radius-xl: 34px;
+  --radius-pill: 999px;
+
+  --gutter: 16px;
+  --navbar-h: 52px;
+  --tabbar-h: 66px;
+
+  --text-largetitle: 34px;
+  --text-title1: 28px;
+  --text-title2: 22px;
+  --text-title3: 20px;
+  --text-headline: 17px;
+  --text-body: 17px;
+  --text-callout: 16px;
+  --text-subhead: 15px;
+  --text-footnote: 13px;
+  --text-caption: 12px;
+
+  --duration-fast: 160ms;
+  --duration-normal: 320ms;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.64, 1);
+
+  --safe-top: var(--safe-area-inset-top, env(safe-area-inset-top, 0px));
+  --safe-bottom: var(--safe-area-inset-bottom, env(safe-area-inset-bottom, 0px));
+}
+
+/* Light — Apple system colours (iOS) */
+:root,
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  --c-bg: #f2f2f7;
+  --c-surface: #ffffff;
+  --c-surface-2: #f2f2f7;
+  --c-label: #000000;
+  --c-label-2: rgba(60, 60, 67, 0.62);
+  --c-label-3: rgba(60, 60, 67, 0.32);
+  --c-separator: rgba(60, 60, 67, 0.16);
+  --c-fill: rgba(120, 120, 128, 0.12);
+  --c-fill-2: rgba(120, 120, 128, 0.2);
+
+  --c-blue: #007aff;
+  --c-green: #34c759;
+  --c-red: #ff3b30;
+  --c-orange: #ff9500;
+  --c-yellow: #ffcc00;
+  --c-indigo: #5856d6;
+  --c-teal: #30b0c7;
+  --c-purple: #af52de;
+  --c-pink: #ff2d55;
+
+  --glass-fill: rgba(255, 255, 255, 0.56);
+  --glass-fill-strong: rgba(250, 250, 252, 0.82);
+  --glass-edge: rgba(0, 0, 0, 0.06);
+  --glass-highlight: rgba(255, 255, 255, 0.9);
+  --glass-shadow: 0 12px 32px rgba(17, 24, 39, 0.1), 0 2px 6px rgba(17, 24, 39, 0.05);
+  --rim-a: rgba(255, 255, 255, 0.95);
+  --rim-b: rgba(255, 255, 255, 0.5);
+
+  --surface-fill: rgba(255, 255, 255, 0.74);
+  --surface-shadow: 0 1px 2px rgba(17, 24, 39, 0.04), 0 8px 24px rgba(17, 24, 39, 0.06);
+
+  --bar-fill: rgba(242, 242, 247, 0.72);
+  --lens-fill: rgba(120, 120, 128, 0.14);
+  --scrim: rgba(0, 0, 0, 0.28);
+
+  --aurora-1: rgba(0, 122, 255, 0.22);
+  --aurora-2: rgba(88, 86, 214, 0.17);
+  --aurora-3: rgba(48, 176, 199, 0.2);
+  --aurora-4: rgba(255, 45, 85, 0.1);
+
+  --sign-plate: #ffffff;
+  --sign-plate-edge: rgba(0, 0, 0, 0.06);
+
+  /* Sheets are opaque so the page behind (its sign pictures) never shows through. */
+  --sheet-fill: #f8f8fa;
+  --tile-solid: #ffffff;
+}
+
+/* Dark — Apple system colours (iOS, dark appearance) */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --c-bg: #000000;
+  --c-surface: #1c1c1e;
+  --c-surface-2: #2c2c2e;
+  --c-label: #ffffff;
+  --c-label-2: rgba(235, 235, 245, 0.62);
+  --c-label-3: rgba(235, 235, 245, 0.3);
+  --c-separator: rgba(84, 84, 88, 0.55);
+  --c-fill: rgba(120, 120, 128, 0.24);
+  --c-fill-2: rgba(120, 120, 128, 0.36);
+
+  --c-blue: #0a84ff;
+  --c-green: #30d158;
+  --c-red: #ff453a;
+  --c-orange: #ff9f0a;
+  --c-yellow: #ffd60a;
+  --c-indigo: #5e5ce6;
+  --c-teal: #40c8e0;
+  --c-purple: #bf5af2;
+  --c-pink: #ff375f;
+
+  --glass-fill: rgba(40, 40, 44, 0.5);
+  --glass-fill-strong: rgba(32, 32, 36, 0.86);
+  --glass-edge: rgba(0, 0, 0, 0.5);
+  --glass-highlight: rgba(255, 255, 255, 0.16);
+  --glass-shadow: 0 12px 32px rgba(0, 0, 0, 0.5), 0 2px 6px rgba(0, 0, 0, 0.35);
+  --rim-a: rgba(255, 255, 255, 0.3);
+  --rim-b: rgba(255, 255, 255, 0.08);
+
+  --surface-fill: rgba(28, 28, 30, 0.74);
+  --surface-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
+
+  --bar-fill: rgba(0, 0, 0, 0.55);
+  --lens-fill: rgba(255, 255, 255, 0.13);
+  --scrim: rgba(0, 0, 0, 0.5);
+
+  --aurora-1: rgba(10, 132, 255, 0.3);
+  --aurora-2: rgba(94, 92, 230, 0.28);
+  --aurora-3: rgba(64, 200, 224, 0.14);
+  --aurora-4: rgba(255, 55, 95, 0.14);
+
+  /* Book pictures have white backgrounds: the plate is pure white in both themes so they blend in. */
+  --sign-plate: #ffffff;
+  --sign-plate-edge: rgba(255, 255, 255, 0.1);
+
+  --sheet-fill: #1c1c1e;
+  --tile-solid: #2c2c2e;
+}

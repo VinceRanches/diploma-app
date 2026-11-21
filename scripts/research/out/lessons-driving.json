@@ -1,0 +1,3035 @@
+[
+  {
+    "id": "getting-ready",
+    "title": {
+      "el": "Προετοιμασία πριν την οδήγηση",
+      "en": "Getting ready to drive"
+    },
+    "icon": "car",
+    "summary": {
+      "el": "Ρυθμίζεις κάθισμα, τιμόνι, ζώνη και καθρέφτες πριν βάλεις μπροστά, πάντα με την ίδια σειρά.",
+      "en": "You set the seat, steering wheel, belt and mirrors before starting the engine, always in the same order."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Ματιά γύρω από το αυτοκίνητο",
+          "en": "A look around the car"
+        },
+        "body": {
+          "el": "Πριν μπεις, κάνε έναν γρήγορο γύρο του αυτοκινήτου. Κοίτα τα ελαστικά, τα φώτα και αν υπάρχει κάτι μπροστά ή πίσω, όπως παιδιά, ζώα ή εμπόδια. Στην πρακτική εξέταση ο εξεταστής μπορεί να σου κάνει ερωτήσεις για βασικούς ελέγχους ασφαλείας του οχήματος.",
+          "en": "Before you get in, walk quickly around the car. Look at the tyres, the lights and whether anything is in front of or behind it, such as children, animals or obstacles. In the practical test the examiner may ask you questions about basic safety checks of the vehicle."
+        },
+        "bullets": [
+          {
+            "el": "Ελαστικά: δεν φαίνονται ξεφούσκωτα ούτε κομμένα.",
+            "en": "Tyres: not visibly flat or cut."
+          },
+          {
+            "el": "Φώτα και φλας: καθαρά και χωρίς σπασίματα.",
+            "en": "Lights and indicators: clean and not broken."
+          },
+          {
+            "el": "Κάτω από το αυτοκίνητο: χωρίς διαρροές υγρών.",
+            "en": "Under the car: no fluid leaks."
+          },
+          {
+            "el": "Τζάμια και καθρέφτες: καθαρά για καλή ορατότητα.",
+            "en": "Windows and mirrors: clean for good visibility."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Η σταθερή σειρά ρυθμίσεων",
+          "en": "The fixed set-up routine"
+        },
+        "body": {
+          "el": "Ακολούθησε πάντα την ίδια σειρά, για να μην ξεχνάς κανένα βήμα. Πρώτα κλείνεις καλά τις πόρτες, μετά ρυθμίζεις κάθισμα, προσκέφαλο και τιμόνι, δένεις τη ζώνη και στο τέλος ρυθμίζεις τους καθρέφτες. Οι καθρέφτες είναι τελευταίοι γιατί η σωστή τους θέση εξαρτάται από τη θέση του σώματός σου.",
+          "en": "Always follow the same order so you never skip a step. First make sure the doors are properly shut, then adjust the seat, head restraint and steering wheel, fasten the belt and finally set the mirrors. The mirrors come last because their correct position depends on where your body sits."
+        },
+        "bullets": [
+          {
+            "el": "Πόρτες κλειστές.",
+            "en": "Doors shut."
+          },
+          {
+            "el": "Κάθισμα και προσκέφαλο.",
+            "en": "Seat and head restraint."
+          },
+          {
+            "el": "Τιμόνι.",
+            "en": "Steering wheel."
+          },
+          {
+            "el": "Ζώνη ασφαλείας.",
+            "en": "Seat belt."
+          },
+          {
+            "el": "Καθρέφτες.",
+            "en": "Mirrors."
+          },
+          {
+            "el": "Χειρόφρενο τραβηγμένο και λεβιές στη νεκρά πριν τη μίζα.",
+            "en": "Handbrake on and gear lever in neutral before starting the engine."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Κάθισμα, προσκέφαλο και τιμόνι",
+          "en": "Seat, head restraint and steering wheel"
+        },
+        "body": {
+          "el": "Φέρε το κάθισμα τόσο κοντά ώστε να πατάς τον συμπλέκτη μέχρι κάτω με το γόνατο ελαφρώς λυγισμένο. Η πλάτη πρέπει να είναι σχεδόν όρθια, ώστε με τους ώμους ακουμπισμένους στο κάθισμα να φτάνεις άνετα την κορυφή του τιμονιού. Το προσκέφαλο ρυθμίζεται τουλάχιστον στο ύψος των ματιών σου και κοντά στο κεφάλι. Κράτα το τιμόνι με τα δύο χέρια, περίπου στη θέση «9 και 3» ενός ρολογιού.",
+          "en": "Bring the seat close enough to push the clutch fully down with your knee still slightly bent. The backrest should be nearly upright, so that with your shoulders against the seat you can comfortably reach the top of the wheel. Set the head restraint at least at eye level and close to your head. Hold the wheel with both hands, roughly at the 9 and 3 o'clock positions."
+        },
+        "tip": {
+          "el": "Μην κάθεσαι πολύ κοντά στο τιμόνι: ο αερόσακος χρειάζεται χώρο για να σε προστατέψει.",
+          "en": "Do not sit too close to the wheel: the airbag needs space to protect you."
+        }
+      },
+      {
+        "heading": {
+          "el": "Ζώνη και καθρέφτες",
+          "en": "Seat belt and mirrors"
+        },
+        "body": {
+          "el": "Στην Ελλάδα η ζώνη ασφαλείας είναι υποχρεωτική για τον οδηγό και για όλους τους επιβάτες, και τα παιδιά μεταφέρονται με ειδικό κάθισμα. Το κάτω μέρος της ζώνης περνά χαμηλά στη λεκάνη και το διαγώνιο πάνω από τον ώμο, όχι στον λαιμό. Ο εσωτερικός καθρέφτης πρέπει να δείχνει όλο το πίσω τζάμι. Στους πλαϊνούς βλέπεις ελάχιστα το δικό σου αυτοκίνητο στην εσωτερική άκρη και τον ορίζοντα περίπου στη μέση.",
+          "en": "In Greece the seat belt is compulsory for the driver and all passengers, and children travel in a suitable child seat. The lap part of the belt sits low across the hips and the diagonal part over the shoulder, not on the neck. The interior mirror should show the whole rear window. In the side mirrors you see just a little of your own car on the inner edge and the horizon roughly in the middle."
+        },
+        "tip": {
+          "el": "Ακόμη και με τέλεια ρυθμισμένους καθρέφτες υπάρχουν τυφλά σημεία. Γι' αυτό ρίχνεις ματιά πάνω από τον ώμο πριν ξεκινήσεις ή αλλάξεις λωρίδα.",
+          "en": "Even with perfectly set mirrors there are blind spots. That is why you glance over your shoulder before moving off or changing lanes."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "getting-ready-q1",
+        "q": {
+          "el": "Ποια σειρά ρυθμίσεων είναι σωστή πριν βάλεις μπροστά;",
+          "en": "Which set-up order is correct before starting the engine?"
+        },
+        "options": [
+          {
+            "el": "Καθρέφτες, κάθισμα, ζώνη, πόρτες",
+            "en": "Mirrors, seat, belt, doors"
+          },
+          {
+            "el": "Πόρτες, κάθισμα, τιμόνι, ζώνη, καθρέφτες",
+            "en": "Doors, seat, steering wheel, belt, mirrors"
+          },
+          {
+            "el": "Μίζα, ζώνη, καθρέφτες, κάθισμα",
+            "en": "Engine, belt, mirrors, seat"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Οι καθρέφτες ρυθμίζονται τελευταίοι, αφού πρώτα έχεις πάρει τη σωστή θέση οδήγησης.",
+          "en": "Mirrors are set last, once you have taken up the correct driving position."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "getting-ready-q2",
+        "q": {
+          "el": "Πόσο κοντά στα πεντάλ πρέπει να είναι το κάθισμα;",
+          "en": "How close to the pedals should the seat be?"
+        },
+        "options": [
+          {
+            "el": "Να πατάς τον συμπλέκτη μέχρι κάτω με το γόνατο ελαφρώς λυγισμένο",
+            "en": "So you can press the clutch fully down with your knee slightly bent"
+          },
+          {
+            "el": "Να φτάνεις τον συμπλέκτη μόνο με το πόδι εντελώς τεντωμένο",
+            "en": "So you reach the clutch only with your leg fully straight"
+          },
+          {
+            "el": "Όσο πιο κοντά γίνεται στο τιμόνι",
+            "en": "As close to the steering wheel as possible"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Με λίγο λυγισμένο γόνατο ελέγχεις καλύτερα τα πεντάλ και δεν κουράζεσαι.",
+          "en": "A slightly bent knee gives you better pedal control and less fatigue."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "getting-ready-q3",
+        "q": {
+          "el": "Τι ελέγχεις αμέσως πριν γυρίσεις τη μίζα;",
+          "en": "What do you check just before turning the key or pressing start?"
+        },
+        "options": [
+          {
+            "el": "Ότι το ραδιόφωνο είναι κλειστό",
+            "en": "That the radio is off"
+          },
+          {
+            "el": "Ότι τα παράθυρα είναι ανοιχτά",
+            "en": "That the windows are open"
+          },
+          {
+            "el": "Ότι το χειρόφρενο είναι τραβηγμένο και ο λεβιές στη νεκρά",
+            "en": "That the handbrake is on and the gear lever is in neutral"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Έτσι το αυτοκίνητο δεν θα κινηθεί απότομα όταν πάρει μπρος.",
+          "en": "This way the car will not jump forward when the engine starts."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "getting-ready-q4",
+        "q": {
+          "el": "Ποιοι πρέπει να φορούν ζώνη ασφαλείας σύμφωνα με τον ΚΟΚ;",
+          "en": "Who must wear a seat belt under the Greek Highway Code?"
+        },
+        "options": [
+          {
+            "el": "Μόνο ο οδηγός",
+            "en": "Only the driver"
+          },
+          {
+            "el": "Ο οδηγός και όλοι οι επιβάτες",
+            "en": "The driver and all passengers"
+          },
+          {
+            "el": "Μόνο όσοι κάθονται μπροστά",
+            "en": "Only those in the front seats"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει ότι η ζώνη είναι υποχρεωτική για οδηγούς και επιβάτες, και τα παιδιά χρειάζονται ειδικό σύστημα συγκράτησης.",
+          "en": "The Code makes belts compulsory for drivers and passengers, and children need a proper child restraint."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "getting-ready-q5",
+        "q": {
+          "el": "Πού πρέπει να περνά το κάτω μέρος της ζώνης;",
+          "en": "Where should the lap part of the belt sit?"
+        },
+        "options": [
+          {
+            "el": "Πάνω στην κοιλιά",
+            "en": "Across the stomach"
+          },
+          {
+            "el": "Κάτω από το κάθισμα",
+            "en": "Under the seat"
+          },
+          {
+            "el": "Χαμηλά, πάνω στη λεκάνη",
+            "en": "Low, across the hips"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Η λεκάνη αντέχει τη δύναμη σε μια σύγκρουση, ενώ η κοιλιά τραυματίζεται εύκολα.",
+          "en": "The hip bones can take the force of a crash, while the stomach is easily injured."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "getting-ready-q6",
+        "q": {
+          "el": "Σε ποιο ύψος ρυθμίζεται το προσκέφαλο;",
+          "en": "At what height should the head restraint be set?"
+        },
+        "options": [
+          {
+            "el": "Τουλάχιστον στο ύψος των ματιών και κοντά στο κεφάλι",
+            "en": "At least at eye level and close to your head"
+          },
+          {
+            "el": "Στο ύψος του λαιμού",
+            "en": "At neck height"
+          },
+          {
+            "el": "Όσο πιο χαμηλά γίνεται",
+            "en": "As low as possible"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ένα χαμηλό προσκέφαλο δεν προστατεύει τον αυχένα σε σύγκρουση από πίσω.",
+          "en": "A low head restraint does not protect your neck in a rear-end collision."
+        },
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "moving-off",
+    "title": {
+      "el": "Ξεκίνημα, συμπλέκτης και ανηφόρα",
+      "en": "Moving off, clutch control and hill starts"
+    },
+    "icon": "gauge",
+    "summary": {
+      "el": "Μαθαίνεις να βρίσκεις το σημείο εμπλοκής του συμπλέκτη, να ξεκινάς ομαλά, να ξεκινάς σε ανηφόρα και να σταματάς σωστά.",
+      "en": "You learn to find the clutch biting point, move off smoothly, start on a hill and stop correctly."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Τα τρία πεντάλ",
+          "en": "The three pedals"
+        },
+        "body": {
+          "el": "Από αριστερά προς τα δεξιά είναι ο συμπλέκτης, το φρένο και το γκάζι. Τον συμπλέκτη τον πατάς μόνο με το αριστερό πόδι, ενώ φρένο και γκάζι μόνο με το δεξί. Όταν δεν αλλάζεις ταχύτητα, το αριστερό πόδι ξεκουράζεται στο πάτωμα και όχι πάνω στον συμπλέκτη.",
+          "en": "From left to right they are the clutch, the brake and the accelerator. The clutch is operated only with the left foot, the brake and accelerator only with the right. When you are not changing gear, your left foot rests on the floor, not on the clutch."
+        },
+        "tip": {
+          "el": "Αν ακουμπάς συνέχεια το πόδι στον συμπλέκτη, τον φθείρεις και χάνεις έλεγχο του αυτοκινήτου.",
+          "en": "Resting your foot on the clutch wears it out and reduces your control of the car."
+        }
+      },
+      {
+        "heading": {
+          "el": "Το σημείο εμπλοκής του συμπλέκτη",
+          "en": "The clutch biting point"
+        },
+        "body": {
+          "el": "Σημείο εμπλοκής είναι η θέση όπου ο συμπλέκτης αρχίζει να μεταφέρει δύναμη στους τροχούς. Το καταλαβαίνεις επειδή ο ήχος του κινητήρα χαμηλώνει λίγο και το αυτοκίνητο θέλει να κινηθεί. Εκεί κρατάς το πόδι σταθερό, χωρίς να το σηκώνεις απότομα. Εξασκήσου σε άδειο, επίπεδο χώρο μέχρι να το βρίσκεις χωρίς σκέψη.",
+          "en": "The biting point is where the clutch starts to transmit power to the wheels. You notice it because the engine note drops slightly and the car wants to move. Hold your foot steady there, without lifting it suddenly. Practise in an empty, flat area until you find it without thinking."
+        }
+      },
+      {
+        "heading": {
+          "el": "Ξεκίνημα από στάση: Προετοιμασία, Παρατήρηση, Κίνηση",
+          "en": "Moving off: Prepare, Observe, Move"
+        },
+        "body": {
+          "el": "Προετοιμασία: συμπλέκτη μέχρι κάτω, πρώτη ταχύτητα, λίγο γκάζι και βρίσκεις το σημείο εμπλοκής. Παρατήρηση: εσωτερικός καθρέφτης, αριστερός καθρέφτης και ματιά πάνω από τον αριστερό ώμο για το τυφλό σημείο, και αριστερό φλας, γιατί ο ΚΟΚ ζητά σήμα πριν από κάθε ελιγμό. Κίνηση: κατεβάζεις το χειρόφρενο, κρατάς σταθερό τον συμπλέκτη, δίνεις λίγο ακόμη γκάζι και αφήνεις ομαλά τον συμπλέκτη. Ο ΚΟΚ ορίζει ότι όποιος ξεκινά από στάση παραχωρεί προτεραιότητα στα οχήματα που κινούνται.",
+          "en": "Prepare: clutch fully down, first gear, a little gas and find the biting point. Observe: interior mirror, left door mirror and a glance over your left shoulder for the blind spot, then signal left, because the Code requires a signal before every manoeuvre. Move: release the handbrake, keep the clutch steady, add a little more gas and let the clutch up smoothly. The Greek Highway Code says that whoever moves off from a stop gives way to moving traffic."
+        },
+        "tip": {
+          "el": "Στην Ελλάδα κινούμαστε δεξιά, άρα όταν ξεκινάς από το δεξί κράσπεδο ο κίνδυνος έρχεται από πίσω αριστερά: εκεί κοιτάς πάνω από τον ώμο.",
+          "en": "In Greece we drive on the right, so when moving off from the right-hand kerb the danger comes from behind on your left: that is the shoulder you check."
+        }
+      },
+      {
+        "heading": {
+          "el": "Ξεκίνημα σε ανηφόρα",
+          "en": "Hill starts"
+        },
+        "body": {
+          "el": "Στην ανηφόρα χρειάζεσαι λίγο περισσότερο γκάζι και κρατάς το σημείο εμπλοκής λίγο πιο πολύ. Με το χειρόφρενο τραβηγμένο, βρίσκεις το σημείο εμπλοκής μέχρι να νιώσεις ότι το αυτοκίνητο «τραβάει» και μετά κατεβάζεις το χειρόφρενο. Αν αρχίσει να κυλά πίσω, πατάς φρένο και συμπλέκτη, τραβάς χειρόφρενο και ξεκινάς από την αρχή. Στην κατηφόρα κρατάς το αυτοκίνητο με το φρένο και αφήνεις τον συμπλέκτη πιο γρήγορα.",
+          "en": "On an uphill slope you need a little more gas and you hold the biting point a little longer. With the handbrake on, find the biting point until you feel the car pulling, then release the handbrake. If the car starts to roll back, press brake and clutch, apply the handbrake and start again. Downhill, you hold the car with the footbrake and release the clutch more quickly."
+        }
+      },
+      {
+        "heading": {
+          "el": "Σβήσιμο κινητήρα και σωστό σταμάτημα",
+          "en": "Stalling and stopping correctly"
+        },
+        "body": {
+          "el": "Αν σβήσει ο κινητήρας, μην πανικοβληθείς: χειρόφρενο, νεκρά, μίζα και νέα παρατήρηση πριν ξεκινήσεις. Για να σταματήσεις στην άκρη του δρόμου, κοιτάς καθρέφτες, δίνεις δεξί φλας και φρενάρεις σταδιακά. Πατάς τον συμπλέκτη λίγο πριν σταματήσεις, για να μη σβήσει ο κινητήρας. Όταν σταματήσεις, τραβάς χειρόφρενο και βάζεις νεκρά αν θα περιμένεις.",
+          "en": "If the engine stalls, do not panic: handbrake, neutral, restart and observe again before moving off. To pull up at the side of the road, check the mirrors, signal right and brake progressively. Press the clutch just before the car stops so the engine does not stall. Once stopped, apply the handbrake and select neutral if you are going to wait."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "moving-off-q1",
+        "q": {
+          "el": "Ποια είναι η σειρά των πεντάλ από αριστερά προς τα δεξιά;",
+          "en": "What is the order of the pedals from left to right?"
+        },
+        "options": [
+          {
+            "el": "Γκάζι, φρένο, συμπλέκτης",
+            "en": "Accelerator, brake, clutch"
+          },
+          {
+            "el": "Φρένο, συμπλέκτης, γκάζι",
+            "en": "Brake, clutch, accelerator"
+          },
+          {
+            "el": "Συμπλέκτης, φρένο, γκάζι",
+            "en": "Clutch, brake, accelerator"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Συμπλέκτης αριστερά με το αριστερό πόδι, φρένο και γκάζι με το δεξί.",
+          "en": "Clutch on the left with the left foot, brake and accelerator with the right foot."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "moving-off-q2",
+        "q": {
+          "el": "Πώς καταλαβαίνεις ότι βρήκες το σημείο εμπλοκής;",
+          "en": "How do you know you have found the biting point?"
+        },
+        "options": [
+          {
+            "el": "Ο ήχος του κινητήρα χαμηλώνει λίγο και το αυτοκίνητο θέλει να κινηθεί",
+            "en": "The engine note drops slightly and the car wants to move"
+          },
+          {
+            "el": "Ανάβει λαμπάκι στον πίνακα οργάνων",
+            "en": "A warning light comes on in the dashboard"
+          },
+          {
+            "el": "Ο κινητήρας ανεβάζει στροφές απότομα",
+            "en": "The engine revs rise sharply"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Εκεί ο συμπλέκτης αρχίζει να μεταφέρει δύναμη στους τροχούς.",
+          "en": "That is where the clutch starts to transmit power to the wheels."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "moving-off-q3",
+        "q": {
+          "el": "Ξεκινάς από το δεξί κράσπεδο. Ποιο τυφλό σημείο ελέγχεις με ματιά πάνω από τον ώμο;",
+          "en": "You are moving off from the right-hand kerb. Which blind spot do you check over your shoulder?"
+        },
+        "options": [
+          {
+            "el": "Το δεξί",
+            "en": "The right one"
+          },
+          {
+            "el": "Το αριστερό",
+            "en": "The left one"
+          },
+          {
+            "el": "Κανένα, αρκούν οι καθρέφτες",
+            "en": "None, the mirrors are enough"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Με δεξιά κυκλοφορία, τα οχήματα που σε πλησιάζουν έρχονται από πίσω αριστερά.",
+          "en": "With right-hand traffic, approaching vehicles come from behind on your left."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "moving-off-q4",
+        "q": {
+          "el": "Ποιος έχει προτεραιότητα όταν ένα σταθμευμένο αυτοκίνητο ξεκινά να μπει στην κυκλοφορία;",
+          "en": "Who has priority when a parked car moves off into traffic?"
+        },
+        "options": [
+          {
+            "el": "Το αυτοκίνητο που ξεκινά, αν έχει βάλει φλας",
+            "en": "The car moving off, if it has signalled"
+          },
+          {
+            "el": "Όποιος είναι μεγαλύτερος",
+            "en": "Whichever vehicle is bigger"
+          },
+          {
+            "el": "Τα οχήματα που ήδη κινούνται στον δρόμο",
+            "en": "The vehicles already moving on the road"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει ότι όποιος εκκινεί παραχωρεί προτεραιότητα. Το φλας δείχνει πρόθεση, δεν δίνει δικαίωμα.",
+          "en": "The Code says that whoever moves off gives way. A signal shows intention, it does not give a right of way."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "moving-off-q5",
+        "q": {
+          "el": "Στο ξεκίνημα σε ανηφόρα το αυτοκίνητο αρχίζει να κυλά προς τα πίσω. Τι κάνεις;",
+          "en": "During a hill start the car starts rolling backwards. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Πατάς φρένο και συμπλέκτη, τραβάς χειρόφρενο και ξεκινάς ξανά",
+            "en": "Press brake and clutch, apply the handbrake and start again"
+          },
+          {
+            "el": "Αφήνεις απότομα τον συμπλέκτη",
+            "en": "Release the clutch suddenly"
+          },
+          {
+            "el": "Βάζεις όπισθεν",
+            "en": "Select reverse gear"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ακινητοποιείς πρώτα με ασφάλεια το αυτοκίνητο και μετά επαναλαμβάνεις τη διαδικασία με περισσότερο γκάζι.",
+          "en": "First bring the car safely to a standstill, then repeat the procedure with a little more gas."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "moving-off-q6",
+        "q": {
+          "el": "Γιατί πατάς τον συμπλέκτη λίγο πριν σταματήσεις τελείως;",
+          "en": "Why do you press the clutch just before coming to a complete stop?"
+        },
+        "options": [
+          {
+            "el": "Για να φρενάρει πιο δυνατά το αυτοκίνητο",
+            "en": "To make the car brake harder"
+          },
+          {
+            "el": "Για να μη σβήσει ο κινητήρας",
+            "en": "So that the engine does not stall"
+          },
+          {
+            "el": "Για να ανάψουν τα φώτα φρένων",
+            "en": "To switch on the brake lights"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Σε πολύ χαμηλή ταχύτητα με συμπλεγμένη ταχύτητα ο κινητήρας σβήνει. Τα φώτα φρένων ανάβουν από το φρένο.",
+          "en": "At very low speed with a gear engaged the engine stalls. The brake lights come on from the brake pedal."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "gears-steering-braking",
+    "title": {
+      "el": "Ταχύτητες, τιμόνι, φρένο και απόσταση ασφαλείας",
+      "en": "Gears, steering, braking and safe distance"
+    },
+    "icon": "steering",
+    "summary": {
+      "el": "Αλλάζεις ταχύτητες ομαλά, στρίβεις με σωστή τεχνική, φρενάρεις σταδιακά και κρατάς απόσταση ασφαλείας.",
+      "en": "You change gear smoothly, steer with good technique, brake progressively and keep a safe following distance."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Αλλαγή ταχύτητας πάνω και κάτω",
+          "en": "Changing gear up and down"
+        },
+        "body": {
+          "el": "Για να ανεβάσεις: κόβεις το γκάζι, πατάς τον συμπλέκτη μέχρι κάτω, αλλάζεις με την παλάμη, αφήνεις ομαλά τον συμπλέκτη και ξαναδίνεις γκάζι. Για να κατεβάσεις, πρώτα μειώνεις ταχύτητα με το φρένο και μετά επιλέγεις τη χαμηλότερη σχέση που ταιριάζει. Μπορείς να πηδήξεις σχέσεις, για παράδειγμα από 5η σε 3η. Κοιτάς πάντα τον δρόμο, όχι τον λεβιέ.",
+          "en": "To change up: ease off the gas, press the clutch fully down, move the lever with your palm, release the clutch smoothly and add gas again. To change down, first lose speed with the brake, then select the lower gear that suits that speed. You may skip gears, for example from 5th to 3rd. Always look at the road, not at the gear lever."
+        },
+        "bullets": [
+          {
+            "el": "1η: για ξεκίνημα και πολύ αργή κίνηση.",
+            "en": "1st: for moving off and very slow movement."
+          },
+          {
+            "el": "2η: περίπου έως 20 με 30 χλμ/ώρα, σε στροφές και ελιγμούς.",
+            "en": "2nd: up to about 20 to 30 km/h, for turns and manoeuvres."
+          },
+          {
+            "el": "3η: περίπου 30 με 50 χλμ/ώρα.",
+            "en": "3rd: roughly 30 to 50 km/h."
+          },
+          {
+            "el": "4η και 5η: σε μεγαλύτερες ταχύτητες εκτός πόλης. Τα όρια διαφέρουν ανά αυτοκίνητο.",
+            "en": "4th and 5th: at higher speeds outside town. The ranges differ between cars."
+          }
+        ],
+        "tip": {
+          "el": "Στις κατηφόρες μην κατεβαίνεις με νεκρά: με ταχύτητα συμπλεγμένη ο κινητήρας σε βοηθά να φρενάρεις.",
+          "en": "Never coast downhill in neutral: with a gear engaged the engine helps you slow down."
+        }
+      },
+      {
+        "heading": {
+          "el": "Σωστή τεχνική στο τιμόνι",
+          "en": "Good steering technique"
+        },
+        "body": {
+          "el": "Κράτα τα χέρια στη θέση «9 και 3» και στρίβε με την τεχνική «τράβα και σπρώξε», ώστε τα χέρια να μη διασταυρώνονται. Το ένα χέρι τραβά το τιμόνι προς τα κάτω και το άλλο το συνοδεύει, μετά αλλάζουν ρόλους. Κοίτα εκεί που θέλεις να πας, γιατί τα χέρια ακολουθούν το βλέμμα. Μετά τη στροφή φέρνεις το τιμόνι πίσω με τον ίδιο έλεγχο, χωρίς να το αφήνεις να γυρίσει μόνο του.",
+          "en": "Keep your hands at 9 and 3 and steer with the pull-push technique so your hands do not cross. One hand pulls the wheel down while the other follows, then they swap roles. Look where you want to go, because your hands follow your eyes. After the turn, bring the wheel back with the same control instead of letting it spin back by itself."
+        }
+      },
+      {
+        "heading": {
+          "el": "Σταδιακό φρενάρισμα και ABS",
+          "en": "Progressive braking and ABS"
+        },
+        "body": {
+          "el": "Το καλό φρενάρισμα είναι σταδιακό: πατάς ελαφρά, αυξάνεις την πίεση και λίγο πριν σταματήσεις τη χαλαρώνεις, για να μην τιναχτεί το αυτοκίνητο. Ο ΚΟΚ απαγορεύει το απότομο φρενάρισμα, εκτός αν το επιβάλλει λόγος ασφαλείας. Σε πραγματικό κίνδυνο, σε αυτοκίνητο με ABS, πατάς το φρένο δυνατά και συνεχώς. Το ABS εμποδίζει το μπλοκάρισμα των τροχών, ώστε να μπορείς ακόμη να στρίψεις.",
+          "en": "Good braking is progressive: press gently, increase the pressure and ease off just before stopping so the car does not jerk. The Greek Highway Code prohibits sudden braking unless safety requires it. In a real emergency, in a car with ABS, press the brake hard and keep pressing. ABS stops the wheels locking so you can still steer."
+        }
+      },
+      {
+        "heading": {
+          "el": "Όρια ταχύτητας στην Ελλάδα",
+          "en": "Speed limits in Greece"
+        },
+        "body": {
+          "el": "Ο νέος ΚΟΚ (Ν. 5209/2025) μείωσε το γενικό όριο μέσα στις κατοικημένες περιοχές στα 30 χλμ/ώρα. Το όριο είναι 50 χλμ/ώρα σε μονόδρομους με τουλάχιστον δύο λωρίδες που χωρίζονται με διαγραμμίσεις, σε δρόμους διπλής κατεύθυνσης με τουλάχιστον δύο διαγραμμισμένες λωρίδες ανά κατεύθυνση και σε δρόμους διπλής κατεύθυνσης με διαχωριστική νησίδα. Οι πινακίδες πάντα υπερισχύουν του γενικού ορίου: με απόφαση του δήμου ή της περιφέρειας ένας δρόμος των 30 μπορεί να σημανθεί έως 50 χλμ/ώρα, ή ένας δρόμος να πάρει χαμηλότερο όριο. Τα όρια εκτός πόλης παρακάτω αφορούν επιβατικά αυτοκίνητα χωρίς ρυμουλκούμενο. Ακόμη και μέσα στο όριο, η ταχύτητα πρέπει να σου επιτρέπει να σταματήσεις πριν από κάθε εμπόδιο που βλέπεις μπροστά σου.",
+          "en": "The new Greek Highway Code (Law 5209/2025) lowered the general limit in built-up areas to 30 km/h. The limit is 50 km/h on one-way roads with at least two lanes separated by road markings, on two-way roads with at least two marked lanes per direction, and on two-way roads with a central median. Signs always override the general limit: by decision of the municipal or regional council a 30 road may be signed up to 50 km/h, or a road may be given a lower limit. The out-of-town limits below apply to passenger cars without a trailer. Even within the limit, your speed must let you stop before any obstacle you can see ahead."
+        },
+        "bullets": [
+          {
+            "el": "Κατοικημένη περιοχή: 30 χλμ/ώρα (50 στους μεγαλύτερους δρόμους που περιγράφει ο νόμος).",
+            "en": "Built-up area: 30 km/h (50 on the larger roads described by the law)."
+          },
+          {
+            "el": "Εκτός κατοικημένης περιοχής, σε άλλους δρόμους: 90 χλμ/ώρα (40 σε μη ασφαλτοστρωμένους).",
+            "en": "Outside built-up areas, on other roads: 90 km/h (40 on unpaved roads)."
+          },
+          {
+            "el": "Οδός ταχείας κυκλοφορίας: 110 χλμ/ώρα.",
+            "en": "Expressway: 110 km/h."
+          },
+          {
+            "el": "Αυτοκινητόδρομος: 130 χλμ/ώρα.",
+            "en": "Motorway: 130 km/h."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Απόσταση ασφαλείας: ο κανόνας των 2 δευτερολέπτων",
+          "en": "Safe distance: the 2-second rule"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ ζητά να κρατάς αρκετή απόσταση ώστε να μη συγκρουστείς αν το μπροστινό όχημα επιβραδύνει απότομα. Πρακτικά, διάλεξε ένα σταθερό σημείο, όπως μια κολόνα. Όταν το περάσει το μπροστινό αυτοκίνητο, πες «χίλια ένα, χίλια δύο». Αν φτάσεις στο σημείο πριν τελειώσεις, είσαι πολύ κοντά. Σε βρεγμένο δρόμο η απόσταση φρεναρίσματος τουλάχιστον διπλασιάζεται, άρα κράτα τουλάχιστον 4 δευτερόλεπτα.",
+          "en": "The Greek Highway Code requires enough distance to avoid a collision if the vehicle ahead slows suddenly. In practice, pick a fixed point such as a pole. When the car ahead passes it, say one thousand and one, one thousand and two. If you reach the point before you finish, you are too close. On a wet road stopping distance at least doubles, so keep at least 4 seconds."
+        },
+        "tip": {
+          "el": "Οι πρώτες βροχές μετά από μεγάλη ξηρασία κάνουν την άσφαλτο πολύ ολισθηρή, επειδή ανακατεύονται με λάδια και σκόνη.",
+          "en": "The first rain after a long dry spell makes asphalt very slippery, because it mixes with oil and dust."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "gears-steering-braking-q1",
+        "q": {
+          "el": "Ποιο είναι το γενικό όριο ταχύτητας σε δρόμο με μία λωρίδα ανά κατεύθυνση μέσα σε κατοικημένη περιοχή, χωρίς άλλη πινακίδα;",
+          "en": "What is the general speed limit on a road with one lane per direction in a built-up area, with no other sign?"
+        },
+        "options": [
+          {
+            "el": "30 χλμ/ώρα",
+            "en": "30 km/h"
+          },
+          {
+            "el": "50 χλμ/ώρα",
+            "en": "50 km/h"
+          },
+          {
+            "el": "60 χλμ/ώρα",
+            "en": "60 km/h"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο Ν. 5209/2025 ορίζει 30 χλμ/ώρα στις κατοικημένες περιοχές. Τα 50 ισχύουν μόνο στους μεγαλύτερους δρόμους που περιγράφει ο νόμος ή όπου υπάρχει πινακίδα.",
+          "en": "Law 5209/2025 sets 30 km/h in built-up areas. The 50 km/h limit applies only on the larger roads described by the law or where a sign says so."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "gears-steering-braking-q2",
+        "q": {
+          "el": "Ποιο είναι το όριο ταχύτητας για επιβατικό σε αυτοκινητόδρομο;",
+          "en": "What is the speed limit for a car on a motorway?"
+        },
+        "options": [
+          {
+            "el": "110 χλμ/ώρα",
+            "en": "110 km/h"
+          },
+          {
+            "el": "120 χλμ/ώρα",
+            "en": "120 km/h"
+          },
+          {
+            "el": "130 χλμ/ώρα",
+            "en": "130 km/h"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "130 χλμ/ώρα στον αυτοκινητόδρομο, 110 στις οδούς ταχείας κυκλοφορίας και 90 στους άλλους δρόμους εκτός πόλης.",
+          "en": "130 km/h on motorways, 110 on expressways and 90 on other roads outside built-up areas."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "gears-steering-braking-q3",
+        "q": {
+          "el": "Πόση απόσταση από το μπροστινό κρατάς σε βρεγμένο δρόμο;",
+          "en": "How much distance from the car ahead do you keep on a wet road?"
+        },
+        "options": [
+          {
+            "el": "1 δευτερόλεπτο",
+            "en": "1 second"
+          },
+          {
+            "el": "Τουλάχιστον 4 δευτερόλεπτα",
+            "en": "At least 4 seconds"
+          },
+          {
+            "el": "Ίδια απόσταση με τον στεγνό δρόμο",
+            "en": "The same distance as on a dry road"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Στο βρεγμένο οδόστρωμα η απόσταση φρεναρίσματος τουλάχιστον διπλασιάζεται, οπότε διπλασιάζεις και τα 2 δευτερόλεπτα.",
+          "en": "On a wet surface stopping distance at least doubles, so you double the 2 seconds too."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "gears-steering-braking-q4",
+        "q": {
+          "el": "Θέλεις να κατεβάσεις ταχύτητα πριν από μια στροφή. Ποια είναι η σωστή σειρά;",
+          "en": "You want to change down before a bend. What is the correct order?"
+        },
+        "options": [
+          {
+            "el": "Κατεβάζεις πρώτα ταχύτητα και μετά φρενάρεις",
+            "en": "Change down first, then brake"
+          },
+          {
+            "el": "Βάζεις νεκρά και κυλάς μέχρι τη στροφή",
+            "en": "Select neutral and coast to the bend"
+          },
+          {
+            "el": "Φρενάρεις πρώτα στη σωστή ταχύτητα και μετά επιλέγεις χαμηλότερη σχέση",
+            "en": "Brake first to the right speed, then select the lower gear"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Το φρένο μειώνει την ταχύτητα και η ταχύτητα επιλέγεται για τη νέα, χαμηλότερη ταχύτητα κίνησης.",
+          "en": "The brakes reduce speed, and the gear is chosen to match the new, lower road speed."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "gears-steering-braking-q5",
+        "q": {
+          "el": "Σε αυτοκίνητο με ABS πρέπει να σταματήσεις επειγόντως. Τι κάνεις;",
+          "en": "In a car with ABS you must stop in an emergency. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Πατάς το φρένο δυνατά και το κρατάς πατημένο",
+            "en": "Press the brake hard and keep it pressed"
+          },
+          {
+            "el": "Πατάς και αφήνεις το φρένο γρήγορα, ξανά και ξανά",
+            "en": "Press and release the brake quickly, again and again"
+          },
+          {
+            "el": "Τραβάς απότομα το χειρόφρενο",
+            "en": "Pull the handbrake sharply"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Το ABS κάνει μόνο του τις διακοπές πίεσης. Εσύ πατάς σταθερά και κατευθύνεις το αυτοκίνητο.",
+          "en": "ABS pulses the brakes by itself. You press firmly and steer the car."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "gears-steering-braking-q6",
+        "q": {
+          "el": "Γιατί δεν κατεβαίνεις μια κατηφόρα με νεκρά;",
+          "en": "Why should you not go down a hill in neutral?"
+        },
+        "options": [
+          {
+            "el": "Επειδή καταναλώνεις περισσότερη βενζίνη",
+            "en": "Because you use more fuel"
+          },
+          {
+            "el": "Επειδή χάνεις το φρενάρισμα του κινητήρα και ελέγχεις λιγότερο το αυτοκίνητο",
+            "en": "Because you lose engine braking and have less control of the car"
+          },
+          {
+            "el": "Επειδή σβήνουν τα φώτα",
+            "en": "Because the lights switch off"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Χωρίς συμπλεγμένη ταχύτητα το αυτοκίνητο επιταχύνει, τα φρένα υπερθερμαίνονται και δεν μπορείς να επιταχύνεις αν χρειαστεί.",
+          "en": "Without a gear engaged the car speeds up, the brakes overheat and you cannot accelerate if you need to."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "gears-steering-braking-q7",
+        "q": {
+          "el": "Με τον κανόνα των 2 δευτερολέπτων φτάνεις στο σημείο αναφοράς πριν πεις «χίλια δύο». Τι σημαίνει;",
+          "en": "Using the 2-second rule, you reach the reference point before you finish saying one thousand and two. What does it mean?"
+        },
+        "options": [
+          {
+            "el": "Ότι πας πολύ αργά",
+            "en": "That you are going too slowly"
+          },
+          {
+            "el": "Ότι η απόσταση είναι σωστή",
+            "en": "That the distance is correct"
+          },
+          {
+            "el": "Ότι είσαι πολύ κοντά και πρέπει να μείνεις πιο πίσω",
+            "en": "That you are too close and must drop back"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Η απόσταση είναι μικρότερη από 2 δευτερόλεπτα. Αφήνεις το γκάζι μέχρι να μεγαλώσει.",
+          "en": "The gap is under 2 seconds. Ease off the gas until it grows."
+        },
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "id": "junctions-turning",
+    "title": {
+      "el": "Διασταυρώσεις και στροφές",
+      "en": "Junctions and turning"
+    },
+    "icon": "traffic",
+    "summary": {
+      "el": "Πλησιάζεις κάθε διασταύρωση με παρατήρηση, σήμα, σωστή θέση και ταχύτητα, και ξέρεις ποιος έχει προτεραιότητα.",
+      "en": "You approach every junction with observation, signal, correct position and speed, and you know who has priority."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Η ρουτίνα πριν από κάθε διασταύρωση",
+          "en": "The routine before every junction"
+        },
+        "body": {
+          "el": "Από νωρίς κοιτάς τις πινακίδες και τις διαγραμμίσεις, για να ξέρεις ποιος έχει προτεραιότητα. Μετά ακολουθείς τη σειρά: καθρέφτες, σήμα, θέση στον δρόμο, ταχύτητα και ματιά δεξιά και αριστερά. Ο ΚΟΚ ζητά να πλησιάζεις με τέτοια ταχύτητα ώστε να μπορείς να σταματήσεις για να περάσουν όσοι έχουν προτεραιότητα.",
+          "en": "From early on, read the signs and road markings so you know who has priority. Then follow the sequence: mirrors, signal, road position, speed and a look right and left. The Greek Highway Code requires you to approach at a speed that lets you stop to let vehicles with priority pass."
+        },
+        "bullets": [
+          {
+            "el": "Καθρέφτες: ποιος είναι πίσω και δίπλα σου;",
+            "en": "Mirrors: who is behind and beside you?"
+          },
+          {
+            "el": "Σήμα: φλας έγκαιρα.",
+            "en": "Signal: indicate in good time."
+          },
+          {
+            "el": "Θέση: σωστή λωρίδα για την κατεύθυνσή σου.",
+            "en": "Position: the right lane for your direction."
+          },
+          {
+            "el": "Ταχύτητα: φρένο και μετά κατάλληλη σχέση.",
+            "en": "Speed: brake, then the right gear."
+          },
+          {
+            "el": "Ματιά: δεξιά, αριστερά, ξανά δεξιά, πεζοί και δίκυκλα.",
+            "en": "Look: right, left, right again, pedestrians and two-wheelers."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Ποιος έχει προτεραιότητα",
+          "en": "Who has priority"
+        },
+        "body": {
+          "el": "Στις διασταυρώσεις η προτεραιότητα ορίζεται πρώτα από τη σήμανση, δηλαδή φανάρια, πινακίδες και τροχονόμους. Όπου δεν υπάρχει σήμανση, προτεραιότητα έχει όποιος έρχεται από τα δεξιά. Υπάρχουν εξαιρέσεις που ορίζει ο ΚΟΚ και πρέπει να τις ξέρεις.",
+          "en": "At junctions, priority is set first by signs and signals, meaning traffic lights, signs and police officers. Where there are no signs, priority goes to whoever comes from the right. The Greek Highway Code lists exceptions you must know."
+        },
+        "bullets": [
+          {
+            "el": "Όσοι κινούνται σε αυτοκινητόδρομο, εθνική οδό ή οδό ταχείας κυκλοφορίας έχουν προτεραιότητα.",
+            "en": "Traffic on motorways, national roads and expressways has priority."
+          },
+          {
+            "el": "Όποιος βγαίνει από χωματόδρομο, πεζόδρομο, ιδιωτικό χώρο, πάρκινγκ ή πρατήριο καυσίμων παραχωρεί προτεραιότητα.",
+            "en": "Anyone coming out of a dirt road, pedestrian street, private property, car park or petrol station gives way."
+          },
+          {
+            "el": "Όποιος ξεκινά από στάση ή κάνει όπισθεν παραχωρεί προτεραιότητα.",
+            "en": "Anyone moving off or reversing gives way."
+          },
+          {
+            "el": "Τραμ και τρένα έχουν προτεραιότητα.",
+            "en": "Trams and trains have priority."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Δεξιά στροφή",
+          "en": "Turning right"
+        },
+        "body": {
+          "el": "Πλησιάζεις κοντά στη δεξιά άκρη του οδοστρώματος και δίνεις δεξί φλας έγκαιρα. Λίγο πριν στρίψεις, έλεγξε τον δεξιό καθρέφτη και το τυφλό σημείο για ποδήλατα και μηχανάκια που περνούν από δεξιά. Στρίβεις με χαμηλή ταχύτητα, συνήθως με 2η, και μπαίνεις στη δεξιά λωρίδα του νέου δρόμου. Πεζοί που διασχίζουν τον δρόμο όπου μπαίνεις πρέπει να περάσουν πρώτοι.",
+          "en": "Approach close to the right-hand edge of the road and signal right in good time. Just before turning, check the right mirror and blind spot for bicycles and scooters passing on your right. Turn at low speed, usually in 2nd gear, and enter the right-hand lane of the new road. Pedestrians crossing the road you are turning into must be allowed to cross first."
+        }
+      },
+      {
+        "heading": {
+          "el": "Αριστερή στροφή",
+          "en": "Turning left"
+        },
+        "body": {
+          "el": "Σε δρόμο διπλής κατεύθυνσης πλησιάζεις κοντά στη διαχωριστική γραμμή, ενώ σε μονόδρομο κινείσαι στην αριστερή άκρη. Δίνεις αριστερό φλας και παραχωρείς προτεραιότητα στα οχήματα που έρχονται αντίθετα. Όσο περιμένεις, κράτα τους τροχούς ίσια, ώστε αν σε χτυπήσουν από πίσω να μη βρεθείς στο αντίθετο ρεύμα. Αν περνάς πάνω από λεωφορειολωρίδα ή ποδηλατόδρομο, ο ΚΟΚ σε υποχρεώνει να δώσεις προτεραιότητα στα οχήματα που κινούνται σε αυτούς.",
+          "en": "On a two-way road approach close to the centre line; on a one-way street keep to the left-hand edge. Signal left and give way to oncoming traffic. While you wait, keep your wheels straight so that if you are hit from behind you are not pushed into oncoming traffic. If you cross a bus lane or cycle lane, the Code requires you to give way to the vehicles using it."
+        }
+      },
+      {
+        "heading": {
+          "el": "STOP και γεμάτη διασταύρωση",
+          "en": "STOP signs and blocked junctions"
+        },
+        "body": {
+          "el": "Στην πινακίδα STOP (Ρ-2) σταματάς τελείως στη γραμμή, ακόμη κι αν ο δρόμος φαίνεται άδειος, και μετά προχωράς όταν είναι ασφαλές. Στην πινακίδα Ρ-1, το ανεστραμμένο τρίγωνο, παραχωρείς προτεραιότητα και σταματάς μόνο αν χρειάζεται. Ο ΚΟΚ απαγορεύει να μπεις σε διασταύρωση, ακόμη και με πράσινο φανάρι, αν η κίνηση είναι τέτοια που μπορεί να μείνεις ακινητοποιημένος μέσα σε αυτή.",
+          "en": "At a STOP sign (R-2) you stop completely at the line, even if the road looks empty, and then go when it is safe. At the R-1 sign, the inverted triangle, you give way and stop only if necessary. The Code prohibits entering a junction, even on a green light, if traffic is so heavy that you might be left stuck inside it."
+        },
+        "tip": {
+          "el": "Στην ελληνική πραγματικότητα μην υποθέτεις ότι ο άλλος θα σου δώσει προτεραιότητα. Κοίτα τους τροχούς του και, αν μπορείς, κάνε οπτική επαφή.",
+          "en": "In Greek traffic never assume the other driver will give way. Watch their wheels and, if you can, make eye contact."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "junctions-turning-q1",
+        "q": {
+          "el": "Σε διασταύρωση χωρίς πινακίδες και φανάρια, ποιος έχει προτεραιότητα;",
+          "en": "At a junction with no signs or traffic lights, who has priority?"
+        },
+        "options": [
+          {
+            "el": "Όποιος έρχεται από τα αριστερά",
+            "en": "Whoever comes from the left"
+          },
+          {
+            "el": "Όποιος έρχεται από τα δεξιά",
+            "en": "Whoever comes from the right"
+          },
+          {
+            "el": "Όποιος φτάσει πρώτος",
+            "en": "Whoever arrives first"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Χωρίς σήμανση ισχύει ο γενικός κανόνας του ΚΟΚ: προτεραιότητα έχει όποιος έρχεται από δεξιά.",
+          "en": "Without signs the general rule of the Code applies: priority goes to whoever comes from the right."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "junctions-turning-q2",
+        "q": {
+          "el": "Βγαίνεις από πρατήριο καυσίμων σε κεντρικό δρόμο. Τι ισχύει;",
+          "en": "You are leaving a petrol station onto a main road. What applies?"
+        },
+        "options": [
+          {
+            "el": "Παραχωρείς προτεραιότητα στα οχήματα που κινούνται στον δρόμο",
+            "en": "You give way to vehicles moving on the road"
+          },
+          {
+            "el": "Έχεις προτεραιότητα αν έρχονται από αριστερά",
+            "en": "You have priority over traffic from the left"
+          },
+          {
+            "el": "Έχεις προτεραιότητα αν έχεις βάλει φλας",
+            "en": "You have priority if you have signalled"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει ότι όποιος εισέρχεται από πρατήριο, πάρκινγκ ή ιδιωτικό χώρο παραχωρεί προτεραιότητα.",
+          "en": "The Code states that anyone entering from a petrol station, car park or private property gives way."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "junctions-turning-q3",
+        "q": {
+          "el": "Τι κάνεις στην πινακίδα STOP όταν ο δρόμος φαίνεται εντελώς άδειος;",
+          "en": "What do you do at a STOP sign when the road looks completely empty?"
+        },
+        "options": [
+          {
+            "el": "Περνάς αργά χωρίς να σταματήσεις",
+            "en": "Roll through slowly without stopping"
+          },
+          {
+            "el": "Κορνάρεις και περνάς",
+            "en": "Sound the horn and go"
+          },
+          {
+            "el": "Σταματάς τελείως στη γραμμή και μετά προχωράς",
+            "en": "Stop completely at the line, then proceed"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Το STOP σημαίνει υποχρεωτική πλήρη στάση. Στην εξέταση, το να μη σταματήσεις τελείως θεωρείται συνήθως σοβαρό λάθος.",
+          "en": "STOP means a compulsory full stop. In the test, failing to stop completely is usually treated as a serious fault."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "junctions-turning-q4",
+        "q": {
+          "el": "Περιμένεις να στρίψεις αριστερά, με αντίθετα οχήματα να περνούν. Πώς κρατάς τους τροχούς;",
+          "en": "You are waiting to turn left while oncoming traffic passes. How do you keep your wheels?"
+        },
+        "options": [
+          {
+            "el": "Στραμμένους αριστερά, για να είσαι έτοιμος",
+            "en": "Turned left so you are ready"
+          },
+          {
+            "el": "Ίσια",
+            "en": "Straight"
+          },
+          {
+            "el": "Στραμμένους δεξιά",
+            "en": "Turned right"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Με ίσιους τροχούς, ένα χτύπημα από πίσω δεν θα σε σπρώξει στο αντίθετο ρεύμα.",
+          "en": "With straight wheels, a knock from behind will not push you into oncoming traffic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "junctions-turning-q5",
+        "q": {
+          "el": "Το φανάρι είναι πράσινο αλλά η διασταύρωση μπροστά είναι μποτιλιαρισμένη. Τι κάνεις;",
+          "en": "The light is green but the junction ahead is jammed. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Μπαίνεις, αφού έχεις πράσινο",
+            "en": "Go in, since you have green"
+          },
+          {
+            "el": "Μπαίνεις με αλάρμ",
+            "en": "Go in with hazard lights on"
+          },
+          {
+            "el": "Περιμένεις πριν τη διασταύρωση μέχρι να υπάρχει χώρος να βγεις",
+            "en": "Wait before the junction until there is space to exit"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ απαγορεύει την είσοδο σε κόμβο, ακόμη και με πράσινο, αν ενδέχεται να μείνεις ακινητοποιημένος μέσα σε αυτόν.",
+          "en": "The Code forbids entering a junction, even on green, if you might be left stuck inside it."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "junctions-turning-q6",
+        "q": {
+          "el": "Στρίβεις αριστερά και περνάς πάνω από λεωφορειολωρίδα όπου έρχεται λεωφορείο. Ποιος περνά πρώτος;",
+          "en": "You turn left across a bus lane where a bus is coming. Who goes first?"
+        },
+        "options": [
+          {
+            "el": "Το λεωφορείο",
+            "en": "The bus"
+          },
+          {
+            "el": "Εσύ, επειδή στρίβεις",
+            "en": "You, because you are turning"
+          },
+          {
+            "el": "Όποιος είναι πιο γρήγορος",
+            "en": "Whoever is faster"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει ότι όποιος αλλάζει κατεύθυνση περνώντας από λωρίδα μέσων μαζικής μεταφοράς, ποδηλάτων ή μοτοποδηλάτων παραχωρεί προτεραιότητα στα οχήματα αυτά.",
+          "en": "The Code says that a driver changing direction across a lane for public transport, bicycles or mopeds gives way to the vehicles in it."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "junctions-turning-q7",
+        "q": {
+          "el": "Οδηγείς σε εθνική οδό και από δεξιά σου βγαίνει όχημα από επαρχιακό δρόμο χωρίς πινακίδα. Ποιος έχει προτεραιότητα;",
+          "en": "You are on a national road and a vehicle comes from a side road on your right with no sign. Who has priority?"
+        },
+        "options": [
+          {
+            "el": "Το όχημα από δεξιά",
+            "en": "The vehicle from the right"
+          },
+          {
+            "el": "Εσύ, επειδή κινείσαι σε εθνική οδό",
+            "en": "You, because you are on a national road"
+          },
+          {
+            "el": "Κανείς, σταματούν και οι δύο",
+            "en": "Nobody, both must stop"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Εξαίρεση του ΚΟΚ: όσοι κινούνται σε αυτοκινητόδρομο, εθνική οδό ή οδό ταχείας κυκλοφορίας έχουν προτεραιότητα.",
+          "en": "Exception in the Code: traffic on motorways, national roads and expressways has priority."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "roundabouts",
+    "title": {
+      "el": "Κυκλικοί κόμβοι: η ελληνική πραγματικότητα",
+      "en": "Roundabouts: the Greek reality"
+    },
+    "icon": "road",
+    "summary": {
+      "el": "Στην Ελλάδα η προτεραιότητα στον κυκλικό κόμβο κρίνεται από τις πινακίδες, οπότε τις διαβάζεις πάντα πριν μπεις.",
+      "en": "In Greece priority at a roundabout depends on the signs, so you always read them before entering."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Τι λέει ο νόμος",
+          "en": "What the law says"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ δεν έχει ειδικό κανόνα προτεραιότητας για τους κυκλικούς κόμβους. Ισχύει ο γενικός κανόνας: η προτεραιότητα ορίζεται από τη σήμανση, και χωρίς σήμανση προτεραιότητα έχει όποιος έρχεται από δεξιά. Επειδή μέσα στον κόμβο κινείσαι αντίθετα από τους δείκτες του ρολογιού, όσοι μπαίνουν έρχονται από τα δεξιά σου. Άρα σε κόμβο χωρίς πινακίδες προτεραιότητα έχουν όσοι μπαίνουν. Αυτό ξαφνιάζει πολλούς οδηγούς από άλλες χώρες, όπου συνήθως προτεραιότητα έχουν όσοι κινούνται ήδη μέσα στον κόμβο.",
+          "en": "The Greek Highway Code has no special priority rule for roundabouts. The general rule applies: priority is set by signs, and without signs priority goes to whoever comes from the right. Because you circulate anticlockwise inside the roundabout, vehicles entering come from your right. So at a roundabout with no signs, vehicles entering have priority. This surprises many drivers from other countries, where traffic already on the roundabout usually has priority."
+        }
+      },
+      {
+        "heading": {
+          "el": "Οι πινακίδες αλλάζουν τα πάντα",
+          "en": "Signs change everything"
+        },
+        "body": {
+          "el": "Πολλοί κόμβοι, ιδίως οι νεότεροι, έχουν στην είσοδο πινακίδα Ρ-1, το ανεστραμμένο τρίγωνο, ή STOP (Ρ-2). Τότε όποιος μπαίνει παραχωρεί προτεραιότητα στα οχήματα που ήδη κινούνται μέσα στον κόμβο. Αν δεν υπάρχει πινακίδα στη δική σου είσοδο, να είσαι έτοιμος ότι οι άλλοι οδηγοί μπορεί να συμπεριφερθούν με διαφορετικούς τρόπους.",
+          "en": "Many roundabouts, especially newer ones, have an R-1 sign, the inverted triangle, or a STOP sign (R-2) at the entry. Then whoever enters gives way to vehicles already circulating. If there is no sign at your entry, be ready for other drivers to behave in different ways."
+        },
+        "tip": {
+          "el": "Καθώς πλησιάζεις, ψάξε την πινακίδα στη δική σου είσοδο. Αυτή σου λέει ποιος περνά πρώτος.",
+          "en": "As you approach, look for the sign at your own entry. It tells you who goes first."
+        }
+      },
+      {
+        "heading": {
+          "el": "Πώς μπαίνεις με ασφάλεια",
+          "en": "How to enter safely"
+        },
+        "body": {
+          "el": "Μείωσε ταχύτητα από νωρίς και διάλεξε λωρίδα σύμφωνα με την έξοδο που θέλεις και τις διαγραμμίσεις. Κοίτα αριστερά, από όπου έρχονται τα οχήματα που κυκλοφορούν, αλλά και δεξιά, για όσους μπαίνουν. Αν υπάρχει Ρ-1 ή STOP, περίμενε κενό και μπες αποφασιστικά. Μέσα στον κόμβο μη σταματάς χωρίς λόγο.",
+          "en": "Slow down early and choose your lane according to your exit and the lane markings. Look left, where circulating traffic comes from, but also right, for vehicles entering. If there is an R-1 or STOP sign, wait for a gap and then enter decisively. Inside the roundabout, do not stop without reason."
+        }
+      },
+      {
+        "heading": {
+          "el": "Λωρίδα και φλας",
+          "en": "Lane and signals"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ σε υποχρεώνει να δίνεις σήμα πριν από κάθε ελιγμό, άρα και όταν βγαίνεις από τον κόμβο. Η συνηθισμένη πρακτική που διδάσκουν οι σχολές είναι η εξής. Οι διαγραμμίσεις και τα βέλη στο οδόστρωμα πάντα υπερισχύουν.",
+          "en": "The Code requires you to signal before every manoeuvre, including when you leave the roundabout. Driving schools usually teach the following practice. Lane markings and arrows on the road always take precedence."
+        },
+        "bullets": [
+          {
+            "el": "Πρώτη έξοδος: δεξιά λωρίδα και δεξί φλας από την προσέγγιση.",
+            "en": "First exit: right-hand lane and right signal on the approach."
+          },
+          {
+            "el": "Ευθεία: συνήθως δεξιά λωρίδα, δεξί φλας αφού περάσεις την προηγούμενη έξοδο.",
+            "en": "Straight on: usually the right-hand lane, right signal after passing the exit before yours."
+          },
+          {
+            "el": "Πιο μακρινές έξοδοι: εσωτερική λωρίδα, αν επιτρέπεται, και μετακίνηση δεξιά με έλεγχο καθρεφτών πριν την έξοδο.",
+            "en": "Later exits: inner lane if allowed, then move right with mirror checks before your exit."
+          },
+          {
+            "el": "Πάντα δεξί φλας πριν βγεις.",
+            "en": "Always signal right before you exit."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Στην πράξη, στους ελληνικούς δρόμους",
+          "en": "In practice on Greek roads"
+        },
+        "body": {
+          "el": "Πολλοί οδηγοί δεν δίνουν φλας, κάποιοι μπαίνουν χωρίς να παραχωρήσουν προτεραιότητα και τα μηχανάκια περνούν και από τις δύο πλευρές. Μεγάλες πλατείες με φανάρια λειτουργούν σαν απλές διασταυρώσεις, οπότε ακολουθείς τα φανάρια. Οδήγα προβλέψιμα, με χαμηλή ταχύτητα και συνεχή έλεγχο καθρεφτών, και κρίνε την πρόθεση των άλλων από τη θέση και τους τροχούς τους.",
+          "en": "Many drivers do not signal, some enter without giving way and scooters pass on both sides. Large squares with traffic lights work like ordinary junctions, so you follow the lights. Drive predictably, at low speed and with constant mirror checks, and judge other drivers' intentions from their position and wheels."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "roundabouts-q1",
+        "q": {
+          "el": "Στην είσοδο του κόμβου υπάρχει πινακίδα Ρ-1, ανεστραμμένο τρίγωνο. Ποιος έχει προτεραιότητα;",
+          "en": "There is an R-1 sign, an inverted triangle, at the roundabout entry. Who has priority?"
+        },
+        "options": [
+          {
+            "el": "Εσύ που μπαίνεις",
+            "en": "You, entering"
+          },
+          {
+            "el": "Τα οχήματα που ήδη κινούνται μέσα στον κόμβο",
+            "en": "Vehicles already circulating in the roundabout"
+          },
+          {
+            "el": "Όποιος έρχεται από δεξιά σου στην είσοδο",
+            "en": "Whoever is on your right at the entry"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Η Ρ-1 σημαίνει υποχρεωτική παραχώρηση προτεραιότητας. Περιμένεις κενό ανάμεσα στα οχήματα του κόμβου.",
+          "en": "R-1 means you must give way. Wait for a gap in the circulating traffic."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "roundabouts-q2",
+        "q": {
+          "el": "Σε κυκλικό κόμβο χωρίς καμία πινακίδα, τι ισχύει σύμφωνα με τον ελληνικό ΚΟΚ;",
+          "en": "At a roundabout with no signs at all, what applies under the Greek Highway Code?"
+        },
+        "options": [
+          {
+            "el": "Ισχύει ο κανόνας των δεξιών, άρα προτεραιότητα έχουν όσοι μπαίνουν",
+            "en": "Priority to the right applies, so vehicles entering have priority"
+          },
+          {
+            "el": "Πάντα προτεραιότητα έχουν όσοι είναι μέσα",
+            "en": "Vehicles inside always have priority"
+          },
+          {
+            "el": "Προτεραιότητα έχουν τα μεγαλύτερα οχήματα",
+            "en": "Larger vehicles have priority"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ δεν έχει ειδικό κανόνα για τους κόμβους. Χωρίς σήμανση ισχύει το «προτεραιότητα από δεξιά», και όσοι μπαίνουν βρίσκονται στα δεξιά σου.",
+          "en": "The Code has no special roundabout rule. Without signs, priority to the right applies, and vehicles entering are on your right."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "roundabouts-q3",
+        "q": {
+          "el": "Προς ποια κατεύθυνση κινείσαι μέσα σε κυκλικό κόμβο στην Ελλάδα;",
+          "en": "Which way do you go round a roundabout in Greece?"
+        },
+        "options": [
+          {
+            "el": "Με τη φορά των δεικτών του ρολογιού",
+            "en": "Clockwise"
+          },
+          {
+            "el": "Όπως βολεύει, ανάλογα με την έξοδο",
+            "en": "Whichever way suits your exit"
+          },
+          {
+            "el": "Αντίθετα από τη φορά των δεικτών του ρολογιού",
+            "en": "Anticlockwise"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Με δεξιά κυκλοφορία, περνάς δεξιά από τη νησίδα, άρα κινείσαι αντίθετα από τους δείκτες του ρολογιού.",
+          "en": "With right-hand traffic, you pass to the right of the central island, so you go anticlockwise."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "roundabouts-q4",
+        "q": {
+          "el": "Θα βγεις στην πρώτη έξοδο. Τι κάνεις;",
+          "en": "You are taking the first exit. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Εσωτερική λωρίδα και αριστερό φλας",
+            "en": "Inner lane and left signal"
+          },
+          {
+            "el": "Δεξιά λωρίδα και δεξί φλας από την προσέγγιση",
+            "en": "Right-hand lane and right signal from the approach"
+          },
+          {
+            "el": "Οποιαδήποτε λωρίδα χωρίς φλας",
+            "en": "Any lane, no signal"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Για την πρώτη έξοδο μένεις δεξιά και δείχνεις έγκαιρα ότι θα βγεις.",
+          "en": "For the first exit you keep right and show early that you are leaving."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "roundabouts-q5",
+        "q": {
+          "el": "Πότε δίνεις δεξί φλας για να βγεις από τον κόμβο;",
+          "en": "When do you signal right to leave the roundabout?"
+        },
+        "options": [
+          {
+            "el": "Αφού περάσεις την έξοδο που είναι πριν από τη δική σου",
+            "en": "After passing the exit before yours"
+          },
+          {
+            "el": "Δεν χρειάζεται φλας στην έξοδο",
+            "en": "No signal is needed to exit"
+          },
+          {
+            "el": "Μόνο αφού βγεις από τον κόμβο",
+            "en": "Only once you have left the roundabout"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ζητά σήμα πριν από κάθε ελιγμό. Έτσι οι οδηγοί που περιμένουν στην επόμενη είσοδο ξέρουν ότι βγαίνεις.",
+          "en": "The Code requires a signal before every manoeuvre. This tells drivers waiting at the next entry that you are leaving."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "roundabouts-q6",
+        "q": {
+          "el": "Μια μεγάλη πλατεία έχει φανάρια σε κάθε είσοδο. Τι ακολουθείς;",
+          "en": "A large square has traffic lights at every entry. What do you follow?"
+        },
+        "options": [
+          {
+            "el": "Τον κανόνα των δεξιών",
+            "en": "The priority-to-the-right rule"
+          },
+          {
+            "el": "Τα φανάρια",
+            "en": "The traffic lights"
+          },
+          {
+            "el": "Όποιον κορνάρει πρώτος",
+            "en": "Whoever sounds the horn first"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Η σήμανση, άρα και τα φανάρια, ορίζει πρώτη την προτεραιότητα. Ο κανόνας των δεξιών ισχύει μόνο όπου δεν υπάρχει σήμανση.",
+          "en": "Signals and signs, including traffic lights, set priority first. Priority to the right applies only where there are none."
+        },
+        "difficulty": 2
+      }
+    ]
+  },
+  {
+    "id": "lanes-overtaking",
+    "title": {
+      "el": "Αλλαγή λωρίδας, τυφλά σημεία και προσπέραση",
+      "en": "Lane changes, blind spots and overtaking"
+    },
+    "icon": "traffic",
+    "summary": {
+      "el": "Αλλάζεις λωρίδα με τη σειρά καθρέφτες, σήμα, ελιγμός, ελέγχεις τα τυφλά σημεία και προσπερνάς μόνο όπου και όταν επιτρέπεται.",
+      "en": "You change lanes with mirrors, signal, manoeuvre, check blind spots and overtake only where and when it is allowed."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Καθρέφτες, σήμα, ελιγμός",
+          "en": "Mirrors, signal, manoeuvre"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ ζητά, πριν από κάθε ελιγμό, να βεβαιωθείς ότι δεν δημιουργείς κίνδυνο για όσους κινούνται πίσω, μπροστά ή δίπλα σου. Πρέπει να δείξεις έγκαιρα την πρόθεσή σου με το φλας, να το κρατάς σε όλη τη διάρκεια του ελιγμού και να το σβήνεις όταν τελειώσει. Η σειρά είναι πάντα καθρέφτες, σήμα, ελιγμός.",
+          "en": "The Greek Highway Code requires you, before every manoeuvre, to make sure you create no danger for anyone behind, in front of or beside you. You must show your intention in good time with the indicator, keep it on during the whole manoeuvre and cancel it when you finish. The order is always mirrors, signal, manoeuvre."
+        }
+      },
+      {
+        "heading": {
+          "el": "Τυφλά σημεία και μηχανάκια",
+          "en": "Blind spots and motorcycles"
+        },
+        "body": {
+          "el": "Τυφλό σημείο είναι η περιοχή δίπλα και λίγο πίσω από το αυτοκίνητο που δεν φαίνεται στους καθρέφτες. Το ελέγχεις με μια γρήγορη ματιά πάνω από τον ώμο, προς την πλευρά που πας. Ο ΚΟΚ επιτρέπει στις μοτοσικλέτες και στα μοτοποδήλατα να περνούν ανάμεσα σε λωρίδες με ακινητοποιημένα οχήματα, με έως 20 χλμ/ώρα, σε δρόμους με τουλάχιστον δύο λωρίδες ανά κατεύθυνση, οπότε στην κίνηση της πόλης περίμενε δίκυκλα και από τις δύο πλευρές.",
+          "en": "A blind spot is the area beside and slightly behind the car that the mirrors do not show. You check it with a quick glance over the shoulder on the side you are moving to. The Code lets motorcycles and mopeds pass between lanes of stationary traffic at up to 20 km/h on roads with at least two lanes per direction, so in city traffic expect two-wheelers on both sides."
+        },
+        "tip": {
+          "el": "Πριν ανοίξεις την πόρτα σε σταθμευμένο αυτοκίνητο, κοίτα καθρέφτη και πάνω από τον ώμο για ποδήλατα και μηχανάκια.",
+          "en": "Before opening your door when parked, check the mirror and over your shoulder for bicycles and scooters."
+        }
+      },
+      {
+        "heading": {
+          "el": "Αλλαγή λωρίδας βήμα προς βήμα",
+          "en": "Changing lanes step by step"
+        },
+        "body": {
+          "el": "Κοιτάς εσωτερικό και πλαϊνό καθρέφτη, δίνεις φλας και ξανακοιτάς καθρέφτη και τυφλό σημείο. Αν υπάρχει αρκετό κενό, μετακινείσαι σταδιακά, κρατώντας την ταχύτητά σου, και σβήνεις το φλας. Μην αλλάζεις λωρίδα πάνω από συνεχή γραμμή και μην κάνεις διαδοχικούς ελιγμούς από λωρίδα σε λωρίδα.",
+          "en": "Check the interior and side mirror, signal, then check the mirror and blind spot again. If the gap is big enough, move across gradually while keeping your speed, and cancel the signal. Never change lanes across a solid line and do not weave from lane to lane."
+        }
+      },
+      {
+        "heading": {
+          "el": "Προσπέραση: πότε επιτρέπεται",
+          "en": "Overtaking: when it is allowed"
+        },
+        "body": {
+          "el": "Κατά κανόνα προσπερνάς από αριστερά. Από δεξιά επιτρέπεται μόνο αν ο μπροστινός έχει δώσει σήμα ότι στρίβει αριστερά και έχει μετακινηθεί προς τα αριστερά. Προσπερνάς μόνο αν μπορείς να το κάνεις χωρίς κίνδυνο, αφού δώσεις σήμα, και μετά επιστρέφεις κοντά στη δεξιά άκρη. Η προσπέραση απαγορεύεται αν κάποιος πίσω σου έχει ήδη αρχίσει να σε προσπερνά, αν ο μπροστινός έχει δώσει σήμα ότι θα προσπεράσει, ή αν η λωρίδα που θα χρησιμοποιήσεις για την προσπέραση δεν είναι ελεύθερη σε αρκετή απόσταση μπροστά σου.",
+          "en": "As a rule you overtake on the left. Overtaking on the right is allowed only if the driver ahead has signalled a left turn and moved to the left. You overtake only if you can do it without danger, after signalling, and then return close to the right-hand edge. Overtaking is prohibited if someone behind has already started to overtake you, if the driver ahead has signalled they are overtaking, or if the lane you will use to overtake is not clear far enough ahead."
+        }
+      },
+      {
+        "heading": {
+          "el": "Πού απαγορεύεται η προσπέραση",
+          "en": "Where overtaking is prohibited"
+        },
+        "body": {
+          "el": "Εκτός από τις πινακίδες και τη συνεχή γραμμή, ο ΚΟΚ απαγορεύει την προσπέραση σε συγκεκριμένα σημεία. Θυμήσου τα, γιατί εκεί συμβαίνουν τα πιο σοβαρά ατυχήματα.",
+          "en": "Apart from signs and solid lines, the Code prohibits overtaking at specific places. Remember them, because that is where the most serious crashes happen."
+        },
+        "bullets": [
+          {
+            "el": "Αμέσως πριν ή μέσα σε ισόπεδη διασταύρωση που δεν είναι κυκλικός κόμβος, με εξαιρέσεις.",
+            "en": "Just before or at a level junction that is not a roundabout, with exceptions."
+          },
+          {
+            "el": "Αμέσως πριν ή πάνω σε διάβαση πεζών.",
+            "en": "Just before or on a pedestrian crossing."
+          },
+          {
+            "el": "Πριν ή πάνω σε ισόπεδη σιδηροδρομική διάβαση χωρίς μπάρες σε λειτουργία, με εξαιρέσεις.",
+            "en": "Before or on a level crossing without working barriers, with exceptions."
+          },
+          {
+            "el": "Σε κορυφή ανηφόρας ή στροφή με ανεπαρκή ορατότητα σε δρόμο διπλής κατεύθυνσης.",
+            "en": "At a hill crest or bend with poor visibility on a two-way road."
+          },
+          {
+            "el": "Μέσα σε σήραγγα με μία λωρίδα ανά κατεύθυνση.",
+            "en": "Inside a tunnel with one lane per direction."
+          },
+          {
+            "el": "Όταν σχολικό λεωφορείο έχει σταματήσει με αναμμένα φώτα έκτακτης ανάγκης για επιβίβαση ή αποβίβαση μαθητών.",
+            "en": "When a school bus has stopped with its hazard lights on for pupils to get on or off."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Όταν σε προσπερνούν",
+          "en": "When you are being overtaken"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ σε υποχρεώνει να κινείσαι κοντά στη δεξιά άκρη του οδοστρώματος και να μην επιταχύνεις. Αν ο άλλος δυσκολευτεί να επιστρέψει, άφησε λίγο το γκάζι για να του δώσεις χώρο. Ο εγωισμός στην προσπέραση είναι συχνή αιτία μετωπικών συγκρούσεων.",
+          "en": "The Code requires you to keep close to the right-hand edge of the road and not to speed up. If the other driver struggles to get back in, ease off the gas to give them room. Ego during overtaking is a common cause of head-on collisions."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "lanes-overtaking-q1",
+        "q": {
+          "el": "Ποια είναι η σωστή σειρά πριν από αλλαγή λωρίδας;",
+          "en": "What is the correct order before changing lanes?"
+        },
+        "options": [
+          {
+            "el": "Ελιγμός, σήμα, καθρέφτες",
+            "en": "Manoeuvre, signal, mirrors"
+          },
+          {
+            "el": "Σήμα, ελιγμός, καθρέφτες",
+            "en": "Signal, manoeuvre, mirrors"
+          },
+          {
+            "el": "Καθρέφτες, σήμα, ελιγμός",
+            "en": "Mirrors, signal, manoeuvre"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Πρώτα βλέπεις τι γίνεται γύρω σου, μετά ενημερώνεις τους άλλους και μόνο τότε κινείσαι.",
+          "en": "First see what is around you, then tell others, and only then move."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "lanes-overtaking-q2",
+        "q": {
+          "el": "Πώς ελέγχεις το τυφλό σημείο;",
+          "en": "How do you check the blind spot?"
+        },
+        "options": [
+          {
+            "el": "Με γρήγορη ματιά πάνω από τον ώμο, προς την πλευρά που πας",
+            "en": "With a quick glance over the shoulder towards the side you are moving to"
+          },
+          {
+            "el": "Μόνο με τον εσωτερικό καθρέφτη",
+            "en": "Only with the interior mirror"
+          },
+          {
+            "el": "Κορνάροντας πριν τον ελιγμό",
+            "en": "By sounding the horn before the manoeuvre"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Το τυφλό σημείο από ορισμό δεν φαίνεται στους καθρέφτες.",
+          "en": "By definition the blind spot is not visible in the mirrors."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "lanes-overtaking-q3",
+        "q": {
+          "el": "Πότε επιτρέπεται η προσπέραση από δεξιά;",
+          "en": "When is overtaking on the right allowed?"
+        },
+        "options": [
+          {
+            "el": "Όταν ο μπροστινός πηγαίνει αργά",
+            "en": "When the vehicle ahead is slow"
+          },
+          {
+            "el": "Όταν ο μπροστινός έχει δώσει σήμα για αριστερή στροφή και έχει μετακινηθεί αριστερά",
+            "en": "When the vehicle ahead has signalled a left turn and moved to the left"
+          },
+          {
+            "el": "Ποτέ",
+            "en": "Never"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Αυτή είναι η εξαίρεση που προβλέπει ο ΚΟΚ στον κανόνα της προσπέρασης από αριστερά.",
+          "en": "This is the exception the Code allows to the rule of overtaking on the left."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "lanes-overtaking-q4",
+        "q": {
+          "el": "Σε ποιο σημείο απαγορεύεται η προσπέραση;",
+          "en": "Where is overtaking prohibited?"
+        },
+        "options": [
+          {
+            "el": "Σε ευθεία με καλή ορατότητα και διακεκομμένη γραμμή",
+            "en": "On a straight with good visibility and a broken line"
+          },
+          {
+            "el": "Σε αυτοκινητόδρομο με τρεις λωρίδες",
+            "en": "On a three-lane motorway"
+          },
+          {
+            "el": "Αμέσως πριν από διάβαση πεζών",
+            "en": "Just before a pedestrian crossing"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ένα αυτοκίνητο που επιβραδύνει πριν τη διάβαση μπορεί να κρύβει πεζό που περνά.",
+          "en": "A car slowing before the crossing may be hiding a pedestrian who is crossing."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "lanes-overtaking-q5",
+        "q": {
+          "el": "Ένα αυτοκίνητο σε προσπερνά. Τι υποχρεούσαι να κάνεις;",
+          "en": "A car is overtaking you. What must you do?"
+        },
+        "options": [
+          {
+            "el": "Να κινηθείς κοντά στη δεξιά άκρη και να μην επιταχύνεις",
+            "en": "Keep close to the right-hand edge and not speed up"
+          },
+          {
+            "el": "Να επιταχύνεις για να τελειώσει πιο γρήγορα",
+            "en": "Speed up so it finishes faster"
+          },
+          {
+            "el": "Να φρενάρεις απότομα",
+            "en": "Brake sharply"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ το ορίζει ρητά: δεξιά και χωρίς επιτάχυνση.",
+          "en": "The Code says so explicitly: keep right and do not accelerate."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "lanes-overtaking-q6",
+        "q": {
+          "el": "Είσαι σε μποτιλιάρισμα στην πόλη και θέλεις να αλλάξεις λωρίδα. Γιατί χρειάζεται ιδιαίτερη προσοχή στο τυφλό σημείο;",
+          "en": "You are in a city traffic jam and want to change lanes. Why is the blind spot check especially important?"
+        },
+        "options": [
+          {
+            "el": "Επειδή τα φανάρια αλλάζουν συχνά",
+            "en": "Because traffic lights change often"
+          },
+          {
+            "el": "Επειδή οι μοτοσικλέτες επιτρέπεται να περνούν ανάμεσα στις σταματημένες λωρίδες",
+            "en": "Because motorcycles are allowed to pass between stopped lanes"
+          },
+          {
+            "el": "Επειδή οι καθρέφτες θαμπώνουν",
+            "en": "Because the mirrors fog up"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Ο ΚΟΚ επιτρέπει σε μοτοσικλέτες και μοτοποδήλατα να κινούνται ανάμεσα σε ακινητοποιημένα οχήματα με έως 20 χλμ/ώρα, σε δρόμους με τουλάχιστον δύο λωρίδες ανά κατεύθυνση.",
+          "en": "The Code lets motorcycles and mopeds move between stationary vehicles at up to 20 km/h on roads with at least two lanes per direction."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "lanes-overtaking-q7",
+        "q": {
+          "el": "Ο οδηγός πίσω σου έχει ήδη αρχίσει να σε προσπερνά. Μπορείς να ξεκινήσεις κι εσύ προσπέραση του μπροστινού;",
+          "en": "The driver behind you has already started overtaking you. May you start to overtake the vehicle ahead?"
+        },
+        "options": [
+          {
+            "el": "Ναι, αν βάλεις φλας",
+            "en": "Yes, if you signal"
+          },
+          {
+            "el": "Ναι, αν είσαι πιο γρήγορος",
+            "en": "Yes, if you are faster"
+          },
+          {
+            "el": "Όχι, απαγορεύεται",
+            "en": "No, it is prohibited"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ απαγορεύει την προσπέραση όταν ο οδηγός που ακολουθεί έχει ήδη αρχίσει να προσπερνά.",
+          "en": "The Code forbids overtaking when the driver behind has already begun to overtake."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "motorway-driving",
+    "title": {
+      "el": "Οδήγηση σε αυτοκινητόδρομο",
+      "en": "Motorway driving"
+    },
+    "icon": "road",
+    "summary": {
+      "el": "Μπαίνεις και βγαίνεις σωστά από τον αυτοκινητόδρομο, περνάς τα διόδια με ηρεμία και ξέρεις πότε επιτρέπεται η Λωρίδα Έκτακτης Ανάγκης.",
+      "en": "You join and leave the motorway correctly, pass tolls calmly and know when the emergency lane may be used."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Είσοδος στον αυτοκινητόδρομο",
+          "en": "Joining the motorway"
+        },
+        "body": {
+          "el": "Όπου υπάρχει λωρίδα επιτάχυνσης, ο ΚΟΚ σε υποχρεώνει να τη χρησιμοποιήσεις, για να φτάσεις σε ταχύτητα κοντά σε αυτή της κυκλοφορίας. Κοιτάς νωρίς στον αριστερό καθρέφτη, δίνεις αριστερό φλας, ελέγχεις το τυφλό σημείο και μπαίνεις σε κενό χωρίς να αναγκάσεις κάποιον να φρενάρει. Αν δεν υπάρχει λωρίδα επιτάχυνσης, παραχωρείς προτεραιότητα στα οχήματα του αυτοκινητόδρομου. Μη σταματάς στο τέλος της λωρίδας επιτάχυνσης, εκτός αν είναι πραγματικά αναγκαίο.",
+          "en": "Where there is an acceleration lane, the Greek Highway Code requires you to use it to reach a speed close to that of the traffic. Check the left mirror early, signal left, check the blind spot and merge into a gap without forcing anyone to brake. If there is no acceleration lane, you give way to traffic on the motorway. Do not stop at the end of the acceleration lane unless it is truly necessary."
+        }
+      },
+      {
+        "heading": {
+          "el": "Ταχύτητα, λωρίδες και απαγορεύσεις",
+          "en": "Speed, lanes and prohibitions"
+        },
+        "body": {
+          "el": "Το όριο για επιβατικά στον αυτοκινητόδρομο είναι 130 χλμ/ώρα, εκτός αν οι πινακίδες ορίζουν λιγότερο. Κινείσαι στη δεξιά λωρίδα και χρησιμοποιείς τις αριστερές για προσπέραση, επιστρέφοντας δεξιά όταν τελειώσεις. Σε δρόμους με τρεις ή περισσότερες λωρίδες ανά κατεύθυνση, τα φορτηγά άνω των 3,5 τόνων, τα λεωφορεία και οι συνδυασμοί άνω των 7 μέτρων κινούνται μόνο στις δύο δεξιές λωρίδες.",
+          "en": "The limit for cars on a motorway is 130 km/h unless signs set a lower one. Drive in the right-hand lane and use the left lanes for overtaking, moving back right when you finish. On roads with three or more lanes per direction, lorries over 3.5 tonnes, buses and combinations over 7 metres may use only the two right-hand lanes."
+        },
+        "bullets": [
+          {
+            "el": "Απαγορεύεται η όπισθεν.",
+            "en": "Reversing is prohibited."
+          },
+          {
+            "el": "Απαγορεύεται η αναστροφή 180 μοιρών.",
+            "en": "U-turns are prohibited."
+          },
+          {
+            "el": "Απαγορεύονται η στάση και η στάθμευση εκτός των σημασμένων χώρων, καθώς και στις λωρίδες επιτάχυνσης και επιβράδυνσης.",
+            "en": "Stopping and parking are prohibited outside marked areas, and in acceleration and deceleration lanes."
+          },
+          {
+            "el": "Δεν επιτρέπονται πεζοί, ποδήλατα και οχήματα που δεν μπορούν να ξεπεράσουν τα 70 χλμ/ώρα σε επίπεδο δρόμο.",
+            "en": "Pedestrians, bicycles and vehicles that cannot exceed 70 km/h on a level road are not allowed."
+          }
+        ],
+        "tip": {
+          "el": "Στα μεγάλα ταξίδια κάνε στάση για ξεκούραση περίπου κάθε δύο ώρες. Η κούραση μειώνει την προσοχή πολύ πριν νιώσεις ότι νυστάζεις.",
+          "en": "On long trips take a rest break roughly every two hours. Tiredness reduces attention long before you feel sleepy."
+        }
+      },
+      {
+        "heading": {
+          "el": "Διόδια",
+          "en": "Toll stations"
+        },
+        "body": {
+          "el": "Οι ελληνικοί αυτοκινητόδρομοι έχουν σταθμούς διοδίων με λωρίδες για πληρωμή με μετρητά ή κάρτα και λωρίδες για ηλεκτρονική πληρωμή με πομποδέκτη. Μείωσε ταχύτητα έγκαιρα, διάβασε τις πινακίδες πάνω από κάθε λωρίδα και διάλεξε λωρίδα από νωρίς. Μην αλλάζεις απότομα λωρίδα την τελευταία στιγμή και πρόσεχε τα οχήματα που ξεκινούν από τις διπλανές μπάρες.",
+          "en": "Greek motorways have toll stations with lanes for cash or card payment and lanes for electronic payment with a transponder. Slow down in good time, read the signs above each lane and choose your lane early. Do not swerve across lanes at the last moment and watch for vehicles pulling away from the neighbouring barriers."
+        }
+      },
+      {
+        "heading": {
+          "el": "Λωρίδα Έκτακτης Ανάγκης (ΛΕΑ)",
+          "en": "The emergency lane"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ ορίζει ότι η ΛΕΑ προορίζεται αποκλειστικά για την κίνηση οχημάτων άμεσης ανάγκης, όπως ασθενοφόρα, πυροσβεστικά και περιπολικά, και για τα οχήματα συντήρησης του δρόμου. Δεν τη χρησιμοποιείς για να προσπεράσεις ή για να γλιτώσεις από την κίνηση. Η μόνη εξαίρεση για εσένα είναι η βλάβη ή η ανάγκη να ακινητοποιηθείς. Σε μποτιλιάρισμα, άφησε ελεύθερη τη ΛΕΑ, γιατί από εκεί θα έρθει η βοήθεια.",
+          "en": "The Greek Highway Code states that the emergency lane is exclusively for emergency vehicles such as ambulances, fire engines and police cars, and for road maintenance vehicles. You do not use it to overtake or to escape a traffic jam. The only exception for you is a breakdown or a forced stop. In a jam, keep the emergency lane clear, because help will come through it."
+        }
+      },
+      {
+        "heading": {
+          "el": "Βλάβη στον αυτοκινητόδρομο",
+          "en": "Breaking down on the motorway"
+        },
+        "body": {
+          "el": "Αν έχεις βλάβη, ο ΚΟΚ ζητά να κάνεις κάθε προσπάθεια να βγάλεις το αυτοκίνητο εκτός οδοστρώματος. Ανάβεις τα φώτα έκτακτης ανάγκης. Αν το όχημα μείνει πάνω στο οδόστρωμα, τοποθετείς αμέσως το τρίγωνο τουλάχιστον 100 μέτρα πίσω του. Οι επιβάτες βγαίνουν από τη δεξιά πλευρά και περιμένουν πίσω από το προστατευτικό κιγκλίδωμα, όχι μέσα στο αυτοκίνητο. Για βοήθεια καλείς το 112 ή τον αριθμό του αυτοκινητόδρομου που υπάρχει στις πινακίδες.",
+          "en": "If you break down, the Code requires you to make every effort to move the car off the carriageway. Switch on the hazard lights. If the vehicle stays on the carriageway, immediately place the warning triangle at least 100 metres behind it. Passengers get out on the right-hand side and wait behind the safety barrier, not in the car. For help call 112 or the motorway's number shown on the signs."
+        }
+      },
+      {
+        "heading": {
+          "el": "Έξοδος από τον αυτοκινητόδρομο",
+          "en": "Leaving the motorway"
+        },
+        "body": {
+          "el": "Οι πινακίδες προειδοποιούν για την έξοδο από αρκετή απόσταση. Μετακινείσαι έγκαιρα στη δεξιά λωρίδα, δίνεις δεξί φλας και μπαίνεις το ταχύτερο στη λωρίδα επιβράδυνσης, όπου και μειώνεις ταχύτητα, όχι στον κύριο δρόμο. Αν χάσεις την έξοδο, συνεχίζεις μέχρι την επόμενη. Ποτέ όπισθεν και ποτέ αναστροφή.",
+          "en": "Signs warn you of the exit well in advance. Move to the right-hand lane in good time, signal right and enter the deceleration lane as soon as possible, slowing down there rather than on the main road. If you miss the exit, carry on to the next one. Never reverse and never make a U-turn."
+        },
+        "tip": {
+          "el": "Μετά από ώρα στον αυτοκινητόδρομο, τα 50 χλμ/ώρα μοιάζουν πολύ αργά. Κοίτα το κοντέρ σου στις πρώτες στροφές μετά την έξοδο.",
+          "en": "After time on the motorway, 50 km/h feels very slow. Check your speedometer on the first bends after the exit."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "motorway-driving-q1",
+        "q": {
+          "el": "Για ποιους προορίζεται η Λωρίδα Έκτακτης Ανάγκης (ΛΕΑ);",
+          "en": "Who is the emergency lane for?"
+        },
+        "options": [
+          {
+            "el": "Για όλους όταν υπάρχει μποτιλιάρισμα",
+            "en": "For everyone when there is a jam"
+          },
+          {
+            "el": "Αποκλειστικά για οχήματα άμεσης ανάγκης, με εξαίρεση τη βλάβη",
+            "en": "Exclusively for emergency vehicles, except in a breakdown"
+          },
+          {
+            "el": "Για τα αργά οχήματα",
+            "en": "For slow vehicles"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει ότι η ΛΕΑ προορίζεται αποκλειστικά για οχήματα άμεσης ανάγκης και για τα οχήματα συντήρησης του δρόμου. Οποιαδήποτε άλλη χρήση απαγορεύεται, εκτός από την περίπτωση βλάβης.",
+          "en": "The Code reserves the emergency lane exclusively for emergency vehicles and road maintenance vehicles. Any other use is prohibited, apart from a breakdown."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "motorway-driving-q2",
+        "q": {
+          "el": "Σε πόση απόσταση τοποθετείς το τρίγωνο αν ακινητοποιηθείς πάνω στο οδόστρωμα του αυτοκινητόδρομου;",
+          "en": "How far back do you place the warning triangle if you are stopped on the motorway carriageway?"
+        },
+        "options": [
+          {
+            "el": "Τουλάχιστον 100 μέτρα πίσω από το όχημα",
+            "en": "At least 100 metres behind the vehicle"
+          },
+          {
+            "el": "Ακριβώς πίσω από το όχημα",
+            "en": "Right behind the vehicle"
+          },
+          {
+            "el": "20 μέτρα πίσω",
+            "en": "20 metres behind"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει τουλάχιστον 100 μέτρα, ώστε οι οδηγοί που έρχονται με μεγάλη ταχύτητα να προλάβουν να αντιδράσουν.",
+          "en": "The Code sets at least 100 metres, so drivers arriving at high speed have time to react."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "motorway-driving-q3",
+        "q": {
+          "el": "Η είσοδος στον αυτοκινητόδρομο έχει λωρίδα επιτάχυνσης. Τι κάνεις;",
+          "en": "The motorway entry has an acceleration lane. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Σταματάς στην αρχή της και περιμένεις μεγάλο κενό",
+            "en": "Stop at its start and wait for a big gap"
+          },
+          {
+            "el": "Μπαίνεις αμέσως στη δεύτερη λωρίδα",
+            "en": "Move straight into the second lane"
+          },
+          {
+            "el": "Τη χρησιμοποιείς για να φτάσεις ταχύτητα κοντά στην κυκλοφορία και μπαίνεις σε κενό",
+            "en": "Use it to reach a speed close to the traffic and merge into a gap"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ σε υποχρεώνει να χρησιμοποιείς τη λωρίδα επιτάχυνσης. Αν μπεις αργά, δημιουργείς κίνδυνο σύγκρουσης από πίσω.",
+          "en": "The Code requires you to use the acceleration lane. Joining slowly creates a risk of a rear-end collision."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "motorway-driving-q4",
+        "q": {
+          "el": "Έχασες την έξοδο που ήθελες. Τι κάνεις;",
+          "en": "You missed the exit you wanted. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Κάνεις όπισθεν στη ΛΕΑ",
+            "en": "Reverse along the emergency lane"
+          },
+          {
+            "el": "Συνεχίζεις μέχρι την επόμενη έξοδο",
+            "en": "Continue to the next exit"
+          },
+          {
+            "el": "Σταματάς και κάνεις αναστροφή",
+            "en": "Stop and make a U-turn"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Στους αυτοκινητόδρομους απαγορεύονται η όπισθεν και η αναστροφή, και η ΛΕΑ δεν είναι για τέτοια χρήση.",
+          "en": "Reversing and U-turns are prohibited on motorways, and the emergency lane is not for this."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "motorway-driving-q5",
+        "q": {
+          "el": "Πού μειώνεις ταχύτητα όταν βγαίνεις από τον αυτοκινητόδρομο;",
+          "en": "Where do you slow down when leaving the motorway?"
+        },
+        "options": [
+          {
+            "el": "Στη λωρίδα επιβράδυνσης",
+            "en": "In the deceleration lane"
+          },
+          {
+            "el": "Στην αριστερή λωρίδα",
+            "en": "In the left lane"
+          },
+          {
+            "el": "Στον κύριο δρόμο πριν την έξοδο",
+            "en": "On the main carriageway before the exit"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ζητά να μπεις το ταχύτερο στη λωρίδα επιβράδυνσης, ώστε να μην επιβραδύνεις μπροστά σε όσους συνεχίζουν.",
+          "en": "The Code asks you to enter the deceleration lane as soon as possible, so you do not slow down in front of through traffic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "motorway-driving-q6",
+        "q": {
+          "el": "Σε αυτοκινητόδρομο με τρεις λωρίδες ανά κατεύθυνση, ποιες λωρίδες μπορεί να χρησιμοποιεί ένα φορτηγό άνω των 3,5 τόνων;",
+          "en": "On a motorway with three lanes per direction, which lanes may a lorry over 3.5 tonnes use?"
+        },
+        "options": [
+          {
+            "el": "Όλες",
+            "en": "All of them"
+          },
+          {
+            "el": "Μόνο την αριστερή",
+            "en": "Only the left one"
+          },
+          {
+            "el": "Μόνο τις δύο δεξιές",
+            "en": "Only the two right-hand lanes"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ περιορίζει τα βαριά οχήματα, τα λεωφορεία και τους συνδυασμούς άνω των 7 μέτρων στις δύο δεξιές λωρίδες.",
+          "en": "The Code restricts heavy vehicles, buses and combinations over 7 metres to the two right-hand lanes."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "parking-manoeuvres",
+    "title": {
+      "el": "Στάθμευση και ελιγμοί",
+      "en": "Parking and manoeuvres"
+    },
+    "icon": "parking",
+    "summary": {
+      "el": "Μαθαίνεις παράλληλη στάθμευση, στάθμευση σε θέση, όπισθεν και αναστροφή, και πού απαγορεύεται να σταθμεύσεις.",
+      "en": "You learn parallel parking, bay parking, reversing and turning in the road, and where parking is prohibited."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Οι τρεις κανόνες κάθε ελιγμού",
+          "en": "The three rules of every manoeuvre"
+        },
+        "body": {
+          "el": "Κάθε ελιγμός γίνεται πολύ αργά, με έλεγχο συμπλέκτη ή φρένου, όχι με γκάζι. Παρατηρείς συνεχώς γύρω σου, ιδίως πριν και κατά τη διάρκεια της όπισθεν, και σταματάς αν πλησιάσει πεζός ή όχημα. Ο ΚΟΚ γενικά απαγορεύει την όπισθεν, αλλά την επιτρέπει για στάθμευση, όταν δεν μπορείς να κινηθείς μπροστά και στην εκπαίδευση και τις εξετάσεις. Όποιος κάνει όπισθεν παραχωρεί προτεραιότητα σε όλους.",
+          "en": "Every manoeuvre is done very slowly, controlling the car with the clutch or brake, not the accelerator. Keep observing all around, especially before and during reversing, and stop if a pedestrian or vehicle approaches. The Greek Highway Code generally prohibits reversing, but allows it for parking, when moving forward is impossible, and in training and exams. Whoever reverses gives way to everyone."
+        }
+      },
+      {
+        "heading": {
+          "el": "Παράλληλη στάθμευση πίσω από αυτοκίνητο",
+          "en": "Parallel parking behind a car"
+        },
+        "body": {
+          "el": "Σταμάτα παράλληλα στο αυτοκίνητο μπροστά από τη θέση, περίπου μισό με ένα μέτρο δίπλα του, με τους πίσω προφυλακτήρες στην ίδια ευθεία. Βάλε όπισθεν, κάνε πλήρη παρατήρηση και κινήσου αργά προς τα πίσω. Όταν το σημείο αναφοράς σου φτάσει στο πίσω μέρος του άλλου αυτοκινήτου, στρίψε όλο το τιμόνι δεξιά. Όταν το αυτοκίνητο φτάσει περίπου στις 45 μοίρες, ίσιωσε τους τροχούς, και όταν το μπροστινό σου άκρο περάσει τον προφυλακτήρα του άλλου, στρίψε όλο το τιμόνι αριστερά. Τέλος ίσιωσε τους τροχούς και κεντράρισε το αυτοκίνητο στη θέση.",
+          "en": "Stop parallel to the car in front of the space, about half a metre to one metre beside it, with your rear bumpers lined up. Select reverse, observe all around and move back slowly. When your reference point reaches the rear of the other car, turn the wheel fully to the right. When your car is at about 45 degrees, straighten the wheels, and when your front clears the other car's bumper, turn the wheel fully to the left. Finally straighten the wheels and centre the car in the space."
+        },
+        "tip": {
+          "el": "Τα σημεία αναφοράς διαφέρουν από αυτοκίνητο σε αυτοκίνητο. Μάθε τα στο αυτοκίνητο της σχολής με το οποίο θα εξεταστείς.",
+          "en": "Reference points differ from car to car. Learn them in the driving school car you will take the test in."
+        }
+      },
+      {
+        "heading": {
+          "el": "Στάθμευση σε θέση, κάθετη ή πλάγια",
+          "en": "Bay parking, right-angled or angled"
+        },
+        "body": {
+          "el": "Η στάθμευση με όπισθεν σε θέση είναι πιο ασφαλής, γιατί βγαίνεις με την όπισθεν προς τα εμπρός και βλέπεις καλύτερα. Τοποθέτησε το αυτοκίνητο ώστε η θέση να είναι στο πλάι σου, και με όπισθεν στρίψε όλο το τιμόνι προς τη θέση. Χρησιμοποίησε τους πλαϊνούς καθρέφτες για να βλέπεις τις γραμμές και από τις δύο πλευρές. Αν δεν είσαι ευθυγραμμισμένος, σταμάτα, πήγαινε λίγο μπροστά και διόρθωσε.",
+          "en": "Reversing into a bay is safer, because you then drive out forwards and can see better. Position the car so the bay is beside you, and while reversing turn the wheel fully towards the bay. Use both door mirrors to see the lines on each side. If you are not aligned, stop, pull forward a little and correct."
+        }
+      },
+      {
+        "heading": {
+          "el": "Όπισθεν σε ευθεία και αναστροφή",
+          "en": "Reversing in a straight line and turning in the road"
+        },
+        "body": {
+          "el": "Στην όπισθεν σε ευθεία στρίβεις λίγο το σώμα, κοιτάς κυρίως από το πίσω τζάμι και κάνεις μικρές διορθώσεις στο τιμόνι. Στην αναστροφή με μπροστά και όπισθεν, σταματάς δεξιά, κάνεις πλήρη παρατήρηση και κινείσαι αργά μπροστά με όλο το τιμόνι αριστερά μέχρι λίγο πριν το απέναντι κράσπεδο. Μετά κάνεις όπισθεν με όλο το τιμόνι δεξιά, κοιτώντας πίσω, και τέλος προχωράς μπροστά στη νέα κατεύθυνση. Σε κάθε αλλαγή κατεύθυνσης ξανακοιτάς και στις δύο πλευρές του δρόμου.",
+          "en": "When reversing in a straight line, turn your body slightly, look mainly through the rear window and make small steering corrections. To turn the car round using forward and reverse gears, stop on the right, observe all around and move slowly forward with full left lock until just before the opposite kerb. Then reverse with full right lock while looking back, and finally drive forward in the new direction. At every change of direction, look both ways along the road again."
+        }
+      },
+      {
+        "heading": {
+          "el": "Πού απαγορεύεται να σταθμεύσεις",
+          "en": "Where you may not park"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ ορίζει συγκεκριμένες αποστάσεις. Αυτές οι αποστάσεις εξασφαλίζουν ότι πεζοί και οδηγοί βλέπουν ο ένας τον άλλον και ότι λεωφορεία και πυροσβεστικά μπορούν να εξυπηρετηθούν.",
+          "en": "The Greek Highway Code sets specific distances. They make sure pedestrians and drivers can see each other and that buses and fire services can operate."
+        },
+        "bullets": [
+          {
+            "el": "Πάνω σε διάβαση πεζών και σε λιγότερο από 5 μέτρα εκατέρωθεν.",
+            "en": "On a pedestrian crossing and within 5 metres on either side."
+          },
+          {
+            "el": "Σε λιγότερο από 12 μέτρα εκατέρωθεν στάσης λεωφορείου.",
+            "en": "Within 12 metres on either side of a bus stop."
+          },
+          {
+            "el": "Σε είσοδο ή έξοδο κόμβου και σε λιγότερο από 10 μέτρα από τη νοητή προέκταση του κράσπεδου του κάθετου δρόμου.",
+            "en": "At a junction entry or exit and within 10 metres of the imaginary extension of the kerb line of the side road."
+          },
+          {
+            "el": "Σε λιγότερο από 20 μέτρα από φανάρια και 12 μέτρα από πινακίδα STOP ή Ρ-1. Οι αποστάσεις αυτές μειώνονται στο μισό σε ειδικές εσοχές στάθμευσης.",
+            "en": "Within 20 metres of traffic lights and 12 metres of a STOP or R-1 sign. These distances are halved in recessed parking bays."
+          },
+          {
+            "el": "Σε πεζοδρόμιο, ποδηλατόδρομο, ράμπα ΑμεΑ ή θέση ΑμεΑ.",
+            "en": "On a pavement, cycle lane, disability ramp or disabled parking space."
+          },
+          {
+            "el": "Παράλληλα σε άλλο σταθμευμένο όχημα (διπλοπαρκάρισμα) και σε λιγότερο από 5 μέτρα από πυροσβεστικό κρουνό.",
+            "en": "Alongside another parked vehicle (double parking) and within 5 metres of a fire hydrant."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "parking-manoeuvres-q1",
+        "q": {
+          "el": "Πόσο μακριά από διάβαση πεζών απαγορεύεται η στάση και η στάθμευση;",
+          "en": "How close to a pedestrian crossing are stopping and parking prohibited?"
+        },
+        "options": [
+          {
+            "el": "Μόνο πάνω στη διάβαση",
+            "en": "Only on the crossing itself"
+          },
+          {
+            "el": "Πάνω στη διάβαση και σε λιγότερο από 5 μέτρα εκατέρωθεν",
+            "en": "On the crossing and within 5 metres on either side"
+          },
+          {
+            "el": "Σε λιγότερο από 1 μέτρο",
+            "en": "Within 1 metre"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Ο ΚΟΚ απαγορεύει στάση και στάθμευση πάνω στη διάβαση και σε απόσταση μικρότερη από 5 μέτρα εκατέρωθεν.",
+          "en": "The Code bans stopping and parking on the crossing and within 5 metres on either side."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "parking-manoeuvres-q2",
+        "q": {
+          "el": "Ποια είναι η ελάχιστη απόσταση στάθμευσης από στάση λεωφορείου;",
+          "en": "What is the minimum parking distance from a bus stop?"
+        },
+        "options": [
+          {
+            "el": "12 μέτρα εκατέρωθεν",
+            "en": "12 metres on either side"
+          },
+          {
+            "el": "3 μέτρα",
+            "en": "3 metres"
+          },
+          {
+            "el": "Δεν υπάρχει όριο",
+            "en": "There is no limit"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ ορίζει 12 μέτρα εκατέρωθεν της στάσης, με μικρές εξαιρέσεις όπου υπάρχει ειδική διαμόρφωση.",
+          "en": "The Code sets 12 metres either side of the stop, with small exceptions where the stop has a special layout."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "parking-manoeuvres-q3",
+        "q": {
+          "el": "Πόσο μακριά από φωτεινό σηματοδότη απαγορεύεται η στάθμευση;",
+          "en": "How far from traffic lights is parking prohibited?"
+        },
+        "options": [
+          {
+            "el": "5 μέτρα",
+            "en": "5 metres"
+          },
+          {
+            "el": "50 μέτρα",
+            "en": "50 metres"
+          },
+          {
+            "el": "20 μέτρα",
+            "en": "20 metres"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο ΚΟΚ απαγορεύει στάση και στάθμευση σε λιγότερο από 20 μέτρα από φανάρια, ώστε να μην κρύβονται από τους άλλους οδηγούς.",
+          "en": "The Code bans stopping and parking within 20 metres of traffic lights, so they are not hidden from other drivers."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "parking-manoeuvres-q4",
+        "q": {
+          "el": "Με ποια ταχύτητα κάνεις έναν ελιγμό στάθμευσης;",
+          "en": "At what speed do you carry out a parking manoeuvre?"
+        },
+        "options": [
+          {
+            "el": "Πολύ αργά, με έλεγχο συμπλέκτη ή φρένου",
+            "en": "Very slowly, using clutch or brake control"
+          },
+          {
+            "el": "Γρήγορα, για να μην καθυστερείς την κίνηση",
+            "en": "Quickly, so you do not hold up traffic"
+          },
+          {
+            "el": "Με σταθερό γκάζι στις 3.000 στροφές",
+            "en": "With steady gas at 3,000 rpm"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Η χαμηλή ταχύτητα σου δίνει χρόνο να παρατηρείς και να διορθώνεις. Στην εξέταση το να χτυπήσεις κράσπεδο ή όχημα κοστίζει.",
+          "en": "Low speed gives you time to observe and correct. In the test, hitting the kerb or a vehicle costs you."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "parking-manoeuvres-q5",
+        "q": {
+          "el": "Κάνεις όπισθεν για να σταθμεύσεις και πλησιάζει πεζός. Τι κάνεις;",
+          "en": "You are reversing to park and a pedestrian approaches. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Συνεχίζεις, γιατί ο πεζός θα σε δει",
+            "en": "Carry on, the pedestrian will see you"
+          },
+          {
+            "el": "Κορνάρεις και συνεχίζεις",
+            "en": "Sound the horn and continue"
+          },
+          {
+            "el": "Σταματάς και τον αφήνεις να περάσει",
+            "en": "Stop and let them pass"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Όποιος κινείται προς τα πίσω παραχωρεί προτεραιότητα. Η παρατήρηση γύρω σου είναι μέρος του ελιγμού.",
+          "en": "Whoever is reversing gives way. Observing around you is part of the manoeuvre."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "parking-manoeuvres-q6",
+        "q": {
+          "el": "Στην παράλληλη στάθμευση, τι κάνεις όταν το αυτοκίνητο φτάσει περίπου στις 45 μοίρες;",
+          "en": "In parallel parking, what do you do when the car reaches about 45 degrees?"
+        },
+        "options": [
+          {
+            "el": "Συνεχίζεις με όλο το τιμόνι δεξιά",
+            "en": "Keep full right lock"
+          },
+          {
+            "el": "Ισιώνεις τους τροχούς και συνεχίζεις λίγο πίσω",
+            "en": "Straighten the wheels and continue back a little"
+          },
+          {
+            "el": "Βάζεις πρώτη και φεύγεις",
+            "en": "Select first gear and drive off"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Με ίσιους τροχούς πλησιάζεις το κράσπεδο υπό γωνία και μετά στρίβεις αριστερά για να ευθυγραμμιστείς.",
+          "en": "With straight wheels you approach the kerb at an angle, then steer left to line up."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "parking-manoeuvres-q7",
+        "q": {
+          "el": "Πότε επιτρέπει ο ΚΟΚ την κίνηση προς τα πίσω;",
+          "en": "When does the Greek Highway Code allow reversing?"
+        },
+        "options": [
+          {
+            "el": "Οποτεδήποτε ο δρόμος είναι άδειος",
+            "en": "Whenever the road is empty"
+          },
+          {
+            "el": "Για στάθμευση, όταν δεν μπορείς να κινηθείς μπροστά και στην εκπαίδευση και τις εξετάσεις",
+            "en": "For parking, when you cannot move forward, and in training and exams"
+          },
+          {
+            "el": "Μόνο στους αυτοκινητόδρομους",
+            "en": "Only on motorways"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Η όπισθεν απαγορεύεται κατά κανόνα. Επιτρέπεται μόνο σε αυτές τις περιπτώσεις και ποτέ σε αυτοκινητόδρομο.",
+          "en": "Reversing is prohibited as a rule. It is allowed only in these cases and never on a motorway."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "night-weather-heat",
+    "title": {
+      "el": "Νύχτα, βροχή, ομίχλη, ζέστη και θάμβωση",
+      "en": "Night, rain, fog, heat and glare"
+    },
+    "icon": "weather",
+    "summary": {
+      "el": "Προσαρμόζεις ταχύτητα, απόσταση και φώτα όταν η ορατότητα ή η πρόσφυση είναι μειωμένες.",
+      "en": "You adapt speed, distance and lights when visibility or grip is reduced."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Οδήγηση τη νύχτα",
+          "en": "Driving at night"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ ζητά να μειώνεις ταχύτητα τη νύχτα και να οδηγείς έτσι ώστε να μπορείς να σταματήσεις μέσα στην απόσταση που φωτίζουν τα φώτα σου. Τα φώτα πορείας απαγορεύονται όταν ο δρόμος φωτίζεται αρκετά ώστε να βλέπεις καθαρά τουλάχιστον 100 μέτρα, καθώς και όταν είσαι σε στάση ή στάθμευση. Τα σβήνεις όταν συναντάς όχημα που έρχεται αντίθετα ή όταν ακολουθείς κοντά άλλο όχημα. Αν σε θαμπώνουν φώτα από απέναντι, κοίτα προς τη δεξιά άκρη του δρόμου και μείωσε ταχύτητα.",
+          "en": "The Greek Highway Code requires you to slow down at night and drive so you can stop within the distance your lights illuminate. High beams are prohibited when the road is lit well enough to see clearly for at least 100 metres, and when you are stopped or parked. Dip them when you meet an oncoming vehicle or follow close behind another. If oncoming lights dazzle you, look towards the right-hand edge of the road and slow down."
+        }
+      },
+      {
+        "heading": {
+          "el": "Βροχή",
+          "en": "Rain"
+        },
+        "body": {
+          "el": "Με βροχή η απόσταση φρεναρίσματος τουλάχιστον διπλασιάζεται, οπότε κρατάς τουλάχιστον 4 δευτερόλεπτα από τον μπροστινό. Ανάβεις τα φώτα διασταύρωσης, ώστε να σε βλέπουν, και χρησιμοποιείς υαλοκαθαριστήρες και ξεθάμπωμα. Φρενάρεις και στρίβεις ήπια, γιατί οι απότομες κινήσεις προκαλούν ολίσθηση. Στα νερά που λιμνάζουν μειώνεις ταχύτητα για να αποφύγεις την υδρολίσθηση.",
+          "en": "In rain, stopping distance at least doubles, so keep at least 4 seconds from the vehicle ahead. Switch on dipped headlights so others can see you, and use wipers and demisting. Brake and steer gently, because sudden inputs cause skids. Slow down through standing water to avoid aquaplaning."
+        }
+      },
+      {
+        "heading": {
+          "el": "Ομίχλη",
+          "en": "Fog"
+        },
+        "body": {
+          "el": "Στην ομίχλη μειώνεις ταχύτητα ώστε να μπορείς να σταματήσεις μέσα στην απόσταση που βλέπεις. Ανάβεις φώτα διασταύρωσης, όχι φώτα πορείας, γιατί αντανακλώνται στην ομίχλη και σε τυφλώνουν. Ο ΚΟΚ επιτρέπει τα φώτα ομίχλης μόνο σε ομίχλη, χιονόπτωση ή καταρρακτώδη βροχή, καθώς και σε στενούς ελικοειδείς δρόμους. Τα σβήνεις όταν βελτιωθεί η ορατότητα, γιατί θαμπώνουν τους άλλους.",
+          "en": "In fog, slow down so you can stop within the distance you can see. Use dipped headlights, not high beams, because they reflect off the fog and blind you. The Code allows fog lights only in fog, snowfall or torrential rain, and on narrow winding roads. Switch them off when visibility improves, because they dazzle others."
+        }
+      },
+      {
+        "heading": {
+          "el": "Χιόνι και πάγος",
+          "en": "Snow and ice"
+        },
+        "body": {
+          "el": "Στους ορεινούς δρόμους της Ελλάδας ο χειμώνας φέρνει χιόνι και πάγο. Ο ΚΟΚ ζητά αντιολισθητικές αλυσίδες τουλάχιστον στους δύο κινητήριους τροχούς σε χιονισμένο δρόμο, εκτός αν το αυτοκίνητο έχει κατάλληλα ελαστικά. Το ίδιο ισχύει σε δρόμο με πάγο, όταν το ζητούν πινακίδες ή οι αρχές. Ξεκίνα με δεύτερη ταχύτητα και λίγο γκάζι, κράτα πολύ μεγάλη απόσταση και απόφυγε κάθε απότομη κίνηση. Πρόσεχε τις γέφυρες και τα σκιερά σημεία, όπου ο πάγος μένει περισσότερο.",
+          "en": "On Greece's mountain roads, winter brings snow and ice. The Code requires snow chains on at least the two driving wheels on a snowy road, unless the car has suitable tyres. The same applies on icy roads when signs or the authorities require it. Move off in second gear with little gas, keep a very large gap and avoid any sudden input. Watch bridges and shaded spots, where ice lasts longer."
+        }
+      },
+      {
+        "heading": {
+          "el": "Καλοκαίρι, ζέστη και θάμβωση από τον ήλιο",
+          "en": "Summer heat and sun glare"
+        },
+        "body": {
+          "el": "Το ελληνικό καλοκαίρι είναι πολύ ζεστό. Μην αφήνεις ποτέ παιδιά ή ζώα σε σταθμευμένο αυτοκίνητο, ούτε για λίγα λεπτά, και έχε πάντα νερό μαζί σου. Ο χαμηλός ήλιος το πρωί και το απόγευμα μπορεί να σε τυφλώσει απότομα. Κράτα το παρμπρίζ καθαρό μέσα και έξω, χρησιμοποίησε το σκίαστρο και γυαλιά ηλίου, και μείωσε ταχύτητα. Θυμήσου ότι και οι άλλοι οδηγοί μπορεί να μη σε βλέπουν.",
+          "en": "Greek summers are very hot. Never leave children or animals in a parked car, not even for a few minutes, and always carry water. The low sun in the morning and late afternoon can suddenly blind you. Keep the windscreen clean inside and out, use the sun visor and sunglasses, and slow down. Remember that other drivers may not see you either."
+        },
+        "bullets": [
+          {
+            "el": "Έλεγξε τα ελαστικά με κρύο αυτοκίνητο και το ψυκτικό υγρό πριν από μεγάλα ταξίδια.",
+            "en": "Check tyre pressures when cold and the coolant before long trips."
+          },
+          {
+            "el": "Αν υπάρχει καπνός από πυρκαγιά, άναψε φώτα, μείωσε ταχύτητα και ακολούθησε τις οδηγίες των αρχών και τα μηνύματα του 112.",
+            "en": "If there is smoke from a wildfire, turn on your lights, slow down and follow instructions from the authorities and 112 alerts."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "night-weather-heat-q1",
+        "q": {
+          "el": "Πότε επιτρέπεται να ανάψεις τα φώτα ομίχλης;",
+          "en": "When may you use fog lights?"
+        },
+        "options": [
+          {
+            "el": "Κάθε βράδυ στην πόλη",
+            "en": "Every night in town"
+          },
+          {
+            "el": "Όποτε θέλεις να σε βλέπουν καλύτερα",
+            "en": "Whenever you want to be seen better"
+          },
+          {
+            "el": "Σε ομίχλη, χιονόπτωση ή καταρρακτώδη βροχή, και σε στενούς ελικοειδείς δρόμους",
+            "en": "In fog, snowfall or torrential rain, and on narrow winding roads"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Αυτές είναι οι περιπτώσεις που ορίζει ο ΚΟΚ. Σε καθαρό καιρό τα φώτα ομίχλης θαμπώνουν τους άλλους.",
+          "en": "These are the cases set by the Code. In clear weather fog lights dazzle others."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "night-weather-heat-q2",
+        "q": {
+          "el": "Οδηγείς με φώτα πορείας και πλησιάζει όχημα από απέναντι. Τι κάνεις;",
+          "en": "You are driving on high beam and a vehicle approaches from the opposite direction. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Αλλάζεις σε φώτα διασταύρωσης",
+            "en": "Switch to dipped headlights"
+          },
+          {
+            "el": "Κρατάς τα φώτα πορείας για να βλέπεις καλύτερα",
+            "en": "Keep high beam to see better"
+          },
+          {
+            "el": "Σβήνεις όλα τα φώτα",
+            "en": "Switch off all lights"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο ΚΟΚ σε υποχρεώνει να αποφεύγεις τη θάμβωση του οδηγού που έρχεται αντίθετα.",
+          "en": "The Code requires you to avoid dazzling the oncoming driver."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "night-weather-heat-q3",
+        "q": {
+          "el": "Γιατί δεν χρησιμοποιείς φώτα πορείας στην ομίχλη;",
+          "en": "Why should you not use high beams in fog?"
+        },
+        "options": [
+          {
+            "el": "Γιατί καταναλώνουν πολλή μπαταρία",
+            "en": "Because they drain the battery"
+          },
+          {
+            "el": "Γιατί αντανακλώνται στην ομίχλη και μειώνουν την ορατότητα",
+            "en": "Because they reflect off the fog and reduce visibility"
+          },
+          {
+            "el": "Γιατί απαγορεύονται πάντα εκτός πόλης",
+            "en": "Because they are always banned outside town"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Το φως πορείας χτυπά στα σταγονίδια της ομίχλης και επιστρέφει στα μάτια σου σαν λευκός τοίχος.",
+          "en": "High-beam light hits the fog droplets and bounces back into your eyes like a white wall."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "night-weather-heat-q4",
+        "q": {
+          "el": "Οδηγείς σε χιονισμένο ορεινό δρόμο με κανονικά καλοκαιρινά ελαστικά. Τι απαιτεί ο ΚΟΚ;",
+          "en": "You are driving on a snowy mountain road with ordinary summer tyres. What does the Code require?"
+        },
+        "options": [
+          {
+            "el": "Τίποτα, αρκεί να πας αργά",
+            "en": "Nothing, as long as you go slowly"
+          },
+          {
+            "el": "Μόνο αναμμένα φώτα ομίχλης",
+            "en": "Only fog lights on"
+          },
+          {
+            "el": "Αλυσίδες τουλάχιστον στους δύο κινητήριους τροχούς",
+            "en": "Chains on at least the two driving wheels"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Χωρίς κατάλληλα ελαστικά, οι αλυσίδες είναι υποχρεωτικές στους κινητήριους τροχούς.",
+          "en": "Without suitable tyres, chains are compulsory on the driving wheels."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "night-weather-heat-q5",
+        "q": {
+          "el": "Σε θαμπώνουν τα φώτα ενός οχήματος που έρχεται αντίθετα. Πού κοιτάς;",
+          "en": "You are dazzled by the lights of an oncoming vehicle. Where do you look?"
+        },
+        "options": [
+          {
+            "el": "Προς τη δεξιά άκρη του δρόμου, μειώνοντας ταχύτητα",
+            "en": "Towards the right-hand edge of the road while slowing down"
+          },
+          {
+            "el": "Κατευθείαν στα φώτα του",
+            "en": "Straight into its lights"
+          },
+          {
+            "el": "Στον εσωτερικό καθρέφτη",
+            "en": "Into the interior mirror"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Η δεξιά άκρη σε κρατά στη λωρίδα σου μέχρι να ξαναβρούν τα μάτια σου την ορατότητα.",
+          "en": "The right-hand edge keeps you in your lane until your eyes recover."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "night-weather-heat-q6",
+        "q": {
+          "el": "Είναι ασφαλές να αφήσεις ένα παιδί στο αυτοκίνητο για πέντε λεπτά τον Ιούλιο, με τα παράθυρα λίγο ανοιχτά;",
+          "en": "Is it safe to leave a child in the car for five minutes in July with the windows slightly open?"
+        },
+        "options": [
+          {
+            "el": "Ναι, αν είναι στη σκιά",
+            "en": "Yes, if it is in the shade"
+          },
+          {
+            "el": "Όχι, η θερμοκρασία μέσα ανεβαίνει επικίνδυνα σε λίγα λεπτά",
+            "en": "No, the temperature inside rises dangerously within minutes"
+          },
+          {
+            "el": "Ναι, αν είναι αναμμένος ο κινητήρας",
+            "en": "Yes, if the engine is running"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Ένα κλειστό αυτοκίνητο στον ήλιο ζεσταίνεται πολύ γρήγορα, και τα παιδιά και τα ζώα κινδυνεύουν από θερμοπληξία.",
+          "en": "A closed car in the sun heats up very quickly, and children and animals risk heatstroke."
+        },
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "id": "emergencies",
+    "title": {
+      "el": "Καταστάσεις έκτακτης ανάγκης",
+      "en": "Emergencies on the road"
+    },
+    "icon": "warning",
+    "summary": {
+      "el": "Ξέρεις πώς αντιδράς σε ολίσθηση, υδρολίσθηση, αστοχία φρένων και κλατάρισμα ελαστικού, και τι κάνεις μετά από βλάβη ή ατύχημα.",
+      "en": "You know how to react to a skid, aquaplaning, brake failure and a tyre blowout, and what to do after a breakdown or crash."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Ολίσθηση (ντεραπάρισμα)",
+          "en": "Skids"
+        },
+        "body": {
+          "el": "Η ολίσθηση συνήθως προκαλείται από υπερβολική ταχύτητα ή απότομο φρένο, γκάζι ή τιμόνι, ιδίως σε βρεγμένο ή ολισθηρό δρόμο. Άφησε ήπια τα πεντάλ και κοίτα εκεί που θέλεις να πας, όχι στο εμπόδιο. Αν γλιστρήσει το πίσω μέρος, στρίψε απαλά το τιμόνι προς την ίδια πλευρά που γλιστρά. Σε αυτοκίνητο με ABS, αν χρειαστεί φρένο, πάτα το σταθερά και συνέχισε να κατευθύνεις.",
+          "en": "A skid is usually caused by excessive speed or harsh braking, acceleration or steering, especially on a wet or slippery road. Gently ease off the pedals and look where you want to go, not at the obstacle. If the rear slides, steer gently in the same direction as the slide. In a car with ABS, if you need to brake, press firmly and keep steering."
+        },
+        "tip": {
+          "el": "Η καλύτερη αντιμετώπιση της ολίσθησης είναι η πρόληψη: χαμηλότερη ταχύτητα και ήπιες κινήσεις στον κακό καιρό.",
+          "en": "The best way to deal with a skid is to prevent it: lower speed and gentle inputs in bad weather."
+        }
+      },
+      {
+        "heading": {
+          "el": "Υδρολίσθηση",
+          "en": "Aquaplaning"
+        },
+        "body": {
+          "el": "Υδρολίσθηση συμβαίνει όταν ένα στρώμα νερού σηκώνει τα ελαστικά από την άσφαλτο. Το τιμόνι γίνεται ξαφνικά ελαφρύ και ο κινητήρας μπορεί να ανεβάσει στροφές. Μη φρενάρεις δυνατά και μη στρίβεις απότομα: άφησε απαλά το γκάζι και κράτα το τιμόνι σταθερό μέχρι να ξαναπιάσουν τα ελαστικά. Για πρόληψη, μείωσε ταχύτητα στα νερά και φρόντισε τα ελαστικά να έχουν αρκετό πέλμα.",
+          "en": "Aquaplaning happens when a layer of water lifts the tyres off the asphalt. The steering suddenly feels light and the engine revs may rise. Do not brake hard or steer sharply: ease off the gas gently and hold the wheel steady until the tyres grip again. To prevent it, slow down through water and make sure your tyres have enough tread."
+        }
+      },
+      {
+        "heading": {
+          "el": "Αστοχία φρένων",
+          "en": "Brake failure"
+        },
+        "body": {
+          "el": "Αν το πεντάλ του φρένου πάει μέχρι κάτω ή δεν φρενάρει, πάτα το γρήγορα και επανειλημμένα, γιατί μπορεί να ξαναβρεί πίεση. Κατέβασε ταχύτητες μία-μία, για να σε φρενάρει ο κινητήρας. Τράβηξε σταδιακά το χειρόφρενο κρατώντας πατημένο το κουμπί του, ώστε να μη μπλοκάρουν οι πίσω τροχοί. Άναψε αλάρμ, κόρναρε για να προειδοποιήσεις και ψάξε ασφαλή χώρο για να σταματήσεις, για παράδειγμα μια ανηφόρα ή ένα πλατύ έρεισμα.",
+          "en": "If the brake pedal goes to the floor or does not slow the car, pump it quickly and repeatedly, because pressure may return. Change down one gear at a time so the engine slows you. Apply the handbrake gradually while holding its button, so the rear wheels do not lock. Switch on the hazard lights, sound the horn to warn others and look for a safe place to stop, for example an uphill slope or a wide verge."
+        }
+      },
+      {
+        "heading": {
+          "el": "Κλατάρισμα ελαστικού",
+          "en": "Tyre blowout"
+        },
+        "body": {
+          "el": "Με ένα κλατάρισμα το αυτοκίνητο τραβά απότομα προς μία πλευρά. Κράτα το τιμόνι γερά με τα δύο χέρια και μη φρενάρεις απότομα. Άφησε το γκάζι, άφησε το αυτοκίνητο να χάσει ταχύτητα και κράτα την πορεία σου ευθεία. Όταν το ελέγξεις, φρένα απαλά, άναψε φλας και αλάρμ και σταμάτα σε ασφαλές σημείο, μακριά από την κυκλοφορία.",
+          "en": "With a blowout the car pulls sharply to one side. Hold the wheel firmly with both hands and do not brake suddenly. Ease off the gas, let the car lose speed and keep it going straight. Once you have control, brake gently, signal, switch on the hazard lights and stop in a safe place away from traffic."
+        }
+      },
+      {
+        "heading": {
+          "el": "Μετά από βλάβη ή ατύχημα",
+          "en": "After a breakdown or crash"
+        },
+        "body": {
+          "el": "Ο ΚΟΚ σε υποχρεώνει, αν εμπλακείς σε ατύχημα, να σταματήσεις αμέσως χωρίς να δημιουργήσεις νέο κίνδυνο και να πάρεις μέτρα ασφαλείας στον τόπο του ατυχήματος. Αν υπάρχουν τραυματίες, πρέπει να δώσεις την αναγκαία βοήθεια, να ειδοποιήσεις την αστυνομία και να μείνεις μέχρι να έρθει. Επίσης δίνεις τα στοιχεία σου σε όσους εμπλέκονται, αν σου τα ζητήσουν. Ο ευρωπαϊκός αριθμός έκτακτης ανάγκης είναι το 112 και λειτουργεί και στην Ελλάδα.",
+          "en": "If you are involved in a crash, the Greek Highway Code requires you to stop immediately without creating new danger and to take safety measures at the scene. If anyone is injured, you must give the necessary help, notify the police and stay until they arrive. You also give your details to those involved if they ask. The European emergency number is 112 and it works in Greece too."
+        },
+        "bullets": [
+          {
+            "el": "Αλάρμ και τρίγωνο, σε αυτοκινητόδρομο τουλάχιστον 100 μέτρα πίσω.",
+            "en": "Hazard lights and warning triangle, at least 100 metres behind on a motorway."
+          },
+          {
+            "el": "Οι επιβάτες βγαίνουν σε ασφαλές σημείο, μακριά από την κυκλοφορία.",
+            "en": "Passengers get out to a safe place away from traffic."
+          },
+          {
+            "el": "Μη μετακινείς τραυματία εκτός αν κινδυνεύει άμεσα, για παράδειγμα από φωτιά.",
+            "en": "Do not move an injured person unless they are in immediate danger, for example from fire."
+          },
+          {
+            "el": "Κάλεσε 112 και πες καθαρά πού βρίσκεσαι.",
+            "en": "Call 112 and say clearly where you are."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "emergencies-q1",
+        "q": {
+          "el": "Το τιμόνι γίνεται ξαφνικά ελαφρύ ενώ περνάς από νερά σε μεγάλη ταχύτητα. Τι συμβαίνει και τι κάνεις;",
+          "en": "The steering suddenly feels light while driving fast through water. What is happening and what do you do?"
+        },
+        "options": [
+          {
+            "el": "Υδρολίσθηση: αφήνεις απαλά το γκάζι και κρατάς το τιμόνι σταθερό",
+            "en": "Aquaplaning: ease off the gas gently and hold the wheel steady"
+          },
+          {
+            "el": "Βλάβη στο τιμόνι: φρενάρεις δυνατά",
+            "en": "Steering failure: brake hard"
+          },
+          {
+            "el": "Τίποτα σοβαρό: επιταχύνεις για να βγεις γρήγορα",
+            "en": "Nothing serious: accelerate to get through quickly"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Στην υδρολίσθηση τα ελαστικά δεν ακουμπούν την άσφαλτο. Οι απότομες κινήσεις θα προκαλέσουν ολίσθηση όταν ξαναπιάσουν.",
+          "en": "In aquaplaning the tyres lose contact with the asphalt. Sudden inputs will cause a skid when they regain grip."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "emergencies-q2",
+        "q": {
+          "el": "Σκάει το μπροστινό σου λάστιχο στην εθνική οδό. Ποια είναι η πρώτη σωστή αντίδραση;",
+          "en": "Your front tyre bursts on a national road. What is the first correct reaction?"
+        },
+        "options": [
+          {
+            "el": "Φρενάρεις όσο πιο δυνατά μπορείς",
+            "en": "Brake as hard as you can"
+          },
+          {
+            "el": "Κρατάς γερά το τιμόνι, αφήνεις το γκάζι και δεν φρενάρεις απότομα",
+            "en": "Hold the wheel firmly, ease off the gas and do not brake suddenly"
+          },
+          {
+            "el": "Στρίβεις αμέσως στο έρεισμα",
+            "en": "Steer onto the verge immediately"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Το απότομο φρένο με σκασμένο ελαστικό μπορεί να σε βγάλει εκτός δρόμου. Πρώτα ελέγχεις την πορεία.",
+          "en": "Hard braking with a burst tyre can send you off the road. First control the direction."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "emergencies-q3",
+        "q": {
+          "el": "Το πεντάλ του φρένου πηγαίνει μέχρι κάτω χωρίς αποτέλεσμα. Τι κάνεις πρώτα;",
+          "en": "The brake pedal goes to the floor with no effect. What do you do first?"
+        },
+        "options": [
+          {
+            "el": "Σβήνεις τον κινητήρα",
+            "en": "Switch off the engine"
+          },
+          {
+            "el": "Βάζεις νεκρά",
+            "en": "Select neutral"
+          },
+          {
+            "el": "Πατάς το φρένο γρήγορα και επανειλημμένα και κατεβάζεις ταχύτητες",
+            "en": "Pump the brake quickly and repeatedly and change down"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Το πάτημα μπορεί να επαναφέρει πίεση και το κατέβασμα ταχυτήτων φρενάρει με τον κινητήρα. Αν σβήσεις τον κινητήρα, βαραίνει το τιμόνι.",
+          "en": "Pumping may restore pressure and changing down uses engine braking. Switching off the engine makes the steering heavy."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "emergencies-q4",
+        "q": {
+          "el": "Ποιος είναι ο ευρωπαϊκός αριθμός έκτακτης ανάγκης που λειτουργεί και στην Ελλάδα;",
+          "en": "What is the European emergency number that also works in Greece?"
+        },
+        "options": [
+          {
+            "el": "911",
+            "en": "911"
+          },
+          {
+            "el": "112",
+            "en": "112"
+          },
+          {
+            "el": "999",
+            "en": "999"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Το 112 είναι ο ενιαίος ευρωπαϊκός αριθμός έκτακτης ανάγκης, δωρεάν από κάθε τηλέφωνο.",
+          "en": "112 is the single European emergency number, free from any phone."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "emergencies-q5",
+        "q": {
+          "el": "Εμπλέκεσαι σε ατύχημα με τραυματία. Τι σε υποχρεώνει ο ΚΟΚ;",
+          "en": "You are involved in a crash with an injured person. What does the Code require?"
+        },
+        "options": [
+          {
+            "el": "Να φύγεις αν δεν φταις",
+            "en": "To leave if it was not your fault"
+          },
+          {
+            "el": "Μόνο να τηλεφωνήσεις στην ασφαλιστική σου",
+            "en": "Only to call your insurer"
+          },
+          {
+            "el": "Να δώσεις βοήθεια, να ειδοποιήσεις την αστυνομία και να μείνεις μέχρι να έρθει",
+            "en": "To give help, notify the police and stay until they arrive"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Η εγκατάλειψη τραυματία είναι πολύ σοβαρή παράβαση. Μπορείς να απομακρυνθείς μόνο αν είναι αναγκαίο για να ειδοποιήσεις την αστυνομία ή για την περίθαλψη των τραυματιών ή τη δική σου, και τότε αναγγέλλεις το ατύχημα στην αστυνομία το συντομότερο.",
+          "en": "Leaving an injured person is a very serious offence. You may leave only if necessary to notify the police or to get treatment for the injured or yourself, and you must then report the crash to the police as soon as possible."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "emergencies-q6",
+        "q": {
+          "el": "Γλιστρά το πίσω μέρος του αυτοκινήτου προς τα δεξιά. Προς τα πού στρίβεις απαλά το τιμόνι;",
+          "en": "The rear of the car slides to the right. Which way do you gently steer?"
+        },
+        "options": [
+          {
+            "el": "Προς τα δεξιά",
+            "en": "To the right"
+          },
+          {
+            "el": "Προς τα αριστερά",
+            "en": "To the left"
+          },
+          {
+            "el": "Δεν αγγίζεις το τιμόνι",
+            "en": "You do not touch the wheel"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Στρίβεις προς την πλευρά που γλιστρά το πίσω μέρος, ώστε το αυτοκίνητο να ευθυγραμμιστεί ξανά.",
+          "en": "Steer towards the side the rear is sliding, so the car straightens up again."
+        },
+        "difficulty": 3
+      }
+    ]
+  },
+  {
+    "id": "practical-exam",
+    "title": {
+      "el": "Η πρακτική εξέταση στην Ελλάδα",
+      "en": "The Greek practical driving test"
+    },
+    "icon": "exam",
+    "summary": {
+      "el": "Μαθαίνεις από τι αποτελείται η πρακτική εξέταση για δίπλωμα κατηγορίας Β, τι ελέγχει ο εξεταστής και ποια λάθη κοστίζουν.",
+      "en": "You learn what the category B practical test consists of, what the examiner checks and which mistakes cost you."
+    },
+    "sections": [
+      {
+        "heading": {
+          "el": "Η δομή της εξέτασης",
+          "en": "How the test is structured"
+        },
+        "body": {
+          "el": "Σύμφωνα με τον Ν. 4850/2021, η πρακτική εξέταση για την κατηγορία Β έχει τέσσερα μέρη. Τη διενεργεί ένας εξεταστής, με το αυτοκίνητο της σχολής και τον εκπαιδευτή σου μέσα, που χειρίζεται τα διπλά πεντάλ. Πριν ξεκινήσει, μπορείς να οδηγήσεις ελεύθερα έως πέντε λεπτά χωρίς αξιολόγηση, για να εξοικειωθείς. Η εφαρμογή μπορεί να διαφέρει ανά Διεύθυνση Μεταφορών, και το υπουργείο έχει ανακοινώσει νέο σύστημα με κάμερες και ψηφιακή καταγραφή, χωρίς να είναι σαφές αν εφαρμόζεται ήδη παντού, οπότε ρώτα τη σχολή σου τι ισχύει στο δικό σου εξεταστικό κέντρο.",
+          "en": "Under Law 4850/2021, the category B practical test has four parts. It is conducted by one examiner, in the driving school car with your instructor on board operating the dual pedals. Before it begins, you may drive freely for up to five minutes without being assessed, to get used to the car. How it is applied may differ between transport directorates, and the ministry has announced a new system with cameras and digital recording, and it is not clear whether it is in use everywhere yet, so ask your driving school what applies at your test centre."
+        },
+        "bullets": [
+          {
+            "el": "Προετοιμασία και έλεγχοι ασφαλείας του οχήματος, με ερωτήσεις του εξεταστή.",
+            "en": "Preparation and vehicle safety checks, with questions from the examiner."
+          },
+          {
+            "el": "Πορεία με καθοδήγηση σε κανονική κυκλοφορία, που περιλαμβάνει ελιγμούς με όπισθεν.",
+            "en": "Guided drive in normal traffic, including reversing manoeuvres."
+          },
+          {
+            "el": "Δοκιμασία στάθμευσης, με ή χωρίς όπισθεν, σε επιτρεπόμενο χώρο.",
+            "en": "Parking test, with or without reversing, in a permitted area."
+          },
+          {
+            "el": "Πορεία χωρίς καθοδήγηση, με τη βοήθεια πλοηγού, όπου κρίνεται πώς παίρνεις αποφάσεις.",
+            "en": "Independent drive using a navigation device, assessing how you make decisions."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Οι ειδικοί ελιγμοί",
+          "en": "The special manoeuvres"
+        },
+        "body": {
+          "el": "Οι ευρωπαϊκοί κανόνες για τα διπλώματα (Οδηγία 2006/126/ΕΚ) ορίζουν ότι για την κατηγορία Β εξετάζονται τουλάχιστον δύο ελιγμοί, από τους οποίους ο ένας με όπισθεν. Η οδήγηση στον δρόμο πρέπει να διαρκεί τουλάχιστον 25 λεπτά, χωρίς να μετρά ο χρόνος για τους ελέγχους και τους ελιγμούς. Στην πράξη, ζήτα από τον εκπαιδευτή σου να εξασκηθείς σε όλους τους ελιγμούς.",
+          "en": "The European driving licence rules (Directive 2006/126/EC) require at least two manoeuvres for category B, one of them in reverse. Driving on the road must last at least 25 minutes, not counting the time for checks and manoeuvres. In practice, ask your instructor to practise all the manoeuvres with you."
+        },
+        "bullets": [
+          {
+            "el": "Όπισθεν σε ευθεία ή γύρω από γωνία, μένοντας στη σωστή λωρίδα.",
+            "en": "Reversing in a straight line or round a corner, keeping to the correct lane."
+          },
+          {
+            "el": "Αναστροφή του οχήματος με μπροστά και όπισθεν.",
+            "en": "Turning the car to face the opposite way using forward and reverse gears."
+          },
+          {
+            "el": "Στάθμευση και έξοδος από θέση: παράλληλη, πλάγια ή κάθετη, σε επίπεδο, ανηφόρα ή κατηφόρα.",
+            "en": "Parking and leaving a space: parallel, angled or right-angled, on the flat, uphill or downhill."
+          },
+          {
+            "el": "Ακριβές σταμάτημα. Το φρενάρισμα έκτακτης ανάγκης είναι προαιρετικό.",
+            "en": "Stopping accurately. An emergency stop is optional."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Τι αξιολογεί ο εξεταστής",
+          "en": "What the examiner assesses"
+        },
+        "body": {
+          "el": "Ο εξεταστής κρίνει πόσο άνετα χειρίζεσαι το αυτοκίνητο και αν οδηγείς με ασφάλεια μέσα στην κυκλοφορία. Η ίδια Οδηγία ορίζει τα βασικά κριτήρια. Κάνε τις παρατηρήσεις σου εμφανείς, γυρίζοντας το κεφάλι, ώστε ο εξεταστής να βλέπει ότι κοιτάς.",
+          "en": "The examiner judges how easily you handle the car and whether you drive safely in traffic. The same Directive lists the main criteria. Make your observations visible by turning your head, so the examiner can see you are looking."
+        },
+        "bullets": [
+          {
+            "el": "Χειρισμός: συμπλέκτης, γκάζι, φρένα, τιμόνι, ταχύτητες.",
+            "en": "Control: clutch, accelerator, brakes, steering, gears."
+          },
+          {
+            "el": "Παρατήρηση γύρω σου και σωστή χρήση καθρεφτών.",
+            "en": "All-round observation and correct use of mirrors."
+          },
+          {
+            "el": "Προτεραιότητα σε διασταυρώσεις και σε κάθε άλλη περίπτωση.",
+            "en": "Priority at junctions and in every other situation."
+          },
+          {
+            "el": "Σωστή θέση στον δρόμο και απόσταση ασφαλείας.",
+            "en": "Correct road position and safe distance."
+          },
+          {
+            "el": "Ταχύτητα σύμφωνη με τις συνθήκες και τα όρια, πινακίδες, φανάρια και διαγραμμίσεις.",
+            "en": "Speed suited to conditions and limits, signs, traffic lights and road markings."
+          },
+          {
+            "el": "Έγκαιρη σηματοδότηση, έγκαιρο φρενάρισμα και πρόβλεψη.",
+            "en": "Timely signalling, timely braking and anticipation."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Λάθη που συνήθως κοστίζουν",
+          "en": "Mistakes that usually cost you"
+        },
+        "body": {
+          "el": "Γενικά, ένα σοβαρό λάθος που δημιουργεί κίνδυνο ή αναγκάζει τον εξεταστή να επέμβει αρκεί συνήθως για αποτυχία, ενώ τα μικρά λάθη μετρούν κυρίως όταν επαναλαμβάνονται. Τα παρακάτω είναι από τα πιο συνηθισμένα, με βάση τα κριτήρια ασφαλείας. Ρώτα τον εκπαιδευτή σου ποια θεωρούνται σοβαρά στο δικό σου εξεταστικό κέντρο.",
+          "en": "In general, one serious fault that creates danger or forces the examiner to intervene is usually enough to fail, while minor faults count mainly when they are repeated. The following are among the most common, based on the safety criteria. Ask your instructor which ones count as serious at your own test centre."
+        },
+        "bullets": [
+          {
+            "el": "Δεν σταματάς τελείως στο STOP.",
+            "en": "Not stopping completely at a STOP sign."
+          },
+          {
+            "el": "Δεν δίνεις προτεραιότητα σε όχημα ή πεζό.",
+            "en": "Failing to give way to a vehicle or pedestrian."
+          },
+          {
+            "el": "Ξεκινάς ή αλλάζεις λωρίδα χωρίς καθρέφτες και τυφλό σημείο.",
+            "en": "Moving off or changing lanes without checking mirrors and the blind spot."
+          },
+          {
+            "el": "Υπερβαίνεις το όριο ταχύτητας, ιδίως τα 30 χλμ/ώρα στην πόλη.",
+            "en": "Exceeding the speed limit, especially 30 km/h in town."
+          },
+          {
+            "el": "Περνάς συνεχή γραμμή ή κόκκινο φανάρι.",
+            "en": "Crossing a solid line or a red light."
+          },
+          {
+            "el": "Ο εξεταστής αναγκάζεται να επέμβει για την ασφάλεια, ή χτυπάς κράσπεδο ή όχημα στον ελιγμό.",
+            "en": "The examiner has to intervene for safety, or you hit the kerb or a vehicle during a manoeuvre."
+          }
+        ]
+      },
+      {
+        "heading": {
+          "el": "Συμβουλές για την ημέρα της εξέτασης",
+          "en": "Tips for test day"
+        },
+        "body": {
+          "el": "Κοιμήσου καλά και έλα νωρίς, με την ταυτότητά σου και τα έγγραφα που θα σου πει η σχολή. Χρησιμοποίησε τα πέντε λεπτά ελεύθερης οδήγησης για να ηρεμήσεις και να νιώσεις το αυτοκίνητο. Αν δεν καταλάβεις μια οδηγία, ζήτα από τον εξεταστή να την επαναλάβει: οι οδηγίες του πρέπει να είναι κατανοητές. Αν κάνεις ένα μικρό λάθος, μην το σκέφτεσαι και συνέχισε ήρεμα. Μην οδηγείς υπερβολικά αργά, γιατί ο ΚΟΚ απαγορεύει την ασυνήθιστα αργή οδήγηση που εμποδίζει την κυκλοφορία.",
+          "en": "Sleep well and arrive early, with your ID card and the documents your school tells you to bring. Use the five minutes of free driving to calm down and get a feel for the car. If you do not understand an instruction, ask the examiner to repeat it: their instructions must be understandable. If you make a small mistake, do not dwell on it and carry on calmly. Do not drive unusually slowly, because the Code prohibits unusually slow driving that obstructs traffic."
+        },
+        "tip": {
+          "el": "Αν κοπείς, ο νόμος σε υποχρεώνει να κάνεις έναν ελάχιστο αριθμό πρόσθετων μαθημάτων πριν ξαναδώσεις. Δες το σαν ευκαιρία για επιπλέον εξάσκηση.",
+          "en": "If you fail, the law requires a minimum number of extra lessons before you retake. See it as a chance for more practice."
+        }
+      }
+    ],
+    "quiz": [
+      {
+        "id": "practical-exam-q1",
+        "q": {
+          "el": "Από πόσα μέρη αποτελείται η πρακτική εξέταση κατηγορίας Β σύμφωνα με τον Ν. 4850/2021;",
+          "en": "How many parts does the category B practical test have under Law 4850/2021?"
+        },
+        "options": [
+          {
+            "el": "Δύο",
+            "en": "Two"
+          },
+          {
+            "el": "Τέσσερα",
+            "en": "Four"
+          },
+          {
+            "el": "Έξι",
+            "en": "Six"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Προετοιμασία και έλεγχοι, πορεία με καθοδήγηση, δοκιμασία στάθμευσης και πορεία χωρίς καθοδήγηση.",
+          "en": "Preparation and checks, guided drive, parking test and independent drive."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "practical-exam-q2",
+        "q": {
+          "el": "Πόσο τουλάχιστον πρέπει να διαρκεί η οδήγηση στον δρόμο για την κατηγορία Β, σύμφωνα με την ευρωπαϊκή Οδηγία;",
+          "en": "What is the minimum on-road driving time for category B under the EU Directive?"
+        },
+        "options": [
+          {
+            "el": "25 λεπτά",
+            "en": "25 minutes"
+          },
+          {
+            "el": "10 λεπτά",
+            "en": "10 minutes"
+          },
+          {
+            "el": "60 λεπτά",
+            "en": "60 minutes"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Η Οδηγία 2006/126/ΕΚ ορίζει τουλάχιστον 25 λεπτά στον δρόμο, χωρίς τον χρόνο ελέγχων και ελιγμών.",
+          "en": "Directive 2006/126/EC sets at least 25 minutes on the road, excluding checks and manoeuvres."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "practical-exam-q3",
+        "q": {
+          "el": "Πόσοι ειδικοί ελιγμοί εξετάζονται τουλάχιστον στην κατηγορία Β;",
+          "en": "At least how many special manoeuvres are tested for category B?"
+        },
+        "options": [
+          {
+            "el": "Ένας, χωρίς όπισθεν",
+            "en": "One, without reversing"
+          },
+          {
+            "el": "Κανένας",
+            "en": "None"
+          },
+          {
+            "el": "Δύο, από τους οποίους ο ένας με όπισθεν",
+            "en": "Two, one of them in reverse"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Αυτό ορίζει η Οδηγία 2006/126/ΕΚ για την κατηγορία Β.",
+          "en": "This is what Directive 2006/126/EC sets for category B."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "practical-exam-q4",
+        "q": {
+          "el": "Τι επιτρέπεται να κάνεις πριν αρχίσει η αξιολόγηση;",
+          "en": "What may you do before assessment begins?"
+        },
+        "options": [
+          {
+            "el": "Να οδηγήσεις ελεύθερα έως πέντε λεπτά για εξοικείωση",
+            "en": "Drive freely for up to five minutes to get used to the car"
+          },
+          {
+            "el": "Να διαλέξεις μόνος σου τη διαδρομή",
+            "en": "Choose the route yourself"
+          },
+          {
+            "el": "Να οδηγήσει ο εκπαιδευτής για λίγο",
+            "en": "Let the instructor drive for a while"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "el": "Ο Ν. 4850/2021 επιτρέπει έως πέντε λεπτά ελεύθερης οδήγησης χωρίς αξιολόγηση, που μετρούν στον συνολικό χρόνο.",
+          "en": "Law 4850/2021 allows up to five minutes of unassessed free driving, which counts towards the total time."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "practical-exam-q5",
+        "q": {
+          "el": "Κατά την εξέταση φτάνεις σε STOP χωρίς άλλα οχήματα. Τι κάνεις;",
+          "en": "During the test you reach a STOP sign with no other vehicles around. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Επιβραδύνεις πολύ και περνάς",
+            "en": "Slow down a lot and go through"
+          },
+          {
+            "el": "Σταματάς τελείως στη γραμμή, κοιτάς και μετά προχωράς",
+            "en": "Stop completely at the line, look, then proceed"
+          },
+          {
+            "el": "Περνάς κανονικά, αφού δεν έρχεται κανείς",
+            "en": "Go through normally since nobody is coming"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Η μη πλήρης στάση στο STOP είναι από τα πιο συνηθισμένα λάθη και θεωρείται συνήθως σοβαρό.",
+          "en": "Not stopping fully at STOP is one of the most common faults and is usually treated as serious."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "practical-exam-q6",
+        "q": {
+          "el": "Δεν κατάλαβες την οδηγία του εξεταστή. Τι κάνεις;",
+          "en": "You did not understand the examiner's instruction. What do you do?"
+        },
+        "options": [
+          {
+            "el": "Μαντεύεις και στρίβεις κάπου",
+            "en": "Guess and turn somewhere"
+          },
+          {
+            "el": "Σταματάς στη μέση του δρόμου",
+            "en": "Stop in the middle of the road"
+          },
+          {
+            "el": "Ζητάς ήρεμα να την επαναλάβει",
+            "en": "Calmly ask them to repeat it"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "el": "Ο νόμος ορίζει ότι οι οδηγίες του εξεταστή πρέπει να είναι κατανοητές, άρα είναι λογικό να ζητήσεις επανάληψη. Ένας λάθος ελιγμός από μαντεψιά ή ένα σταμάτημα στη μέση του δρόμου μπορεί να μετρήσει ως λάθος.",
+          "en": "The law says the examiner's instructions must be understandable, so asking for a repeat is reasonable. A wrong manoeuvre from guessing, or stopping in the middle of the road, may count as a fault."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "practical-exam-q7",
+        "q": {
+          "el": "Γιατί είναι κακή ιδέα να οδηγείς πολύ πιο αργά από το όριο στην εξέταση, «για σιγουριά»;",
+          "en": "Why is it a bad idea to drive far below the limit in the test just to be safe?"
+        },
+        "options": [
+          {
+            "el": "Γιατί καίει περισσότερη βενζίνη",
+            "en": "Because it burns more fuel"
+          },
+          {
+            "el": "Γιατί ο ΚΟΚ απαγορεύει την ασυνήθιστα αργή οδήγηση που εμποδίζει την κυκλοφορία",
+            "en": "Because the Code prohibits unusually slow driving that obstructs traffic"
+          },
+          {
+            "el": "Δεν υπάρχει πρόβλημα, όσο πιο αργά τόσο καλύτερα",
+            "en": "There is no problem, the slower the better"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "el": "Η ταχύτητα πρέπει να ταιριάζει στις συνθήκες. Η υπερβολικά αργή οδήγηση χωρίς λόγο εμποδίζει τους άλλους και δείχνει έλλειψη αυτοπεποίθησης.",
+          "en": "Speed must suit the conditions. Driving far too slowly without reason obstructs others and shows a lack of confidence."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+]

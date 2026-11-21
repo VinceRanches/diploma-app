@@ -1,0 +1,25 @@
+node_modules/
+dist/
+coverage/
+release/
+*.log
+.DS_Store
+test-results/
+playwright-report/
+
+# Android build output and local SDK path
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+
+# Official material (copyrighted): built locally from the Ministry's downloads, see README
+src/data/bank.json
+src/data/chapters.json
+src/data/sections.json
+src/data/signs.json
+public/bank/
+public/book/
+scripts/official/book-signs.json
+scripts/official/picture-links.json
+scripts/research/out/*.md

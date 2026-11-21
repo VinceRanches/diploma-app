@@ -1,0 +1,984 @@
+[
+  {
+    "code": "Κ-1α",
+    "codeLatin": "K-1a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη αριστερή στροφή.",
+    "nameEn": "Dangerous bend to the left.",
+    "explainEl": "Μειώστε ταχύτητα πριν από τη στροφή και κρατήστε τη δεξιά πλευρά της οδού.",
+    "explainEn": "Slow down before the bend and keep to the right-hand side of the road.",
+    "shape": "triangle",
+    "image": "downloads/K/K-1a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-1%CE%B1.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-1δ",
+      "Κ-2α"
+    ]
+  },
+  {
+    "code": "Κ-1δ",
+    "codeLatin": "K-1d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη δεξιά στροφή.",
+    "nameEn": "Dangerous bend to the right.",
+    "explainEl": "Μειώστε ταχύτητα πριν από τη στροφή και κρατήστε τη δεξιά πλευρά της οδού.",
+    "explainEn": "Slow down before the bend and keep to the right-hand side of the road.",
+    "shape": "triangle",
+    "image": "downloads/K/K-1d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-1%CE%B4.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-1α",
+      "Κ-2δ"
+    ]
+  },
+  {
+    "code": "Κ-2α",
+    "codeLatin": "K-2a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη αριστερά.",
+    "nameEn": "Two dangerous bends in opposite directions or in succession, the first to the left.",
+    "explainEl": "Ακολουθούν δύο συνεχόμενες στροφές, η πρώτη αριστερά. Μειώστε ταχύτητα πριν από την πρώτη στροφή.",
+    "explainEn": "Two consecutive bends follow, the first to the left. Reduce speed before the first bend.",
+    "shape": "triangle",
+    "image": "downloads/K/K-2a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-2%CE%B1.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-2δ",
+      "Κ-1α"
+    ]
+  },
+  {
+    "code": "Κ-2δ",
+    "codeLatin": "K-2d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη δεξιά.",
+    "nameEn": "Two dangerous bends in opposite directions or in succession, the first to the right.",
+    "explainEl": "Ακολουθούν δύο συνεχόμενες στροφές, η πρώτη δεξιά. Μειώστε ταχύτητα πριν από την πρώτη στροφή.",
+    "explainEn": "Two consecutive bends follow, the first to the right. Reduce speed before the first bend.",
+    "shape": "triangle",
+    "image": "downloads/K/K-2d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-2%CE%B4.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-2α",
+      "Κ-1δ"
+    ]
+  },
+  {
+    "code": "Κ-3",
+    "codeLatin": "K-3",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη κατωφέρεια (με κλίση ως η αναγραφόμενη στην πινακίδα).",
+    "nameEn": "Dangerous descent (with the gradient shown on the sign).",
+    "explainEl": "Ακολουθεί απότομη κατηφόρα με την κλίση που γράφει η πινακίδα. Μειώστε ταχύτητα και χρησιμοποιήστε χαμηλή σχέση για να φρενάρει ο κινητήρας.",
+    "explainEn": "A steep downhill follows, with the gradient shown on the sign. Slow down and use a lower gear so the engine helps you brake.",
+    "shape": "triangle",
+    "image": "downloads/K/K-3.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-3.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-4",
+      "Κ-11"
+    ]
+  },
+  {
+    "code": "Κ-4",
+    "codeLatin": "K-4",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Απότομη ανωφέρεια (με κλίση ως η αναγραφόμενη στην πινακίδα).",
+    "nameEn": "Steep ascent (with the gradient shown on the sign).",
+    "explainEl": "Ακολουθεί απότομη ανηφόρα με την κλίση που γράφει η πινακίδα. Επιλέξτε έγκαιρα κατάλληλη σχέση και προσέξτε την περιορισμένη ορατότητα στην κορυφή.",
+    "explainEn": "A steep uphill follows, with the gradient shown on the sign. Choose a suitable gear in time and watch for limited visibility at the crest.",
+    "shape": "triangle",
+    "image": "downloads/K/K-4.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_%CE%9A-4.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-3",
+      "Κ-10"
+    ]
+  },
+  {
+    "code": "Κ-5",
+    "codeLatin": "K-5",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη στένωση οδοστρώματος και στις δύο πλευρές.",
+    "nameEn": "Dangerous narrowing of the carriageway on both sides.",
+    "explainEl": "Το οδόστρωμα στενεύει και από τις δύο πλευρές. Μειώστε ταχύτητα και προσέξτε τα αντίθετα ερχόμενα οχήματα.",
+    "explainEn": "The carriageway narrows from both sides. Slow down and watch for oncoming vehicles.",
+    "shape": "triangle",
+    "image": "downloads/K/K-5.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-5.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-6α",
+      "Κ-6δ"
+    ]
+  },
+  {
+    "code": "Κ-6α",
+    "codeLatin": "K-6a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη στένωση οδοστρώματος στην αριστερή πλευρά.",
+    "nameEn": "Dangerous narrowing of the carriageway on the left side.",
+    "explainEl": "Το οδόστρωμα στενεύει από την αριστερή πλευρά. Μειώστε ταχύτητα και προσέξτε τα οχήματα που πρέπει να μετακινηθούν δεξιά.",
+    "explainEn": "The carriageway narrows on the left side. Slow down and watch for vehicles that have to move over to the right.",
+    "shape": "triangle",
+    "image": "downloads/K/K-6a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-6a.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-6δ",
+      "Κ-5"
+    ]
+  },
+  {
+    "code": "Κ-6δ",
+    "codeLatin": "K-6d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη στένωση οδοστρώματος στη δεξιά πλευρά.",
+    "nameEn": "Dangerous narrowing of the carriageway on the right side.",
+    "explainEl": "Το οδόστρωμα στενεύει από τη δεξιά πλευρά. Μειώστε ταχύτητα και μετακινηθείτε με ασφάλεια προς τα αριστερά, χωρίς να εμποδίσετε την αντίθετη κυκλοφορία.",
+    "explainEn": "The carriageway narrows on the right side. Slow down and move safely to the left without obstructing oncoming traffic.",
+    "shape": "triangle",
+    "image": "downloads/K/K-6d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-6d.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-6α",
+      "Κ-5"
+    ]
+  },
+  {
+    "code": "Κ-7",
+    "codeLatin": "K-7",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κινητή γέφυρα.",
+    "nameEn": "Movable bridge.",
+    "explainEl": "Μπροστά υπάρχει γέφυρα που μπορεί να ανοίγει (π.χ. για διέλευση πλοίων). Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε.",
+    "explainEn": "There is a bridge ahead that can open (for example to let ships pass). Slow down and be ready to stop.",
+    "shape": "triangle",
+    "image": "downloads/K/K-7.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-7.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-8",
+      "Κ-33"
+    ]
+  },
+  {
+    "code": "Κ-8",
+    "codeLatin": "K-8",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Η οδός οδηγεί σε αποβάθρα ή όχθη ποταμού.",
+    "nameEn": "The road leads onto a quay or a river bank.",
+    "explainEl": "Ο δρόμος καταλήγει σε αποβάθρα ή όχθη ποταμού, με κίνδυνο πτώσης στο νερό. Μειώστε ταχύτητα, ιδίως τη νύχτα ή με κακή ορατότητα.",
+    "explainEn": "The road ends at a quay or river bank, with a risk of driving into the water. Slow down, especially at night or in poor visibility.",
+    "shape": "triangle",
+    "image": "downloads/K/K-8.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-8.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-7",
+      "Κ-38δ"
+    ]
+  },
+  {
+    "code": "Κ-9",
+    "codeLatin": "K-9",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνο ανώμαλο οδόστρωμα, σε κακή κατάσταση, με λάκκους, κ.λπ.",
+    "nameEn": "Dangerous uneven road surface, in poor condition, with potholes, etc.",
+    "explainEl": "Ο δρόμος έχει λακκούβες ή φθορές. Μειώστε ταχύτητα και κρατήστε σταθερά το τιμόνι.",
+    "explainEn": "The road has potholes or damage. Slow down and keep a firm grip on the steering wheel.",
+    "shape": "triangle",
+    "image": "downloads/K/K-9.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-9.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-10",
+      "Κ-11"
+    ]
+  },
+  {
+    "code": "Κ-10",
+    "codeLatin": "K-10",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνο υπερυψωμένο οδόστρωμα ή απότομη κυρτή αλλαγή της κατά μήκος κλίσης της οδού.",
+    "nameEn": "Dangerous raised road surface (hump) or sharp convex change in the longitudinal gradient of the road.",
+    "explainEl": "Μπροστά υπάρχει καμπούρα ή απότομο ύψωμα (π.χ. σαμαράκι). Μειώστε ταχύτητα· πίσω από την κορυφή η ορατότητα είναι περιορισμένη.",
+    "explainEn": "There is a hump or sharp rise ahead (for example a speed bump). Slow down; visibility beyond the crest is limited.",
+    "shape": "triangle",
+    "image": "downloads/K/K-10.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-10.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-11",
+      "Κ-9"
+    ]
+  },
+  {
+    "code": "Κ-11",
+    "codeLatin": "K-11",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνο κάθετο ρείθρο (αυλάκι) ή απότομη κοίλη αλλαγής της κατά μήκος κλίσης της οδού.",
+    "nameEn": "Dangerous transverse gutter (channel) across the road or sharp concave change in the longitudinal gradient of the road.",
+    "explainEl": "Μπροστά υπάρχει αυλάκι που διασχίζει τον δρόμο ή απότομο βύθισμα. Μειώστε ταχύτητα για να μη χτυπήσει ή αναπηδήσει το όχημα.",
+    "explainEn": "There is a channel crossing the road or a sudden dip ahead. Slow down so the vehicle does not bottom out or bounce.",
+    "shape": "triangle",
+    "image": "downloads/K/K-11.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-11.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-10",
+      "Κ-9"
+    ]
+  },
+  {
+    "code": "Κ-12",
+    "codeLatin": "K-12",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Ολισθηρό οδόστρωμα.",
+    "nameEn": "Slippery road surface.",
+    "explainEl": "Ο δρόμος μπορεί να γλιστράει (π.χ. με βροχή ή πάγο). Μειώστε ταχύτητα, αυξήστε την απόσταση και αποφύγετε απότομο φρενάρισμα ή στρίψιμο.",
+    "explainEn": "The road may be slippery (for example in rain or ice). Slow down, increase your following distance and avoid sudden braking or steering.",
+    "shape": "triangle",
+    "image": "downloads/K/K-12.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-12.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-13",
+      "Κ-9"
+    ]
+  },
+  {
+    "code": "Κ-13",
+    "codeLatin": "K-13",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνη εκτίναξη χαλίκων (ασύνδετο αμμοχάλικο).",
+    "nameEn": "Dangerous loose chippings being thrown up (loose gravel).",
+    "explainEl": "Στο οδόστρωμα υπάρχουν χαλίκια που μπορεί να εκτιναχθούν από τους τροχούς. Μειώστε ταχύτητα και αυξήστε την απόσταση από το προπορευόμενο όχημα.",
+    "explainEn": "There is loose gravel on the road that wheels can throw up. Slow down and increase the distance from the vehicle in front.",
+    "shape": "triangle",
+    "image": "downloads/K/K-13.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-13.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-12",
+      "Κ-14"
+    ]
+  },
+  {
+    "code": "Κ-14",
+    "codeLatin": "K-14",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος από πτώση βράχων και από την παρουσία τους στο οδόστρωμα.",
+    "nameEn": "Danger of falling rocks and of rocks lying on the road.",
+    "explainEl": "Μπορεί να πέσουν πέτρες ή να υπάρχουν βράχοι στον δρόμο. Οδηγείτε με προσοχή και μη σταθμεύετε στο σημείο.",
+    "explainEn": "Rocks may fall or be lying on the road. Drive carefully and do not stop or park there.",
+    "shape": "triangle",
+    "image": "downloads/K/K-14.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-14.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-13",
+      "Κ-38δ"
+    ]
+  },
+  {
+    "code": "Κ-15",
+    "codeLatin": "K-15",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω διάβασης πεζών.",
+    "nameEn": "Danger due to a pedestrian crossing.",
+    "explainEl": "Πλησιάζετε διάβαση πεζών. Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε για τους πεζούς.",
+    "explainEn": "You are approaching a pedestrian crossing. Slow down and be ready to stop for pedestrians.",
+    "shape": "triangle",
+    "image": "downloads/K/K-15.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-15.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-16",
+      "Κ-43",
+      "Κ-44"
+    ]
+  },
+  {
+    "code": "Κ-16",
+    "codeLatin": "K-16",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω συχνής κίνησης παιδιών (σχολεία, γήπεδα, κ.λπ.).",
+    "nameEn": "Danger due to frequent movement of children (schools, sports grounds, etc.).",
+    "explainEl": "Στην περιοχή κινούνται συχνά παιδιά, που μπορεί να βγουν ξαφνικά στον δρόμο. Μειώστε πολύ την ταχύτητα και να είστε έτοιμοι να σταματήσετε.",
+    "explainEn": "Children often move around here and may suddenly step into the road. Slow down a lot and be ready to stop.",
+    "shape": "triangle",
+    "image": "downloads/K/K-16.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-16.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-15",
+      "Κ-17"
+    ]
+  },
+  {
+    "code": "Κ-17",
+    "codeLatin": "K-17",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω συχνής εισόδου ή διάβασης ποδηλατιστών.",
+    "nameEn": "Danger due to cyclists frequently entering or crossing the road.",
+    "explainEl": "Ποδηλάτες μπαίνουν συχνά ή διασχίζουν τον δρόμο. Μειώστε ταχύτητα και αφήστε αρκετό πλευρικό χώρο όταν τους προσπερνάτε.",
+    "explainEn": "Cyclists often enter or cross the road here. Slow down and leave enough side clearance when passing them.",
+    "shape": "triangle",
+    "image": "downloads/K/K-17.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-17.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-43",
+      "Κ-44",
+      "Κ-16"
+    ]
+  },
+  {
+    "code": "Κ-18",
+    "codeLatin": "K-18",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος από τη διέλευση οικόσιτων ζώων.",
+    "nameEn": "Danger from domestic animals crossing.",
+    "explainEl": "Μπορεί να βρεθούν στον δρόμο οικόσιτα ζώα (π.χ. αγελάδες, πρόβατα). Μειώστε ταχύτητα και περάστε αργά, χωρίς κόρνες που τα τρομάζουν.",
+    "explainEn": "Farm animals (for example cows or sheep) may be on the road. Slow down and pass slowly, without using the horn to scare them.",
+    "shape": "triangle",
+    "image": "downloads/K/K-18.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-18.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-19",
+      "Κ-16"
+    ]
+  },
+  {
+    "code": "Κ-19",
+    "codeLatin": "K-19",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος από τη διέλευση άγριων ζώων.",
+    "nameEn": "Danger from wild animals crossing.",
+    "explainEl": "Μπορεί να πεταχτούν ξαφνικά άγρια ζώα στον δρόμο, ιδίως τη νύχτα. Μειώστε ταχύτητα και προσέχετε τις άκρες του δρόμου.",
+    "explainEn": "Wild animals may suddenly appear on the road, especially at night. Slow down and watch the roadsides.",
+    "shape": "triangle",
+    "image": "downloads/K/K-19.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-19.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-18",
+      "Κ-16"
+    ]
+  },
+  {
+    "code": "Κ-20",
+    "codeLatin": "K-20",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω εκτελούμενων εργασιών στην οδό.",
+    "nameEn": "Danger due to roadworks in progress.",
+    "explainEl": "Εκτελούνται έργα στον δρόμο. Μειώστε ταχύτητα, προσέξτε τους εργαζόμενους και ακολουθήστε την προσωρινή σήμανση.",
+    "explainEn": "Roadworks are in progress. Slow down, watch out for workers and follow the temporary signs.",
+    "shape": "triangle",
+    "image": "downloads/K/K-20.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-20.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-25",
+      "Κ-9"
+    ]
+  },
+  {
+    "code": "Κ-21",
+    "codeLatin": "K-21",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Προσοχή, κόμβος ή θέση όπου η κυκλοφορία ρυθμίζεται με τρίχρωμη φωτεινή σηματοδότηση.",
+    "nameEn": "Caution: junction or location where traffic is controlled by three-colour traffic lights.",
+    "explainEl": "Πλησιάζετε φανάρια που μπορεί να μην είναι ορατά από μακριά. Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε.",
+    "explainEn": "You are approaching traffic lights that may not be visible from far away. Slow down and be ready to stop.",
+    "shape": "triangle",
+    "image": "downloads/K/K-21.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-21.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-26",
+      "Κ-25"
+    ]
+  },
+  {
+    "code": "Κ-22",
+    "codeLatin": "K-22",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω χαμηλής πτήσης προσγειούμενων ή απογειούμενων αεροσκαφών.",
+    "nameEn": "Danger due to low-flying aircraft landing or taking off.",
+    "explainEl": "Κοντά σε αεροδρόμιο τα αεροσκάφη περνούν χαμηλά και ο θόρυβος ή η ξαφνική εμφάνισή τους μπορεί να σας αιφνιδιάσει. Μη σταματάτε και μη χάνετε την προσοχή σας από τον δρόμο.",
+    "explainEn": "Near an airport aircraft pass low and their noise or sudden appearance can startle you. Do not stop and keep your attention on the road.",
+    "shape": "triangle",
+    "image": "downloads/K/K-22.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-22.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-23",
+      "Κ-42"
+    ]
+  },
+  {
+    "code": "Κ-23",
+    "codeLatin": "K-23",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω συχνού ισχυρού ανέμου (που έχει την κατεύθυνση που δείχνει το ανεμούριο).",
+    "nameEn": "Danger due to frequent strong wind (blowing in the direction shown by the windsock).",
+    "explainEl": "Συχνά φυσά δυνατός πλευρικός άνεμος από την κατεύθυνση που δείχνει το ανεμούριο. Κρατήστε σταθερά το τιμόνι και μειώστε ταχύτητα, ιδίως σε γέφυρες και ανοιχτά σημεία.",
+    "explainEn": "Strong crosswinds often blow from the direction shown by the windsock. Hold the steering wheel firmly and slow down, especially on bridges and exposed stretches.",
+    "shape": "triangle",
+    "image": "downloads/K/K-23.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-23.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-22",
+      "Κ-42"
+    ]
+  },
+  {
+    "code": "Κ-24",
+    "codeLatin": "K-24",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Προαναγγελία διπλής κυκλοφορίας. Η πινακίδα αυτή σημαίνει επικείμενη είσοδο από μονόδρομο ή από τμήμα οδού που περιλαμβάνει δύο καταστρώματα χωρισμένα ανά κατεύθυνση με μεσαία διαχωριστική νησίδα, σε τμήμα οδού με κυκλοφορία επί του αυτού οδοστρώματος προς τις δύο κατευθύνσεις, προσωρινά ή μόνιμα.",
+    "nameEn": "Advance warning of two-way traffic: you are about to leave a one-way road, or a road with two carriageways separated by a central reserve, and enter a section where traffic in both directions uses the same carriageway, temporarily or permanently.",
+    "explainEl": "Από εδώ και πέρα θα υπάρχουν αντίθετα ερχόμενα οχήματα στο ίδιο οδόστρωμα. Κρατήστε τη δεξιά πλευρά και προσέξτε στις προσπεράσεις.",
+    "explainEn": "From here on there will be oncoming vehicles on the same carriageway. Keep to the right and take care when overtaking.",
+    "shape": "triangle",
+    "image": "downloads/K/K-24.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-24.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-30",
+      "Κ-39"
+    ]
+  },
+  {
+    "code": "Κ-25",
+    "codeLatin": "K-25",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Προσοχή, άλλοι κίνδυνοι (μη δηλούμενοι στις πινακίδες Κ-1 έως Κ-24).",
+    "nameEn": "Caution: other dangers (not indicated by signs K-1 to K-24).",
+    "explainEl": "Προειδοποιεί για κίνδυνο που δεν καλύπτεται από τις άλλες πινακίδες κινδύνου· συχνά συνοδεύεται από πρόσθετη πινακίδα που τον περιγράφει. Μειώστε ταχύτητα και προσέξτε.",
+    "explainEn": "Warns of a danger not covered by the other warning signs; it is often accompanied by an additional plate describing it. Slow down and pay attention.",
+    "shape": "triangle",
+    "image": "downloads/K/K-25.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-25.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-20",
+      "Κ-21"
+    ]
+  },
+  {
+    "code": "Κ-26",
+    "codeLatin": "K-26",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Προσοχή, διασταύρωση όπου ισχύει η προτεραιότητα από δεξιά.",
+    "nameEn": "Caution: intersection where priority to the right applies.",
+    "explainEl": "Στη διασταύρωση που ακολουθεί πρέπει να δώσετε προτεραιότητα στα οχήματα που έρχονται από τα δεξιά σας.",
+    "explainEn": "At the intersection ahead you must give way to vehicles coming from your right.",
+    "shape": "triangle",
+    "image": "downloads/K/K-26.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-26.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-27",
+      "Κ-36",
+      "Κ-21"
+    ]
+  },
+  {
+    "code": "Κ-27",
+    "codeLatin": "K-27",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Διασταύρωση με οδό, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+    "nameEn": "Intersection with a road whose users must give way.",
+    "explainEl": "Στη διασταύρωση που ακολουθεί έχετε προτεραιότητα: τα οχήματα από τον κάθετο δρόμο πρέπει να σας την παραχωρήσουν. Παραμένετε όμως προσεκτικοί.",
+    "explainEn": "You have priority at the intersection ahead: vehicles on the crossing road must give way to you. Still stay alert.",
+    "shape": "triangle",
+    "image": "downloads/K/K-27.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-27.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-26",
+      "Κ-28α",
+      "Κ-28δ"
+    ]
+  },
+  {
+    "code": "Κ-28α",
+    "codeLatin": "K-28a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Διακλάδωση με κάθετη οδό αριστερά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+    "nameEn": "Junction with a side road at right angles on the left, whose users must give way.",
+    "explainEl": "Από αριστερά συμβάλλει κάθετος δρόμος· τα οχήματα από αυτόν πρέπει να σας δώσουν προτεραιότητα. Προσέξτε όσους βγαίνουν από αυτόν.",
+    "explainEn": "A side road joins at right angles from the left; vehicles on it must give way to you. Watch for vehicles pulling out.",
+    "shape": "triangle",
+    "image": "downloads/K/K-28a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-28a.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-28δ",
+      "Κ-29α",
+      "Κ-27"
+    ]
+  },
+  {
+    "code": "Κ-28δ",
+    "codeLatin": "K-28d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Διακλάδωση με κάθετη οδό δεξιά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+    "nameEn": "Junction with a side road at right angles on the right, whose users must give way.",
+    "explainEl": "Από δεξιά συμβάλλει κάθετος δρόμος· τα οχήματα από αυτόν πρέπει να σας δώσουν προτεραιότητα. Προσέξτε όσους βγαίνουν από αυτόν.",
+    "explainEn": "A side road joins at right angles from the right; vehicles on it must give way to you. Watch for vehicles pulling out.",
+    "shape": "triangle",
+    "image": "downloads/K/K-28d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-28d.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-28α",
+      "Κ-29δ",
+      "Κ-27"
+    ]
+  },
+  {
+    "code": "Κ-29α",
+    "codeLatin": "K-29a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Διακλάδωση με λοξή οδό αριστερά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+    "nameEn": "Junction with an oblique side road on the left, whose users must give way.",
+    "explainEl": "Από αριστερά συμβάλλει λοξός δρόμος· τα οχήματα από αυτόν πρέπει να σας δώσουν προτεραιότητα. Προσέξτε όσους εισέρχονται στον δρόμο σας.",
+    "explainEn": "An oblique side road joins from the left; vehicles on it must give way to you. Watch for vehicles merging into your road.",
+    "shape": "triangle",
+    "image": "downloads/K/K-29a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-29a.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-29δ",
+      "Κ-28α"
+    ]
+  },
+  {
+    "code": "Κ-29δ",
+    "codeLatin": "K-29d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Διακλάδωση με λοξή οδό δεξιά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+    "nameEn": "Junction with an oblique side road on the right, whose users must give way.",
+    "explainEl": "Από δεξιά συμβάλλει λοξός δρόμος· τα οχήματα από αυτόν πρέπει να σας δώσουν προτεραιότητα. Προσέξτε όσους εισέρχονται στον δρόμο σας.",
+    "explainEn": "An oblique side road joins from the right; vehicles on it must give way to you. Watch for vehicles merging into your road.",
+    "shape": "triangle",
+    "image": "downloads/K/K-29d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-29d.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-29α",
+      "Κ-28δ"
+    ]
+  },
+  {
+    "code": "Κ-30",
+    "codeLatin": "K-30",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων οδικών κόμβων",
+    "nameEl": "Προσέγγιση σε κυκλική υποχρεωτική πορεία.",
+    "nameEn": "Approach to a compulsory circular route (roundabout).",
+    "explainEl": "Πλησιάζετε κυκλικό κόμβο. Μειώστε ταχύτητα και ακολουθήστε την κυκλική πορεία προς την κατεύθυνση των βελών.",
+    "explainEn": "You are approaching a roundabout. Slow down and follow the circular route in the direction of the arrows.",
+    "shape": "triangle",
+    "image": "downloads/K/K-30.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-30.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-24",
+      "Κ-26"
+    ]
+  },
+  {
+    "code": "Κ-31",
+    "codeLatin": "K-31",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης ή διάβασης τροχιοδρόμου με κινητά φράγματα.",
+    "nameEn": "Danger due to a level railway or tramway crossing with movable barriers.",
+    "explainEl": "Πλησιάζετε σιδηροδρομική διάβαση με μπάρες. Μειώστε ταχύτητα και σταματήστε όταν οι μπάρες κατεβαίνουν ή είναι κατεβασμένες ή όταν αναβοσβήνουν τα φώτα.",
+    "explainEn": "You are approaching a level crossing with barriers. Slow down and stop when the barriers are lowering or down, or when the lights are flashing.",
+    "shape": "triangle",
+    "image": "downloads/K/K-31.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-31.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-32",
+      "Κ-41"
+    ]
+  },
+  {
+    "code": "Κ-32",
+    "codeLatin": "K-32",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης χωρίς κινητά φράγματα.",
+    "nameEn": "Danger due to a level railway crossing without movable barriers.",
+    "explainEl": "Πλησιάζετε σιδηροδρομική διάβαση χωρίς μπάρες. Μειώστε ταχύτητα, κοιτάξτε και ακούστε προς τις δύο κατευθύνσεις και περάστε μόνο αν δεν έρχεται τρένο.",
+    "explainEn": "You are approaching a level crossing without barriers. Slow down, look and listen in both directions, and cross only if no train is coming.",
+    "shape": "triangle",
+    "image": "downloads/K/K-32.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-32.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-31",
+      "Κ-41",
+      "Κ-36"
+    ]
+  },
+  {
+    "code": "Κ-33",
+    "codeLatin": "K-33",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Πρόσθετες επαναληπτικές πινακίδες στις προσβάσεις ισόπεδων σιδηροδρομικών διαβάσεων ή κινητών γεφυρών, οι οποίες δηλώνουν την προσέγγιση σε αυτές.",
+    "nameEn": "Additional repeater signs on the approaches to level railway crossings or movable bridges, indicating that you are approaching them.",
+    "explainEl": "Ορθογώνια πινακίδα με τρεις λοξές κόκκινες λωρίδες: η πρώτη (πιο μακρινή) από τις τρεις επαναληπτικές πινακίδες πριν από ισόπεδη σιδηροδρομική διάβαση ή κινητή γέφυρα. Αρχίστε να μειώνετε ταχύτητα. Οι Κ-33, Κ-34 και Κ-35 έχουν την ίδια επίσημη σημασία· διαφέρουν μόνο στον αριθμό λωρίδων (απόσταση).",
+    "explainEn": "Rectangular board with three red diagonal stripes: the first (farthest) of the three repeater boards before a level railway crossing or a movable bridge. Start slowing down. K-33, K-34 and K-35 share one official meaning; they differ only in the number of stripes (distance).",
+    "shape": "rectangle",
+    "image": "downloads/K/K-33.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-33.svg",
+    "license": "CC BY-SA 4.0",
+    "similar": [
+      "Κ-31",
+      "Κ-32",
+      "Κ-36"
+    ],
+    "sameMeaningAs": [
+      "Κ-34",
+      "Κ-35"
+    ]
+  },
+  {
+    "code": "Κ-34",
+    "codeLatin": "K-34",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Πρόσθετες επαναληπτικές πινακίδες στις προσβάσεις ισόπεδων σιδηροδρομικών διαβάσεων ή κινητών γεφυρών, οι οποίες δηλώνουν την προσέγγιση σε αυτές.",
+    "nameEn": "Additional repeater signs on the approaches to level railway crossings or movable bridges, indicating that you are approaching them.",
+    "explainEl": "Ορθογώνια πινακίδα με δύο λοξές κόκκινες λωρίδες: η μεσαία επαναληπτική πινακίδα πριν από ισόπεδη σιδηροδρομική διάβαση ή κινητή γέφυρα. Η διάβαση ή η γέφυρα πλησιάζει. Οι Κ-33, Κ-34 και Κ-35 έχουν την ίδια επίσημη σημασία· διαφέρουν μόνο στον αριθμό λωρίδων (απόσταση).",
+    "explainEn": "Rectangular board with two red diagonal stripes: the middle repeater board before a level railway crossing or a movable bridge. The crossing or bridge is getting closer. K-33, K-34 and K-35 share one official meaning; they differ only in the number of stripes (distance).",
+    "shape": "rectangle",
+    "image": "downloads/K/K-34.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-34.svg",
+    "license": "CC BY-SA 4.0",
+    "similar": [
+      "Κ-31",
+      "Κ-32",
+      "Κ-36"
+    ],
+    "sameMeaningAs": [
+      "Κ-33",
+      "Κ-35"
+    ]
+  },
+  {
+    "code": "Κ-35",
+    "codeLatin": "K-35",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Πρόσθετες επαναληπτικές πινακίδες στις προσβάσεις ισόπεδων σιδηροδρομικών διαβάσεων ή κινητών γεφυρών, οι οποίες δηλώνουν την προσέγγιση σε αυτές.",
+    "nameEn": "Additional repeater signs on the approaches to level railway crossings or movable bridges, indicating that you are approaching them.",
+    "explainEl": "Ορθογώνια πινακίδα με μία λοξή κόκκινη λωρίδα: η τελευταία (πιο κοντινή) επαναληπτική πινακίδα πριν από ισόπεδη σιδηροδρομική διάβαση ή κινητή γέφυρα. Να είστε έτοιμοι να σταματήσετε. Οι Κ-33, Κ-34 και Κ-35 έχουν την ίδια επίσημη σημασία· διαφέρουν μόνο στον αριθμό λωρίδων (απόσταση).",
+    "explainEn": "Rectangular board with one red diagonal stripe: the last (closest) repeater board before a level railway crossing or a movable bridge. Be ready to stop. K-33, K-34 and K-35 share one official meaning; they differ only in the number of stripes (distance).",
+    "shape": "rectangle",
+    "image": "downloads/K/K-35.png",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-35.svg",
+    "license": "CC BY-SA 4.0",
+    "similar": [
+      "Κ-31",
+      "Κ-32",
+      "Κ-36"
+    ],
+    "svgHint": "Tall upright rectangle (655 x 2385), yellow #FFC500 background, ONE red #CC0000 diagonal stripe near the bottom, descending from left to right (identical geometry to the lowest stripe of K-33/K-34: polygon M0 1692 L655 2054.5 V2289.5 L0 1927 Z).",
+    "sameMeaningAs": [
+      "Κ-33",
+      "Κ-34"
+    ],
+    "imageNote": "PNG thumbnail rendered by Wikimedia from the Commons SVG (https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Traffic_Sign_GR_-_KOK_2009_-_K-35.svg/250px-Traffic_Sign_GR_-_KOK_2009_-_K-35.svg.png); the original SVG download was rate-limited (HTTP 429). Same file and licence as imageSource."
+  },
+  {
+    "code": "Κ-36",
+    "codeLatin": "K-36",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Κίνδυνος λόγω άμεσης γειτονιάς ισόπεδης σιδηροδρομικής διάβασης, χωρίς κινητά φράγματα, μονής σιδηροδρομικής γραμμής ή διάβασης τροχιοδρόμου.",
+    "nameEn": "Danger due to the immediate proximity of a level crossing without movable barriers over a single railway track, or of a tramway crossing.",
+    "explainEl": "Τοποθετείται ακριβώς στη διάβαση (σταυρός του Αγίου Ανδρέα) και δηλώνει μία γραμμή. Σταματήστε αν πλησιάζει συρμός και δώστε του προτεραιότητα.",
+    "explainEn": "Placed right at the crossing (St Andrew's cross), it indicates a single track. Stop if a train is approaching and give it priority.",
+    "shape": "other",
+    "image": "downloads/K/K-36.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-36.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-37",
+      "Κ-32",
+      "Κ-26"
+    ]
+  },
+  {
+    "code": "Κ-37",
+    "codeLatin": "K-37",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Κίνδυνος λόγω άμεσης γειτονίας ισόπεδης σιδηροδρομικής διάβασης, χωρίς κινητά φράγματα, διπλής ή πολλαπλής σιδηροδρομικής γραμμής ή διάβασης τροχιοδρόμου.",
+    "nameEn": "Danger due to the immediate proximity of a level crossing without movable barriers over a double or multiple railway track, or of a tramway crossing.",
+    "explainEl": "Τοποθετείται ακριβώς στη διάβαση (διπλός σταυρός) και δηλώνει δύο ή περισσότερες γραμμές: μετά από ένα τρένο μπορεί να έρχεται και δεύτερο. Σταματήστε και δώστε προτεραιότητα.",
+    "explainEn": "Placed right at the crossing (double cross), it indicates two or more tracks: after one train, a second may be coming. Stop and give priority.",
+    "shape": "other",
+    "image": "downloads/K/K-37.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-37.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-36",
+      "Κ-32"
+    ]
+  },
+  {
+    "code": "Κ-38α",
+    "codeLatin": "K-38a",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνο έρεισμα αριστερά.",
+    "nameEn": "Dangerous verge (shoulder) on the left.",
+    "explainEl": "Η άκρη του δρόμου στα αριστερά είναι επικίνδυνη (μαλακή ή χαμηλότερη). Μην βγαίνετε από το οδόστρωμα προς τα εκεί.",
+    "explainEn": "The roadside on the left is dangerous (soft or lower than the road). Do not drive off the carriageway onto it.",
+    "shape": "triangle",
+    "image": "downloads/K/K-38a.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-38a.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-38δ",
+      "Κ-6α"
+    ]
+  },
+  {
+    "code": "Κ-38δ",
+    "codeLatin": "K-38d",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Επικίνδυνο έρεισμα δεξιά.",
+    "nameEn": "Dangerous verge (shoulder) on the right.",
+    "explainEl": "Η άκρη του δρόμου στα δεξιά είναι επικίνδυνη (μαλακή ή χαμηλότερη). Μην βγαίνετε από το οδόστρωμα προς τα εκεί.",
+    "explainEn": "The roadside on the right is dangerous (soft or lower than the road). Do not drive off the carriageway onto it.",
+    "shape": "triangle",
+    "image": "downloads/K/K-38d.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-38d.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-38α",
+      "Κ-6δ"
+    ]
+  },
+  {
+    "code": "Κ-39",
+    "codeLatin": "K-39",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Συχνή κυκλοφοριακή συμφόρηση.",
+    "nameEn": "Frequent traffic congestion.",
+    "explainEl": "Μπροστά συχνά σχηματίζονται ουρές οχημάτων. Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε πίσω από ακινητοποιημένα οχήματα.",
+    "explainEn": "Queues of vehicles often form ahead. Slow down and be ready to stop behind stationary traffic.",
+    "shape": "triangle",
+    "image": "downloads/K/K-39.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-39.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-24",
+      "Κ-25"
+    ]
+  },
+  {
+    "code": "Κ-40",
+    "codeLatin": "K-40",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Σήραγγα.",
+    "nameEn": "Tunnel.",
+    "explainEl": "Πλησιάζετε σήραγγα. Ανάψτε τα φώτα, κρατήστε απόσταση ασφαλείας και προσέξτε την αλλαγή φωτισμού στην είσοδο.",
+    "explainEn": "You are approaching a tunnel. Switch on your headlights, keep a safe distance and be ready for the change in light at the entrance.",
+    "shape": "triangle",
+    "image": "downloads/K/K-40.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-40.svg",
+    "license": "CC BY-SA 3.0",
+    "similar": [
+      "Κ-39",
+      "Κ-42",
+      "Κ-7"
+    ]
+  },
+  {
+    "code": "Κ-41",
+    "codeLatin": "K-41",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές προσβάσεων ισόπεδων σιδηροδρομικών διαβάσεων ή διαβάσεων τροχιοδρόμου",
+    "nameEl": "Κίνδυνος λόγω ισόπεδης διάβασης τροχιοδρόμου χωρίς κινητά φράγματα.",
+    "nameEn": "Danger due to a level tramway crossing without movable barriers.",
+    "explainEl": "Πλησιάζετε σημείο όπου διασταυρώνεστε με γραμμές τραμ χωρίς μπάρες. Κοιτάξτε προς τις δύο κατευθύνσεις και δώστε προτεραιότητα στο τραμ.",
+    "explainEn": "You are approaching a place where the road crosses tram tracks without barriers. Look both ways and give way to the tram.",
+    "shape": "triangle",
+    "image": "downloads/K/K-41.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_2009_-_K-41.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-32",
+      "Κ-31"
+    ]
+  },
+  {
+    "code": "Κ-42",
+    "codeLatin": "K-42",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω ομίχλης.",
+    "nameEn": "Danger due to fog.",
+    "explainEl": "Στην περιοχή εμφανίζεται συχνά ομίχλη. Μειώστε ταχύτητα, ανάψτε τα κατάλληλα φώτα και αυξήστε την απόσταση από το προπορευόμενο όχημα.",
+    "explainEn": "Fog often occurs here. Slow down, switch on suitable lights and increase the distance from the vehicle in front.",
+    "shape": "triangle",
+    "image": "downloads/K/K-42.svg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_-_K-42.svg",
+    "license": "Public domain",
+    "similar": [
+      "Κ-23",
+      "Κ-12"
+    ]
+  },
+  {
+    "code": "Κ-43",
+    "codeLatin": "K-43",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω παράλληλων διαβάσεων πεζών και ποδηλάτων.",
+    "nameEn": "Danger due to parallel pedestrian and cycle crossings.",
+    "explainEl": "Πλησιάζετε διάβαση όπου πεζοί και ποδηλάτες περνούν σε ξεχωριστές, παράλληλες διαβάσεις. Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε.",
+    "explainEn": "You are approaching a crossing where pedestrians and cyclists cross on separate, parallel crossings. Slow down and be ready to stop.",
+    "shape": "triangle",
+    "image": "downloads/K/K-43.png",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_-_K-43.svg",
+    "license": "CC BY-SA 4.0",
+    "similar": [
+      "Κ-44",
+      "Κ-15",
+      "Κ-17"
+    ],
+    "svgHint": "Red-bordered warning triangle, yellow background: a walking pedestrian and a bicycle side by side, showing two separate parallel crossings.",
+    "imageNote": "PNG thumbnail rendered by Wikimedia from the Commons SVG (https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Traffic_Sign_GR_-_KOK_-_K-43.svg/500px-Traffic_Sign_GR_-_KOK_-_K-43.svg.png); the original SVG download was rate-limited (HTTP 429). Same file and licence as imageSource."
+  },
+  {
+    "code": "Κ-44",
+    "codeLatin": "K-44",
+    "official": true,
+    "group": "danger",
+    "sectionEl": "Πινακίδες αναγγελίας κινδύνου (Κ) – δηλωτικές επικίνδυνων θέσεων",
+    "nameEl": "Κίνδυνος λόγω κοινής διάβασης πεζών και ποδηλάτων.",
+    "nameEn": "Danger due to a shared pedestrian and cycle crossing.",
+    "explainEl": "Πλησιάζετε διάβαση που χρησιμοποιούν από κοινού πεζοί και ποδηλάτες. Μειώστε ταχύτητα και να είστε έτοιμοι να σταματήσετε.",
+    "explainEn": "You are approaching a crossing shared by pedestrians and cyclists. Slow down and be ready to stop.",
+    "shape": "triangle",
+    "image": "downloads/K/K-44.png",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Traffic_Sign_GR_-_KOK_-_K-44.svg",
+    "license": "CC BY-SA 4.0",
+    "similar": [
+      "Κ-43",
+      "Κ-15",
+      "Κ-17"
+    ],
+    "svgHint": "Red-bordered warning triangle, yellow background: a pedestrian and a bicycle sharing one crossing.",
+    "imageNote": "PNG thumbnail rendered by Wikimedia from the Commons SVG (https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Traffic_Sign_GR_-_KOK_-_K-44.svg/500px-Traffic_Sign_GR_-_KOK_-_K-44.svg.png); the original SVG download was rate-limited (HTTP 429). Same file and licence as imageSource."
+  }
+]
